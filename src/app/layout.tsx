@@ -16,9 +16,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "lifeIsGood",
+  title: "FinQuest",
   description: "Financial literacy for Grades 11–12, learned by doing.",
-  appleWebApp: { capable: true, title: "lifeIsGood", statusBarStyle: "black-translucent" },
+  appleWebApp: { capable: true, title: "FinQuest", statusBarStyle: "black-translucent" },
   icons: { apple: "/icons/icon-192.png" },
 };
 

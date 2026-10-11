@@ -13,7 +13,7 @@ export default async function AppLayout({ children }: { children: React.ReactNod
   const profile = await getCurrentProfile();
   if (!profile) redirect("/login");
   // Proxy overwrites this header from the actual URL; supplied headers cannot bypass it.
-  if (!profile.onboardedAt && (await headers()).get("x-lifeisgood-placement") !== "1") redirect("/onboarding");
+  if (!profile.onboardedAt && (await headers()).get("x-finquest-placement") !== "1") redirect("/onboarding");
   // Best-effort: a failed bonus must never take every page down with it.
   await recordActivity({
     source: "auth", kind: "daily_login", xp: 0, coins: 10,

@@ -1,5 +1,5 @@
 # UI.md — Master UI/UX Spatial & Component Specification
-**Application:** lifeIsGood (Gamified Financial Literacy Platform for High Schoolers)  
+**Application:** FinQuest (Gamified Financial Literacy Platform for High Schoolers)  
 **Tech Stack:** Next.js 16 (App Router), React 19, Tailwind CSS v4, Supabase + PostgreSQL  
 **Audience:** Grades 11–12 Students (Age 16–18, Mobile/Web Native)
 
@@ -47,7 +47,7 @@ All agents must adhere to the standard screen structure below. Every page inside
 ## 2. Global Component Specifications
 
 ### 2.1 Top Header Bar (`src/shared/ui/Header.tsx`)
-* **Left Anchor:** lifeIsGood logo with the student's title badge (e.g. "Silver 2") or a `[ ← Back ]` button on sub-pages (`/forum/friends`).
+* **Left Anchor:** FinQuest logo with the student's title badge (e.g. "Silver 2") or a `[ ← Back ]` button on sub-pages (`/forum/friends`).
 * **Center/Right Stat Pills:**
   * **Streak Pill:** Flame icon + `"X-Day Streak"`.
   * **Coins Pill:** Coin icon + the student's own balance (e.g., `"325"`). Coin rules: `QUIZ.md` §6.
@@ -79,7 +79,7 @@ All agents must adhere to the standard screen structure below. Every page inside
 | [Top Brand Header]                                                    |
 |                                                                       |
 |                     +-------------------------------+                 |
-|                     |     WELCOME TO LIFEISGOOD     |                 |
+|                     |     WELCOME TO FINQUEST     |                 |
 |                     | Level Up Your Financial IQ 🚀 |                 |
 |                     +-------------------------------+                 |
 |                     |  [  Sign In* ]   [  Sign Up  ] |  <- Pill Switch|

@@ -1,4 +1,4 @@
-# lifeIsGood
+# FinQuest
 
 Financial literacy for Grades 11–12 students, learned by doing — reels, duels, manga lessons and a forum. Built for the Vanguard problem statement (`Vanguard-ps.pdf`) at Megathon 2026.
 

@@ -1,6 +1,6 @@
 # IMPLEMENTATION.md — build plan for parallel agents
 
-How to build lifeIsGood with as many subagents running at once as possible without them drifting apart. Read this with `docs/TEAM.md` (ownership), the feature `README.md`s (scope) and `src/features/play/docs/*.md` (quiz flow and coins, scoring, rating, questions, recommendation). `QUIZ.md` is the single source of truth for everything about coins.
+How to build FinQuest with as many subagents running at once as possible without them drifting apart. Read this with `docs/TEAM.md` (ownership), the feature `README.md`s (scope) and `src/features/play/docs/*.md` (quiz flow and coins, scoring, rating, questions, recommendation). `QUIZ.md` is the single source of truth for everything about coins.
 
 Status on 2026-10-11: Waves 0, 1 and 2 are implemented. Wave 2 was verified on 2026-10-11 (§3, "Wave 2 verification"): `npm run build`, `tsc`, full lint and 48 tests pass; the review found one critical and several high-severity bugs, listed as Wave 3a fixes. A second review the same day confirmed every listed row and added W3-S7–S8, W3-P8–P12, W3-L3 and W3-F4. Live Supabase and browser checks are still pending. Wave 3a is implemented and integrity-checked (§3, "Wave 3a integrity check").
 
@@ -20,7 +20,7 @@ Status on 2026-10-11: Waves 0, 1 and 2 are implemented. Wave 2 was verified on 2
 | D6 | Locked chapters | Never locked. The galaxy shows "Recommended for you"; bubble radius = `scoreItem` | RECOMMENDATION.md §5 |
 | D7 | Reel quiz | After every 5 reels (skips don't count), a 3-question quiz on those reels; scrolling locked until done, and it returns if the student leaves. Replaces the per-reel check. The 30-reel stop card stays | QUESTIONS.md §6, RECOMMENDATION.md §4 |
 | D8 | Owners | TEAM.md | |
-| D9 | Name | lifeIsGood (M1 says FinQuest) | |
+| D9 | Name | FinQuest | |
 | D10 | Node | Node 22+. Local machine has 18.19; upgrade before Wave 0 (Next 16 and `node --test` with type stripping need it) | README |
 | D11 | Duels | Fastest finger, 30 s rounds: the first correct answer to reach the server takes the round (100 + speed bonus); a wrong answer freezes you for the round. Server decides order | SCORE.md §4 |
 | D12 | Quiz timeout | Counts as wrong; the reattempt is still offered | QUIZ.md §3 |
@@ -384,7 +384,7 @@ Built in one pass across all owners' areas (at Sai Abhinav's request), except th
 Paste this block into every subagent prompt, plus the module ID and its row from §1.
 
 ```
-You are building module <ID> of lifeIsGood. Before writing code read:
+You are building module <ID> of FinQuest. Before writing code read:
   CLAUDE.md, AGENTS.md, docs/TEAM.md, IMPLEMENTATION.md §0, §4 and §6,
   src/features/<feature>/README.md, and any play/docs/*.md named in your row
   (QUIZ.md for anything touching coins or the quiz flow).

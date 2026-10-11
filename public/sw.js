@@ -1,6 +1,6 @@
 // Offline shell (Wave 3b). Caches only the offline page and Next's hashed static files;
 // pages and data always come from the network, so XP, coins and duels are never stale.
-const CACHE = "lifeisgood-shell-v1";
+const CACHE = "finquest-shell-v1";
 const OFFLINE = "/offline.html";
 const MAX_STATIC = 150; // old builds' chunks are dropped oldest-first, for low-storage phones
 

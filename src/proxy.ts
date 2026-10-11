@@ -6,7 +6,7 @@ import { isSupabaseConfigured } from "@/shared/supabase/config";
 export async function proxy(request: NextRequest) {
   const placement = isPlacementRoute(request.nextUrl.pathname, request.nextUrl.searchParams.get("context"));
   const requestHeaders = new Headers(request.headers);
-  requestHeaders.set("x-lifeisgood-placement", placement ? "1" : "0");
+  requestHeaders.set("x-finquest-placement", placement ? "1" : "0");
   const next = () => NextResponse.next({ request: { headers: requestHeaders } });
   if (!isSupabaseConfigured()) return next();
   let response = next();

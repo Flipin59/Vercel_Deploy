@@ -33,7 +33,7 @@ export function Header({
         </Link>
       ) : (
         <Link href="/dashboard" className="flex items-center gap-2 font-bold text-brand">
-          lifeIsGood {title && <TitleBadge label={title} />}
+          FinQuest {title && <TitleBadge label={title} />}
         </Link>
       )}
       {streakDays !== undefined && <span className="ml-auto text-sm" title={t("header.streak")}>

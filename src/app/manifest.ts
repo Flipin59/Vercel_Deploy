@@ -1,10 +1,10 @@
 import type { MetadataRoute } from "next";
 
-// Web app manifest (Wave 3b): lets phones install lifeIsGood to the home screen.
+// Web app manifest (Wave 3b): lets phones install FinQuest to the home screen.
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "lifeIsGood",
-    short_name: "lifeIsGood",
+    name: "FinQuest",
+    short_name: "FinQuest",
     description: "Financial literacy for Grades 11–12, learned by doing.",
     start_url: "/dashboard",
     display: "standalone",

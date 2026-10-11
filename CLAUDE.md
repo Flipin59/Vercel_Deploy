@@ -1,6 +1,6 @@
 @AGENTS.md
 
-# lifeIsGood
+# FinQuest
 
 Financial-literacy web app for Grades 11–12 students (Vanguard problem statement, `Vanguard-ps.pdf`). Five people work in parallel, each in their own feature directory.
 
