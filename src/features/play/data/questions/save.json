@@ -7,7 +7,7 @@
     ],
     "tier": "bronze",
     "type": "mcq",
-    "status": "live",
+    "status": "retired",
     "source": "ai",
     "reel_id": "save-emergency-fund",
     "content": {
@@ -707,7 +707,7 @@
     ],
     "tier": "silver",
     "type": "mcq",
-    "status": "live",
+    "status": "retired",
     "source": "ai",
     "reel_id": "save-compounding",
     "content": {
@@ -1545,7 +1545,7 @@
     ],
     "tier": "gold",
     "type": "mcq",
-    "status": "live",
+    "status": "retired",
     "source": "ai",
     "reel_id": "save-inflation",
     "chapter_slug": "save-magic-of-compounding",

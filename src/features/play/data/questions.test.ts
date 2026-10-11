@@ -24,7 +24,7 @@ test("every question is well-formed", () => {
     assert.equal(q.type, "mcq", `type ${at}`);
     assert.ok(["draft", "live", "retired"].includes(q.status), `status ${at}`);
     assert.ok(["human", "ai"].includes(q.source), `source ${at}`);
-    if (q.reel_id) assert.ok(reelIds.includes(q.reel_id), `reel ${at}`);
+    if (q.reel_id && q.status !== "retired") assert.ok(reelIds.includes(q.reel_id), `reel ${at}`);
     if (q.chapter_slug) assert.ok(chapterSlugs.includes(q.chapter_slug), `chapter ${at}`);
     const en = q.content.en;
     assert.ok(en?.prompt && en.explanation, `text ${at}`);
@@ -33,8 +33,9 @@ test("every question is well-formed", () => {
   }
 });
 
-test("each reel has exactly one question and each chapter 5–8", () => {
-  for (const id of reelIds) assert.equal(questions.filter((q) => q.reel_id === id).length, 1, id);
+test("each reel has at most one linked question and each chapter 5–8", () => {
+  // Reel quizzes top up from the reel's tags, so a reel without its own question still works.
+  for (const id of reelIds) assert.ok(questions.filter((q) => q.reel_id === id && q.status !== "retired").length <= 1, id);
   for (const slug of chapterSlugs) {
     const n = questions.filter((q) => q.chapter_slug === slug).length;
     assert.ok(n >= 5 && n <= 8, `${slug}: ${n}`);

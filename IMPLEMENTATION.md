@@ -471,3 +471,7 @@ Daily soft cap (SCORE.md §3) and pair cap (§4) are computed on the server from
 - Several accounts run by one person (alt farming of duels, `answer_accepted`). Mitigated by email sign-up and the pair cap. Revisit with NGO cohort codes.
 - Reel watch time and the in-window part of quiz `timeMs` are client-reported and can be shaded, within the bounds above.
 - In fastest-finger duels a player on a slower network is at a disadvantage in close rounds. Accepted with the D11 decision.
+
+### Reels from Supabase Storage (2026-10-11)
+
+The reels tab now plays the real clips from the public `reels` Storage bucket instead of the placeholders: 8 English (`English/`) and 6 Hindi (`Hindi/`), three of which are Hindi versions of English reels (same id). Clips are no longer committed (`public/media/reels/**/*.mp4` is ignored). Migrations `20261011220000_reels_bucket_clips` (reels_items rows) and `20261011220100_play_retire_placeholder_reel_questions` (the 12 questions quoting the placeholder scripts). **For the Reels owner:** titles, captions, hashtags, tags, levels and chapter links were set from the file names, not by watching the clips — check them; write one question per new reel (QUESTIONS.md §6); there are no Safety-pillar reels and no Telugu clips yet (Telugu students get the English ones).

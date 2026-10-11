@@ -8,7 +8,7 @@
     ],
     "tier": "bronze",
     "type": "mcq",
-    "status": "live",
+    "status": "retired",
     "source": "ai",
     "reel_id": "safety-never-share-otp",
     "content": {
@@ -56,7 +56,7 @@
     ],
     "tier": "bronze",
     "type": "mcq",
-    "status": "live",
+    "status": "retired",
     "source": "ai",
     "reel_id": "safety-spot-the-scam",
     "content": {
@@ -710,7 +710,7 @@
     ],
     "tier": "silver",
     "type": "mcq",
-    "status": "live",
+    "status": "retired",
     "source": "ai",
     "reel_id": "safety-money-mule",
     "content": {

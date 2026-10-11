@@ -124,7 +124,7 @@ Relax the rules in this order until 10 questions are found (the engine relaxes s
 
 - **Chapter check:** a chapter links to 5–8 questions. Each attempt shows 5, preferring questions this user hasn't seen, easiest first. Questions answered correctly in the last 30 days give no XP but can still be shown.
 - **Reel quiz:** after every 5 reels watched (a view of 3 s or more; skips don't count), 3 questions from the questions linked to those 5 reels, in the user's language. Prefer reels the student completed and questions they haven't seen, easiest first. If fewer than 3 are available, fill the rest with the practice rules (section 4) restricted to those reels' tags (from the reel manifest, so a reel with no linked questions still gets a quiz). A quiz with no questions isn't saved as an attempt, so it never clears the reel gate. Reels' `getCompletedReelIds` says which reels were completed.
-- Each reel's linked question must be answerable from the reel alone.
+- Each reel's linked question must be answerable from the reel alone. A reel has at most one; the real clips that replaced the placeholder reels (2026-10-11) have none yet, so their quizzes come from the top-up, and the 12 questions written for the placeholder scripts are `retired`.
 
 ## 7. Calibration
 

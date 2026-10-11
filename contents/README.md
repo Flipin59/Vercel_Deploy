@@ -4,7 +4,7 @@ Raw learning material. No code here.
 
 | Folder | What goes in | Owner |
 | --- | --- | --- |
-| `reels/` | Reel scripts and the placeholder-clip generator. The clips themselves are served from `public/media/reels/` (video needs HTTP range requests) | Nagamalla Sai Abhinav |
+| `reels/` | Reel scripts and the placeholder-clip generator. The clips themselves live in the public `reels` Supabase Storage bucket (`English/`, `Hindi/` folders), never in git | Nagamalla Sai Abhinav |
 | `pdfs/` | Manga-style lesson PDFs | Saikiran S |
 | `audio/` | Voice-overs, sound effects, music — one subfolder per feature (`audio/reels/`, `audio/play/`, ...) | whoever owns that feature |
 

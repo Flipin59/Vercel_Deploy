@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# Writes one placeholder clip per manifest row to public/media/reels/<file>:
+# Writes one placeholder clip per manifest row to public/media/reels/<file>, for running
+# without Supabase (real clips are in the `reels` Storage bucket):
 # 480x854, 7 s, H.264 baseline, no audio, title + first hashtag on a pillar colour.
 # Real clips replace these under the same name. Needs ffmpeg (with drawtext) and jq.
 # Usage: contents/reels/make-placeholders.sh [--force]   (existing files are kept)
@@ -13,6 +14,7 @@ trap 'rm -rf "$tmp"' EXIT
 jq -r '.[] | [.file, .pillar, .title, .hashtags[0]] | @tsv' src/features/reels/data/reels.json |
 while IFS=$'\t' read -r file pillar title tag; do
   [[ -e "$out/$file" && "${1:-}" != "--force" ]] && continue
+  mkdir -p "$(dirname "$out/$file")"
   case "$pillar" in
     budget) color=0x1e6091 ;; save) color=0x2a9d8f ;; invest) color=0x7b2cbf ;; *) color=0xc1121f ;;
   esac

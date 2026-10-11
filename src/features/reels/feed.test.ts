@@ -42,8 +42,9 @@ test("manifest rows are valid", () => {
     assert.ok((PILLARS as readonly string[]).includes(r.pillar), `${r.id} pillar`);
     assert.ok((LANGUAGES as readonly string[]).includes(r.language), `${r.id} language`);
     assert.ok(r.id.startsWith(`${r.pillar}-`), `${r.id} id starts with its pillar`);
-    // Its own clip, or the English one with translated captions.
-    assert.ok([`${r.id}.${r.language}.mp4`, `${r.id}.en.mp4`].includes(r.file), `${r.id} file`);
+    // A clip in the bucket's folder for its language, or an English clip under translated captions.
+    const folder = { en: "English", hi: "Hindi", te: "Telugu" }[r.language as "en" | "hi" | "te"];
+    assert.ok(/^[A-Za-z]+\/[^/]+\.mp4$/.test(r.file) && [folder, "English"].includes(r.file.split("/")[0]), `${r.id} file`);
     assert.ok(r.tags.length >= 1 && r.tags.length <= 3, `${r.id} has 1–3 tags`);
     const allTags = Object.values(TAGS).flat() as string[];
     for (const t of r.tags) assert.ok(allTags.includes(t), `${r.id} tag ${t}`);

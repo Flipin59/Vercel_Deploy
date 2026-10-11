@@ -6,7 +6,7 @@ import rows from "./data/reels.json";
 export type Reel = {
   id: string;
   language: Language;
-  file: string; // clip in public/media/reels; te/hi rows may reuse the English clip
+  file: string; // path in the `reels` Storage bucket: "<English|Hindi|Telugu>/<name>.mp4"
   title: string;
   captions: string;
   hashtags: string[];

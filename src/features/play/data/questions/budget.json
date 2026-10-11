@@ -8,7 +8,7 @@
     ],
     "tier": "bronze",
     "type": "mcq",
-    "status": "live",
+    "status": "retired",
     "source": "ai",
     "reel_id": "budget-needs-vs-wants",
     "content": {
@@ -56,7 +56,7 @@
     ],
     "tier": "bronze",
     "type": "mcq",
-    "status": "live",
+    "status": "retired",
     "source": "ai",
     "reel_id": "budget-50-30-20",
     "content": {
@@ -103,7 +103,7 @@
     ],
     "tier": "bronze",
     "type": "mcq",
-    "status": "live",
+    "status": "retired",
     "source": "ai",
     "reel_id": "budget-chai-math",
     "content": {
@@ -711,7 +711,7 @@
     ],
     "tier": "silver",
     "type": "mcq",
-    "status": "live",
+    "status": "retired",
     "source": "ai",
     "reel_id": "budget-no-cost-emi",
     "content": {
@@ -758,7 +758,7 @@
     ],
     "tier": "silver",
     "type": "mcq",
-    "status": "live",
+    "status": "retired",
     "source": "ai",
     "reel_id": "budget-minimum-due",
     "content": {

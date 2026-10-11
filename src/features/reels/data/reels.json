@@ -2,709 +2,278 @@
   {
     "id": "budget-needs-vs-wants",
     "language": "en",
-    "file": "budget-needs-vs-wants.en.mp4",
-    "title": "Peter Learns Needs vs Wants",
-    "captions": "Needs first. Wants get the leftovers.",
+    "file": "English/budget_planning_needs_wants_reel2.mp4",
+    "title": "Needs vs Wants",
+    "captions": "Pay for needs first. Wants get what's left.",
     "hashtags": [
       "NeedVsWant",
-      "PocketMoney",
-      "Budgeting"
+      "Budgeting",
+      "PocketMoney"
     ],
     "pillar": "budget",
     "tags": [
       "needs-vs-wants",
       "pocket-money"
     ],
-    "level": 2,
+    "level": 1,
     "chapter": "budget-needs-vs-wants",
     "createdAt": "2026-10-11T00:00:00Z"
   },
   {
-    "id": "budget-50-30-20",
+    "id": "save-banking-basics",
     "language": "en",
-    "file": "budget-50-30-20.en.mp4",
-    "title": "Stewie Explains the 50-30-20 Rule",
-    "captions": "A budget isn't a cage. It's a plan for what you actually want.",
+    "file": "English/banking.mp4",
+    "title": "Banking Basics",
+    "captions": "A bank account keeps your money safe and lets it earn a little.",
     "hashtags": [
-      "503020Rule",
-      "BudgetingTips",
-      "OpportunityCost"
+      "Banking",
+      "SavingsAccount",
+      "MoneyBasics"
     ],
-    "pillar": "budget",
+    "pillar": "save",
     "tags": [
-      "50-30-20",
-      "pocket-money"
+      "bank-accounts"
     ],
-    "level": 14,
-    "chapter": "budget-pocket-money-plan",
+    "level": 3,
+    "chapter": "save-emergency-fund",
     "createdAt": "2026-10-11T00:00:00Z"
   },
   {
-    "id": "budget-no-cost-emi",
+    "id": "budget-assets-liabilities",
     "language": "en",
-    "file": "budget-no-cost-emi.en.mp4",
-    "title": "Peter Falls for \"No-Cost EMI\"",
-    "captions": "If you can't afford it twice, you can't afford it on EMI.",
+    "file": "English/assets_liabilities.mp4",
+    "title": "Assets vs Liabilities",
+    "captions": "Assets put money in your pocket. Liabilities take it out.",
     "hashtags": [
-      "NoCostEMI",
-      "BuyNowPayLater",
-      "HiddenCharges"
-    ],
-    "pillar": "budget",
-    "tags": [
-      "bills-and-emi"
-    ],
-    "level": 18,
-    "chapter": null,
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "budget-chai-math",
-    "language": "en",
-    "file": "budget-chai-math.en.mp4",
-    "title": "Peter's Chai Math",
-    "captions": "Small leaks sink big ships. Save first, spend what's left.",
-    "hashtags": [
-      "ChaiMath",
-      "SmallSpends",
-      "SavingHabits"
+      "Assets",
+      "Liabilities",
+      "NetWorth"
     ],
     "pillar": "budget",
     "tags": [
       "tracking-spending"
     ],
-    "level": 8,
+    "level": 6,
     "chapter": "budget-pocket-money-plan",
     "createdAt": "2026-10-11T00:00:00Z"
   },
   {
-    "id": "save-emergency-fund",
+    "id": "budget-cash-flow",
     "language": "en",
-    "file": "save-emergency-fund.en.mp4",
-    "title": "Peter Breaks His Phone",
-    "captions": "You can't predict emergencies. You can be ready for them.",
+    "file": "English/cashflow_financial_statement.mp4",
+    "title": "Cash Flow and Statements",
+    "captions": "Track what comes in and what goes out, and you know where your money went.",
     "hashtags": [
-      "EmergencyFund",
-      "RainyDayFund",
-      "SavingsTips"
-    ],
-    "pillar": "save",
-    "tags": [
-      "emergency-fund"
-    ],
-    "level": 6,
-    "chapter": "save-emergency-fund",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "budget-minimum-due",
-    "language": "en",
-    "file": "budget-minimum-due.en.mp4",
-    "title": "Peter Pays the \"Minimum Due\"",
-    "captions": "Minimum due = maximum pain. Pay in full.",
-    "hashtags": [
-      "MinimumDue",
-      "DebtTrap",
-      "CompoundInterest"
+      "CashFlow",
+      "TrackYourMoney",
+      "Budgeting"
     ],
     "pillar": "budget",
     "tags": [
-      "bills-and-emi",
-      "compound-interest"
+      "tracking-spending"
     ],
-    "level": 26,
-    "chapter": null,
+    "level": 9,
+    "chapter": "budget-pocket-money-plan",
     "createdAt": "2026-10-11T00:00:00Z"
   },
   {
-    "id": "save-compounding",
+    "id": "save-inflation",
     "language": "en",
-    "file": "save-compounding.en.mp4",
-    "title": "Rick Explains Compounding",
-    "captions": "Time in > timing. Start early.",
+    "file": "English/pricing_inflation_reel1.mp4",
+    "title": "Prices and Inflation",
+    "captions": "When prices rise, the same money buys less.",
     "hashtags": [
-      "Compounding",
-      "StartEarly",
-      "PowerOfCompounding"
+      "Inflation",
+      "PurchasingPower",
+      "MoneyMath"
     ],
     "pillar": "save",
     "tags": [
-      "compound-interest",
-      "time-horizon"
+      "inflation"
     ],
-    "level": 30,
-    "chapter": "save-magic-of-compounding",
+    "level": 12,
+    "chapter": "invest-inflation",
     "createdAt": "2026-10-11T00:00:00Z"
   },
   {
-    "id": "invest-risk-and-diversification",
+    "id": "invest-stocks-bonds-etfs",
     "language": "en",
-    "file": "invest-risk-and-diversification.en.mp4",
-    "title": "Rick Explains Risk & Diversification",
+    "file": "English/ETF_stock_bonds.mp4",
+    "title": "Stocks, Bonds and ETFs",
+    "captions": "A share is part of a company, a bond is a loan, an ETF is a basket of both.",
+    "hashtags": [
+      "Stocks",
+      "Bonds",
+      "ETF"
+    ],
+    "pillar": "invest",
+    "tags": [
+      "stocks-basics",
+      "mutual-fund-basics",
+      "risk-and-return"
+    ],
+    "level": 15,
+    "chapter": "invest-risk-and-return",
+    "createdAt": "2026-10-11T00:00:00Z"
+  },
+  {
+    "id": "invest-diversification",
+    "language": "en",
+    "file": "English/diversification_investment.mp4",
+    "title": "Diversification",
     "captions": "Don't put all your eggs in one basket.",
     "hashtags": [
-      "RiskAndReturn",
       "Diversification",
+      "RiskAndReturn",
       "InvestingBasics"
     ],
     "pillar": "invest",
     "tags": [
-      "risk-and-return",
-      "diversification"
-    ],
-    "level": 50,
-    "chapter": "invest-risk-and-return",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "save-inflation",
-    "language": "en",
-    "file": "save-inflation.en.mp4",
-    "title": "Rick Explains Inflation",
-    "captions": "Money that sits still slowly loses value.",
-    "hashtags": [
-      "Inflation",
-      "RealReturn",
-      "RuleOf72"
-    ],
-    "pillar": "save",
-    "tags": [
-      "inflation"
-    ],
-    "level": 34,
-    "chapter": "save-magic-of-compounding",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "safety-never-share-otp",
-    "language": "en",
-    "file": "safety-never-share-otp.en.mp4",
-    "title": "Morty Almost Shares His OTP",
-    "captions": "Your OTP is your house key. Never hand it over.",
-    "hashtags": [
-      "OTPScam",
-      "UPIFraud",
-      "DontShareOTP"
-    ],
-    "pillar": "safety",
-    "tags": [
-      "otp-and-pin",
-      "upi-fraud"
-    ],
-    "level": 1,
-    "chapter": "safety-upi-and-otp",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "safety-spot-the-scam",
-    "language": "en",
-    "file": "safety-spot-the-scam.en.mp4",
-    "title": "Spot the Scam with Rick",
-    "captions": "Urgency + guarantee + pay first = SCAM.",
-    "hashtags": [
-      "SpotTheScam",
-      "TooGoodToBeTrue",
-      "LoanAppScam"
-    ],
-    "pillar": "safety",
-    "tags": [
-      "phishing",
-      "fake-loan-apps",
-      "ponzi-and-chit-scams"
-    ],
-    "level": 12,
-    "chapter": "safety-spot-the-scam",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "safety-money-mule",
-    "language": "en",
-    "file": "safety-money-mule.en.mp4",
-    "title": "Morty Becomes a Money Mule",
-    "captions": "If they pay you to use your account, YOU are the one who gets caught.",
-    "hashtags": [
-      "MoneyMule",
-      "BankAccountScam",
-      "CyberCrime"
-    ],
-    "pillar": "safety",
-    "tags": [
-      "upi-fraud"
-    ],
-    "level": 22,
-    "chapter": "safety-spot-the-scam",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "budget-needs-vs-wants",
-    "language": "te",
-    "file": "budget-needs-vs-wants.en.mp4",
-    "title": "Peter Learns Needs vs Wants",
-    "captions": "ముందు అవసరాలు. మిగిలినదే కోరికలకు.",
-    "hashtags": [
-      "NeedVsWant",
-      "PocketMoney",
-      "Budgeting"
-    ],
-    "pillar": "budget",
-    "tags": [
-      "needs-vs-wants",
-      "pocket-money"
-    ],
-    "level": 2,
-    "chapter": "budget-needs-vs-wants",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "budget-50-30-20",
-    "language": "te",
-    "file": "budget-50-30-20.en.mp4",
-    "title": "Stewie Explains the 50-30-20 Rule",
-    "captions": "బడ్జెట్ అనేది ఒక పంజరం కాదు. అది మీకు నిజంగా ఏమి కావాలో దాని కోసం వేసుకునే ఒక ప్రణాళిక.",
-    "hashtags": [
-      "503020Rule",
-      "BudgetingTips",
-      "OpportunityCost"
-    ],
-    "pillar": "budget",
-    "tags": [
-      "50-30-20",
-      "pocket-money"
-    ],
-    "level": 14,
-    "chapter": "budget-pocket-money-plan",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "budget-no-cost-emi",
-    "language": "te",
-    "file": "budget-no-cost-emi.en.mp4",
-    "title": "Peter Falls for \"No-Cost EMI\"",
-    "captions": "మీరు దాన్ని రెండుసార్లు భరించలేకపోతే, EMIలో కూడా భరించలేరు.",
-    "hashtags": [
-      "NoCostEMI",
-      "BuyNowPayLater",
-      "HiddenCharges"
-    ],
-    "pillar": "budget",
-    "tags": [
-      "bills-and-emi"
+      "diversification",
+      "risk-and-return"
     ],
     "level": 18,
-    "chapter": null,
+    "chapter": "invest-diversification",
     "createdAt": "2026-10-11T00:00:00Z"
   },
   {
-    "id": "budget-chai-math",
-    "language": "te",
-    "file": "budget-chai-math.en.mp4",
-    "title": "Peter's Chai Math",
-    "captions": "చిన్న లీకులు పెద్ద ఓడలను ముంచుతాయి. ముందు పొదుపు చేయండి, మిగిలినది ఖర్చు పెట్టండి.",
+    "id": "invest-index-funds",
+    "language": "en",
+    "file": "English/investment_index funding.mp4",
+    "title": "Index Funds",
+    "captions": "An index fund buys a little of every company in an index, so you don't have to pick.",
     "hashtags": [
-      "ChaiMath",
-      "SmallSpends",
-      "SavingHabits"
+      "IndexFunds",
+      "MutualFunds",
+      "InvestingBasics"
     ],
-    "pillar": "budget",
+    "pillar": "invest",
     "tags": [
-      "tracking-spending"
+      "mutual-fund-basics",
+      "diversification"
     ],
-    "level": 8,
-    "chapter": "budget-pocket-money-plan",
+    "level": 20,
+    "chapter": "invest-diversification",
     "createdAt": "2026-10-11T00:00:00Z"
   },
   {
-    "id": "save-emergency-fund",
-    "language": "te",
-    "file": "save-emergency-fund.en.mp4",
-    "title": "Peter Breaks His Phone",
-    "captions": "మీరు అత్యవసర పరిస్థితులను ఊహించలేరు. వాటికి సిద్ధంగా ఉండగలరు.",
+    "id": "save-banking-basics",
+    "language": "hi",
+    "file": "Hindi/banking.mp4",
+    "title": "बैंकिंग की बुनियादी बातें",
+    "captions": "बैंक खाता आपके पैसे को सुरक्षित रखता है और उस पर थोड़ा ब्याज भी देता है।",
     "hashtags": [
-      "EmergencyFund",
-      "RainyDayFund",
-      "SavingsTips"
+      "Banking",
+      "SavingsAccount",
+      "MoneyBasics"
     ],
     "pillar": "save",
     "tags": [
-      "emergency-fund"
+      "bank-accounts"
     ],
-    "level": 6,
+    "level": 3,
     "chapter": "save-emergency-fund",
     "createdAt": "2026-10-11T00:00:00Z"
   },
   {
-    "id": "budget-minimum-due",
-    "language": "te",
-    "file": "budget-minimum-due.en.mp4",
-    "title": "Peter Pays the \"Minimum Due\"",
-    "captions": "కనీస చెల్లింపు = గరిష్ట నష్టం. పూర్తి మొత్తాన్ని చెల్లించండి.",
+    "id": "save-bank-statements",
+    "language": "hi",
+    "file": "Hindi/banking_statements.mp4",
+    "title": "बैंक स्टेटमेंट कैसे पढ़ें",
+    "captions": "हर महीने अपना बैंक स्टेटमेंट देखें: पता चलेगा पैसा कहाँ गया।",
     "hashtags": [
-      "MinimumDue",
-      "DebtTrap",
-      "CompoundInterest"
+      "BankStatement",
+      "TrackYourMoney",
+      "Banking"
+    ],
+    "pillar": "save",
+    "tags": [
+      "bank-accounts",
+      "tracking-spending"
+    ],
+    "level": 7,
+    "chapter": "budget-pocket-money-plan",
+    "createdAt": "2026-10-11T00:00:00Z"
+  },
+  {
+    "id": "budget-emi-needs-wants",
+    "language": "hi",
+    "file": "Hindi/emi_needsvswants_hindi.mp4",
+    "title": "EMI, ज़रूरतें और चाहतें",
+    "captions": "EMI पर खरीदने से पहले पूछें: यह ज़रूरत है या चाहत?",
+    "hashtags": [
+      "EMI",
+      "NeedVsWant",
+      "Budgeting"
+    ],
+    "pillar": "budget",
+    "tags": [
+      "bills-and-emi",
+      "needs-vs-wants"
+    ],
+    "level": 10,
+    "chapter": "budget-no-cost-emi",
+    "createdAt": "2026-10-11T00:00:00Z"
+  },
+  {
+    "id": "budget-credit-card-score",
+    "language": "hi",
+    "file": "Hindi/creditcard_creditscore_hindi.mp4",
+    "title": "क्रेडिट कार्ड और क्रेडिट स्कोर",
+    "captions": "पूरा बिल समय पर चुकाएँ: इसी से अच्छा क्रेडिट स्कोर बनता है।",
+    "hashtags": [
+      "CreditCard",
+      "CreditScore",
+      "MinimumDue"
     ],
     "pillar": "budget",
     "tags": [
       "bills-and-emi",
       "compound-interest"
     ],
-    "level": 26,
-    "chapter": null,
+    "level": 14,
+    "chapter": "save-credit-card-trap",
     "createdAt": "2026-10-11T00:00:00Z"
   },
   {
-    "id": "save-compounding",
-    "language": "te",
-    "file": "save-compounding.en.mp4",
-    "title": "Rick Explains Compounding",
-    "captions": "ఎక్కువ కాలం > సరైన సమయం. ముందుగానే మొదలుపెట్టండి.",
+    "id": "invest-stocks-bonds-etfs",
+    "language": "hi",
+    "file": "Hindi/SHare_ETF_bonds.mp4",
+    "title": "शेयर, बॉन्ड और ETF",
+    "captions": "शेयर यानी कंपनी का हिस्सा, बॉन्ड यानी कर्ज़, ETF यानी दोनों की टोकरी।",
     "hashtags": [
-      "Compounding",
-      "StartEarly",
-      "PowerOfCompounding"
-    ],
-    "pillar": "save",
-    "tags": [
-      "compound-interest",
-      "time-horizon"
-    ],
-    "level": 30,
-    "chapter": "save-magic-of-compounding",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "invest-risk-and-diversification",
-    "language": "te",
-    "file": "invest-risk-and-diversification.en.mp4",
-    "title": "Rick Explains Risk & Diversification",
-    "captions": "మీ గుడ్లన్నీ ఒకే బుట్టలో పెట్టవద్దు.",
-    "hashtags": [
-      "RiskAndReturn",
-      "Diversification",
-      "InvestingBasics"
+      "Stocks",
+      "Bonds",
+      "ETF"
     ],
     "pillar": "invest",
     "tags": [
-      "risk-and-return",
-      "diversification"
+      "stocks-basics",
+      "mutual-fund-basics",
+      "risk-and-return"
     ],
-    "level": 50,
+    "level": 15,
     "chapter": "invest-risk-and-return",
     "createdAt": "2026-10-11T00:00:00Z"
   },
   {
-    "id": "save-inflation",
-    "language": "te",
-    "file": "save-inflation.en.mp4",
-    "title": "Rick Explains Inflation",
-    "captions": "కదలకుండా ఉన్న డబ్బు నెమ్మదిగా విలువను కోల్పోతుంది.",
-    "hashtags": [
-      "Inflation",
-      "RealReturn",
-      "RuleOf72"
-    ],
-    "pillar": "save",
-    "tags": [
-      "inflation"
-    ],
-    "level": 34,
-    "chapter": "save-magic-of-compounding",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "safety-never-share-otp",
-    "language": "te",
-    "file": "safety-never-share-otp.en.mp4",
-    "title": "Morty Almost Shares His OTP",
-    "captions": "మీ OTP మీ ఇంటి తాళం చెవి లాంటిది. దాన్ని ఎప్పుడూ ఇతరులకు ఇవ్వకండి.",
-    "hashtags": [
-      "OTPScam",
-      "UPIFraud",
-      "DontShareOTP"
-    ],
-    "pillar": "safety",
-    "tags": [
-      "otp-and-pin",
-      "upi-fraud"
-    ],
-    "level": 1,
-    "chapter": "safety-upi-and-otp",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "safety-spot-the-scam",
-    "language": "te",
-    "file": "safety-spot-the-scam.en.mp4",
-    "title": "Spot the Scam with Rick",
-    "captions": "తొందర + హామీ + ముందే డబ్బు = మోసం.",
-    "hashtags": [
-      "SpotTheScam",
-      "TooGoodToBeTrue",
-      "LoanAppScam"
-    ],
-    "pillar": "safety",
-    "tags": [
-      "phishing",
-      "fake-loan-apps",
-      "ponzi-and-chit-scams"
-    ],
-    "level": 12,
-    "chapter": "safety-spot-the-scam",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "safety-money-mule",
-    "language": "te",
-    "file": "safety-money-mule.en.mp4",
-    "title": "Morty Becomes a Money Mule",
-    "captions": "మీ ఖాతాను ఉపయోగించుకోవడానికి వాళ్ళు మీకు డబ్బు చెల్లిస్తే, దొరికిపోయేది మీరే.",
-    "hashtags": [
-      "MoneyMule",
-      "BankAccountScam",
-      "CyberCrime"
-    ],
-    "pillar": "safety",
-    "tags": [
-      "upi-fraud"
-    ],
-    "level": 22,
-    "chapter": "safety-spot-the-scam",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "budget-needs-vs-wants",
+    "id": "invest-diversification",
     "language": "hi",
-    "file": "budget-needs-vs-wants.en.mp4",
-    "title": "Peter Learns Needs vs Wants",
-    "captions": "ज़रूरतें पहले। जो बचे, वह चाहतों के लिए।",
+    "file": "Hindi/Diversification_stocks.mp4",
+    "title": "डाइवर्सिफ़िकेशन",
+    "captions": "सारे अंडे एक टोकरी में मत रखो।",
     "hashtags": [
-      "NeedVsWant",
-      "PocketMoney",
-      "Budgeting"
+      "Diversification",
+      "RiskAndReturn",
+      "InvestingBasics"
     ],
-    "pillar": "budget",
+    "pillar": "invest",
     "tags": [
-      "needs-vs-wants",
-      "pocket-money"
-    ],
-    "level": 2,
-    "chapter": "budget-needs-vs-wants",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "budget-50-30-20",
-    "language": "hi",
-    "file": "budget-50-30-20.en.mp4",
-    "title": "Stewie Explains the 50-30-20 Rule",
-    "captions": "बजट कोई पिंजरा नहीं है। यह उस चीज़ की योजना है जो आप सच में चाहते हैं।",
-    "hashtags": [
-      "503020Rule",
-      "BudgetingTips",
-      "OpportunityCost"
-    ],
-    "pillar": "budget",
-    "tags": [
-      "50-30-20",
-      "pocket-money"
-    ],
-    "level": 14,
-    "chapter": "budget-pocket-money-plan",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "budget-no-cost-emi",
-    "language": "hi",
-    "file": "budget-no-cost-emi.en.mp4",
-    "title": "Peter Falls for \"No-Cost EMI\"",
-    "captions": "अगर आप इसे दो बार नहीं ख़रीद सकते, तो EMI पर भी नहीं ख़रीद सकते।",
-    "hashtags": [
-      "NoCostEMI",
-      "BuyNowPayLater",
-      "HiddenCharges"
-    ],
-    "pillar": "budget",
-    "tags": [
-      "bills-and-emi"
+      "diversification",
+      "risk-and-return"
     ],
     "level": 18,
-    "chapter": null,
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "budget-chai-math",
-    "language": "hi",
-    "file": "budget-chai-math.en.mp4",
-    "title": "Peter's Chai Math",
-    "captions": "छोटे-छोटे छेद बड़े जहाज़ डुबो देते हैं। पहले बचत करें, फिर जो बचे उसे ख़र्च करें।",
-    "hashtags": [
-      "ChaiMath",
-      "SmallSpends",
-      "SavingHabits"
-    ],
-    "pillar": "budget",
-    "tags": [
-      "tracking-spending"
-    ],
-    "level": 8,
-    "chapter": "budget-pocket-money-plan",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "save-emergency-fund",
-    "language": "hi",
-    "file": "save-emergency-fund.en.mp4",
-    "title": "Peter Breaks His Phone",
-    "captions": "आप आपात स्थितियों का अनुमान नहीं लगा सकते। आप उनके लिए तैयार रह सकते हैं।",
-    "hashtags": [
-      "EmergencyFund",
-      "RainyDayFund",
-      "SavingsTips"
-    ],
-    "pillar": "save",
-    "tags": [
-      "emergency-fund"
-    ],
-    "level": 6,
-    "chapter": "save-emergency-fund",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "budget-minimum-due",
-    "language": "hi",
-    "file": "budget-minimum-due.en.mp4",
-    "title": "Peter Pays the \"Minimum Due\"",
-    "captions": "न्यूनतम देय राशि = अधिकतम कष्ट। पूरा भुगतान करें।",
-    "hashtags": [
-      "MinimumDue",
-      "DebtTrap",
-      "CompoundInterest"
-    ],
-    "pillar": "budget",
-    "tags": [
-      "bills-and-emi",
-      "compound-interest"
-    ],
-    "level": 26,
-    "chapter": null,
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "save-compounding",
-    "language": "hi",
-    "file": "save-compounding.en.mp4",
-    "title": "Rick Explains Compounding",
-    "captions": "लंबा समय > सही समय। जल्दी शुरू करें।",
-    "hashtags": [
-      "Compounding",
-      "StartEarly",
-      "PowerOfCompounding"
-    ],
-    "pillar": "save",
-    "tags": [
-      "compound-interest",
-      "time-horizon"
-    ],
-    "level": 30,
-    "chapter": "save-magic-of-compounding",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "invest-risk-and-diversification",
-    "language": "hi",
-    "file": "invest-risk-and-diversification.en.mp4",
-    "title": "Rick Explains Risk & Diversification",
-    "captions": "अपने सारे अंडे एक ही टोकरी में मत रखो।",
-    "hashtags": [
-      "RiskAndReturn",
-      "Diversification",
-      "InvestingBasics"
-    ],
-    "pillar": "invest",
-    "tags": [
-      "risk-and-return",
-      "diversification"
-    ],
-    "level": 50,
-    "chapter": "invest-risk-and-return",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "save-inflation",
-    "language": "hi",
-    "file": "save-inflation.en.mp4",
-    "title": "Rick Explains Inflation",
-    "captions": "जो पैसा स्थिर पड़ा रहता है, वह धीरे-धीरे अपना मूल्य खो देता है।",
-    "hashtags": [
-      "Inflation",
-      "RealReturn",
-      "RuleOf72"
-    ],
-    "pillar": "save",
-    "tags": [
-      "inflation"
-    ],
-    "level": 34,
-    "chapter": "save-magic-of-compounding",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "safety-never-share-otp",
-    "language": "hi",
-    "file": "safety-never-share-otp.en.mp4",
-    "title": "Morty Almost Shares His OTP",
-    "captions": "आपका ओटीपी आपके घर की चाबी है। इसे कभी किसी को न दें।",
-    "hashtags": [
-      "OTPScam",
-      "UPIFraud",
-      "DontShareOTP"
-    ],
-    "pillar": "safety",
-    "tags": [
-      "otp-and-pin",
-      "upi-fraud"
-    ],
-    "level": 1,
-    "chapter": "safety-upi-and-otp",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "safety-spot-the-scam",
-    "language": "hi",
-    "file": "safety-spot-the-scam.en.mp4",
-    "title": "Spot the Scam with Rick",
-    "captions": "जल्दबाज़ी + गारंटी + पहले भुगतान = धोखा।",
-    "hashtags": [
-      "SpotTheScam",
-      "TooGoodToBeTrue",
-      "LoanAppScam"
-    ],
-    "pillar": "safety",
-    "tags": [
-      "phishing",
-      "fake-loan-apps",
-      "ponzi-and-chit-scams"
-    ],
-    "level": 12,
-    "chapter": "safety-spot-the-scam",
-    "createdAt": "2026-10-11T00:00:00Z"
-  },
-  {
-    "id": "safety-money-mule",
-    "language": "hi",
-    "file": "safety-money-mule.en.mp4",
-    "title": "Morty Becomes a Money Mule",
-    "captions": "अगर वे आपके खाते का उपयोग करने के लिए आपको भुगतान करते हैं, तो आप ही फंसेंगे।",
-    "hashtags": [
-      "MoneyMule",
-      "BankAccountScam",
-      "CyberCrime"
-    ],
-    "pillar": "safety",
-    "tags": [
-      "upi-fraud"
-    ],
-    "level": 22,
-    "chapter": "safety-spot-the-scam",
+    "chapter": "invest-diversification",
     "createdAt": "2026-10-11T00:00:00Z"
   }
 ]

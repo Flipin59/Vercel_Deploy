@@ -33,10 +33,13 @@ const DAY_MS = 24 * 60 * 60 * 1000;
 const INTEREST: Record<string, number> = { save: 3, like: 2, complete: 1, skip: -1 };
 const HISTORY_LIMIT = 1000;
 
-// Clips are static files in public/media/reels (README.md). The `reels` Storage bucket
-// stays in the migration for when clips outgrow the repo.
+// Clips live in the public `reels` Storage bucket, one folder per language (`file` in the
+// manifest, e.g. "English/banking.mp4"). Without Supabase (local demo) the same path is
+// looked up under public/media/reels.
 function videoUrl(file: string): string {
-  return `/media/reels/${encodeURIComponent(file)}`;
+  const path = file.split("/").map(encodeURIComponent).join("/");
+  const base = process.env.NEXT_PUBLIC_SUPABASE_URL;
+  return base ? `${base}/storage/v1/object/public/reels/${path}` : `/media/reels/${path}`;
 }
 
 // R4: candidates and the student for Play's buildFeed (RECOMMENDATION.md §2–4, §8).
