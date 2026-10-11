@@ -1,0 +1,15 @@
+[
+  {"slug": "budget-needs-vs-wants", "pillar": "budget", "tags": ["needs-vs-wants"], "level": 3, "requires": [], "createdAt": "2026-10-11"},
+  {"slug": "budget-pocket-money-plan", "pillar": "budget", "tags": ["pocket-money", "50-30-20", "tracking-spending"], "level": 18, "requires": ["budget-needs-vs-wants"], "createdAt": "2026-10-11"},
+  {"slug": "budget-no-cost-emi", "pillar": "budget", "tags": ["bills-and-emi"], "level": 40, "requires": [], "createdAt": "2026-10-11"},
+  {"slug": "save-emergency-fund", "pillar": "save", "tags": ["emergency-fund", "savings-goals"], "level": 8, "requires": [], "createdAt": "2026-10-11"},
+  {"slug": "save-chai-math", "pillar": "save", "tags": ["tracking-spending", "savings-goals"], "level": 10, "requires": [], "createdAt": "2026-10-11"},
+  {"slug": "save-magic-of-compounding", "pillar": "save", "tags": ["compound-interest", "simple-interest", "inflation"], "level": 36, "requires": [], "createdAt": "2026-10-11"},
+  {"slug": "save-credit-card-trap", "pillar": "save", "tags": ["compound-interest", "bills-and-emi"], "level": 46, "requires": ["save-magic-of-compounding"], "createdAt": "2026-10-11"},
+  {"slug": "invest-inflation", "pillar": "invest", "tags": ["inflation", "time-horizon"], "level": 44, "requires": [], "createdAt": "2026-10-11"},
+  {"slug": "invest-risk-and-return", "pillar": "invest", "tags": ["risk-and-return", "time-horizon"], "level": 56, "requires": [], "createdAt": "2026-10-11"},
+  {"slug": "invest-diversification", "pillar": "invest", "tags": ["diversification"], "level": 58, "requires": ["invest-risk-and-return"], "createdAt": "2026-10-11"},
+  {"slug": "safety-upi-and-otp", "pillar": "safety", "tags": ["upi-fraud", "otp-and-pin"], "level": 2, "requires": [], "createdAt": "2026-10-11"},
+  {"slug": "safety-spot-the-scam", "pillar": "safety", "tags": ["phishing", "fake-loan-apps", "ponzi-and-chit-scams"], "level": 20, "requires": ["safety-upi-and-otp"], "createdAt": "2026-10-11"},
+  {"slug": "safety-money-mule", "pillar": "safety", "tags": ["upi-fraud", "phishing"], "level": 42, "requires": ["safety-spot-the-scam"], "createdAt": "2026-10-11"}
+]

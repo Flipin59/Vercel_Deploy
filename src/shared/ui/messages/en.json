@@ -1,0 +1,13 @@
+{
+  "nav.home": "Home",
+  "nav.play": "Play",
+  "nav.reels": "Reels",
+  "nav.forum": "Forum",
+  "nav.learn": "Learn",
+  "header.back": "Back",
+  "header.streak": "day streak",
+  "header.coins": "coins",
+  "header.friends": "Friends",
+  "header.friendRequests": "New friend requests",
+  "header.progressUnavailable": "Progress unavailable"
+}

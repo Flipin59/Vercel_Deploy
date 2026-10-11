@@ -1,0 +1,2328 @@
+[
+  {
+    "id": "invest-risk-and-return-001",
+    "pillar": "invest",
+    "tags": [
+      "risk-and-return"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "In investing, what does the word \"risk\" mainly mean?",
+        "options": [
+          "The chance your money's value falls or swings",
+          "The fee a bank charges to open an account",
+          "The interest rate printed on an FD receipt",
+          "The tax taken from a person's salary"
+        ],
+        "answer": "A",
+        "explanation": "Risk is the chance that an investment is worth less than you hoped, or even less than you put in. Values that move up and down a lot carry more risk."
+      },
+      "hi": {
+        "prompt": "निवेश में \"रिस्क\" (जोखिम) शब्द का मुख्य मतलब क्या है?",
+        "options": [
+          "आपके पैसे की वैल्यू गिरने या ऊपर-नीचे होने की संभावना",
+          "खाता खोलने के लिए बैंक जो फ़ीस लेता है",
+          "FD की रसीद पर छपी ब्याज दर",
+          "किसी व्यक्ति की सैलरी से कटने वाला टैक्स"
+        ],
+        "answer": "A",
+        "explanation": "रिस्क यह संभावना है कि निवेश की वैल्यू आपकी उम्मीद से कम हो जाए, या आपके लगाए पैसे से भी कम। जिनकी वैल्यू बहुत ऊपर-नीचे होती है, उनमें रिस्क ज़्यादा होता है।"
+      },
+      "te": {
+        "prompt": "పెట్టుబడిలో \"రిస్క్\" అనే పదానికి ముఖ్యమైన అర్థం ఏమిటి?",
+        "options": [
+          "మీ డబ్బు విలువ తగ్గే లేదా ఊగిసలాడే అవకాశం",
+          "ఖాతా తెరవడానికి బ్యాంకు వసూలు చేసే ఫీజు",
+          "FD రసీదుపై ముద్రించిన వడ్డీ రేటు",
+          "ఒక వ్యక్తి జీతం నుండి తీసుకునే పన్ను"
+        ],
+        "answer": "A",
+        "explanation": "రిస్క్ అంటే మీ పెట్టుబడి విలువ మీరు ఆశించిన దానికంటే, లేదా మీరు పెట్టిన దానికంటే కూడా తక్కువ అయ్యే అవకాశం. విలువ ఎక్కువగా పెరుగుతూ తగ్గుతూ ఉండే వాటిలో రిస్క్ ఎక్కువ."
+      }
+    }
+  },
+  {
+    "id": "invest-risk-and-return-002",
+    "pillar": "invest",
+    "tags": [
+      "risk-and-return"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "In general, how are risk and possible return linked?",
+        "options": [
+          "Higher return always comes with lower risk",
+          "Risk and return have no link at all",
+          "Low-risk options always give the highest return",
+          "Higher possible return usually comes with higher risk"
+        ],
+        "answer": "D",
+        "explanation": "Options that could grow more are usually the ones that can also fall more. A chance of bigger reward comes with a chance of bigger loss."
+      },
+      "hi": {
+        "prompt": "आम तौर पर, रिस्क और संभावित रिटर्न का आपस में क्या संबंध होता है?",
+        "options": [
+          "ज़्यादा रिटर्न हमेशा कम रिस्क के साथ आता है",
+          "रिस्क और रिटर्न का कोई संबंध नहीं है",
+          "कम रिस्क वाले विकल्प हमेशा सबसे ज़्यादा रिटर्न देते हैं",
+          "ज़्यादा संभावित रिटर्न के साथ आम तौर पर ज़्यादा रिस्क होता है"
+        ],
+        "answer": "D",
+        "explanation": "जो विकल्प ज़्यादा बढ़ सकते हैं, वे आम तौर पर ज़्यादा गिर भी सकते हैं। बड़े फ़ायदे की संभावना के साथ बड़े नुकसान की संभावना भी आती है।"
+      },
+      "te": {
+        "prompt": "సాధారణంగా, రిస్క్‌కు మరియు వచ్చే అవకాశం ఉన్న రిటర్న్‌కు మధ్య సంబంధం ఏమిటి?",
+        "options": [
+          "ఎక్కువ రిటర్న్ ఎప్పుడూ తక్కువ రిస్క్‌తో వస్తుంది",
+          "రిస్క్‌కు, రిటర్న్‌కు ఎలాంటి సంబంధం లేదు",
+          "తక్కువ రిస్క్ ఉన్న ఆప్షన్లు ఎప్పుడూ అత్యధిక రిటర్న్ ఇస్తాయి",
+          "ఎక్కువ రిటర్న్ వచ్చే అవకాశం ఉంటే సాధారణంగా రిస్క్ కూడా ఎక్కువ"
+        ],
+        "answer": "D",
+        "explanation": "ఎక్కువగా పెరగగలిగే ఆప్షన్లే సాధారణంగా ఎక్కువగా పడిపోగలవు కూడా. పెద్ద లాభం వచ్చే అవకాశంతో పాటు పెద్ద నష్టం వచ్చే అవకాశం కూడా ఉంటుంది."
+      }
+    }
+  },
+  {
+    "id": "invest-diversification-001",
+    "pillar": "invest",
+    "tags": [
+      "diversification"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "What does \"diversification\" mean when you invest money?",
+        "options": [
+          "Putting all your money in the one best option",
+          "Moving money often to chase quick gains",
+          "Spreading money across different kinds of options",
+          "Keeping all your savings as cash at home"
+        ],
+        "answer": "C",
+        "explanation": "Diversification means not depending on just one thing. If one option does badly, the others can soften the blow."
+      },
+      "hi": {
+        "prompt": "पैसा निवेश करते समय \"डाइवर्सिफ़िकेशन\" (विविधीकरण) का क्या मतलब है?",
+        "options": [
+          "सारा पैसा एक सबसे अच्छे विकल्प में लगाना",
+          "जल्दी मुनाफ़े के पीछे बार-बार पैसा इधर-उधर करना",
+          "पैसे को अलग-अलग तरह के विकल्पों में बाँटना",
+          "सारी बचत घर पर नकद रखना"
+        ],
+        "answer": "C",
+        "explanation": "डाइवर्सिफ़िकेशन का मतलब है सिर्फ़ एक चीज़ पर निर्भर न रहना। अगर एक विकल्प खराब करे, तो बाकी विकल्प झटके को कम कर सकते हैं।"
+      },
+      "te": {
+        "prompt": "డబ్బు పెట్టుబడి పెట్టేటప్పుడు \"డైవర్సిఫికేషన్\" (వైవిధ్యీకరణ) అంటే ఏమిటి?",
+        "options": [
+          "మొత్తం డబ్బును ఒకే ఉత్తమ ఆప్షన్‌లో పెట్టడం",
+          "త్వరగా లాభం కోసం డబ్బును తరచూ మారుస్తూ ఉండటం",
+          "డబ్బును వేర్వేరు రకాల ఆప్షన్లలో పంచి పెట్టడం",
+          "పొదుపు మొత్తాన్ని ఇంట్లో నగదుగా ఉంచడం"
+        ],
+        "answer": "C",
+        "explanation": "డైవర్సిఫికేషన్ అంటే ఒకే దానిపై ఆధారపడకపోవడం. ఒక ఆప్షన్ బాగా నష్టపోయినా, మిగతావి ఆ దెబ్బను తగ్గించగలవు."
+      }
+    }
+  },
+  {
+    "id": "invest-diversification-002",
+    "pillar": "invest",
+    "tags": [
+      "diversification"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "The saying \"Don't put all your eggs in one basket\" teaches which money lesson?",
+        "options": [
+          "Always buy the cheapest thing available",
+          "Spread risk so one loss can't wipe you out",
+          "Keep all savings in one bank account",
+          "Spend money before prices go up"
+        ],
+        "answer": "B",
+        "explanation": "If all your money is in one place, one bad event can hurt all of it. Spreading it out limits the damage from any single loss."
+      },
+      "hi": {
+        "prompt": "कहावत \"सारे अंडे एक ही टोकरी में मत रखो\" पैसे के बारे में क्या सीख देती है?",
+        "options": [
+          "हमेशा सबसे सस्ती चीज़ खरीदो",
+          "रिस्क बाँटो ताकि एक नुकसान से सब कुछ खत्म न हो जाए",
+          "सारी बचत एक ही बैंक खाते में रखो",
+          "दाम बढ़ने से पहले पैसा खर्च कर दो"
+        ],
+        "answer": "B",
+        "explanation": "अगर आपका सारा पैसा एक ही जगह है, तो एक बुरी घटना पूरे पैसे को नुकसान पहुँचा सकती है। पैसा बाँटकर रखने से किसी एक नुकसान का असर सीमित रहता है।"
+      },
+      "te": {
+        "prompt": "\"అన్ని గుడ్లను ఒకే బుట్టలో పెట్టవద్దు\" అనే సామెత డబ్బు గురించి ఏ పాఠం నేర్పుతుంది?",
+        "options": [
+          "ఎప్పుడూ దొరికే వాటిలో చౌకైనదే కొనండి",
+          "ఒక్క నష్టం మొత్తం తుడిచిపెట్టకుండా రిస్క్‌ను పంచండి",
+          "పొదుపు మొత్తాన్ని ఒకే బ్యాంకు ఖాతాలో ఉంచండి",
+          "ధరలు పెరగకముందే డబ్బు ఖర్చు పెట్టండి"
+        ],
+        "answer": "B",
+        "explanation": "మీ డబ్బు మొత్తం ఒకే చోట ఉంటే, ఒక్క చెడు సంఘటన దాని మొత్తాన్నీ దెబ్బతీయగలదు. డబ్బును పంచి పెడితే ఏ ఒక్క నష్టం వల్ల అయినా జరిగే హాని పరిమితంగా ఉంటుంది."
+      }
+    }
+  },
+  {
+    "id": "invest-time-horizon-001",
+    "pillar": "invest",
+    "tags": [
+      "time-horizon"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "What is an investment's \"time horizon\"?",
+        "options": [
+          "The hours the bank stays open each day",
+          "How long you plan to keep the money invested",
+          "The date a company first sold its shares",
+          "The time it takes to open an account"
+        ],
+        "answer": "B",
+        "explanation": "Time horizon is how long until you need the money. It helps decide how much up-and-down movement the money can handle."
+      },
+      "hi": {
+        "prompt": "किसी निवेश का \"टाइम होराइज़न\" क्या होता है?",
+        "options": [
+          "बैंक रोज़ कितने घंटे खुला रहता है",
+          "आप पैसे को कितने समय तक निवेश में रखने की योजना बनाते हैं",
+          "वह तारीख जब किसी कंपनी ने पहली बार अपने शेयर बेचे",
+          "खाता खोलने में लगने वाला समय"
+        ],
+        "answer": "B",
+        "explanation": "टाइम होराइज़न यह है कि आपको पैसे की ज़रूरत कितने समय बाद पड़ेगी। इससे तय करने में मदद मिलती है कि वह पैसा कितना उतार-चढ़ाव झेल सकता है।"
+      },
+      "te": {
+        "prompt": "ఒక పెట్టుబడి \"టైమ్ హొరైజన్\" అంటే ఏమిటి?",
+        "options": [
+          "బ్యాంకు రోజూ ఎన్ని గంటలు తెరిచి ఉంటుందో",
+          "డబ్బును ఎంత కాలం పెట్టుబడిలో ఉంచాలని మీరు అనుకుంటున్నారో",
+          "ఒక కంపెనీ మొదటిసారి తన షేర్లు అమ్మిన తేదీ",
+          "ఖాతా తెరవడానికి పట్టే సమయం"
+        ],
+        "answer": "B",
+        "explanation": "టైమ్ హొరైజన్ అంటే మీకు ఆ డబ్బు ఎంత కాలం తర్వాత అవసరం అవుతుందో అది. ఆ డబ్బు ఎంత ఒడిదుడుకులను తట్టుకోగలదో నిర్ణయించడానికి ఇది సహాయపడుతుంది."
+      }
+    }
+  },
+  {
+    "id": "invest-time-horizon-002",
+    "pillar": "invest",
+    "tags": [
+      "time-horizon",
+      "risk-and-return"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Why can money for a goal many years away usually handle more ups and downs?",
+        "options": [
+          "There is more time to recover from falls",
+          "Long-term options never fall in value",
+          "Prices stop changing after five years",
+          "Banks guarantee all long-term investments"
+        ],
+        "answer": "A",
+        "explanation": "Values can fall in the short run, but a long gap before you need the money gives time for them to recover. Recovery is still not guaranteed."
+      },
+      "hi": {
+        "prompt": "कई साल दूर के लक्ष्य वाला पैसा आम तौर पर ज़्यादा उतार-चढ़ाव क्यों झेल सकता है?",
+        "options": [
+          "गिरावट से संभलने के लिए ज़्यादा समय होता है",
+          "लंबे समय के विकल्पों की वैल्यू कभी नहीं गिरती",
+          "पाँच साल बाद दाम बदलना बंद हो जाते हैं",
+          "बैंक लंबे समय के सभी निवेशों की गारंटी देते हैं"
+        ],
+        "answer": "A",
+        "explanation": "थोड़े समय में वैल्यू गिर सकती है, लेकिन पैसे की ज़रूरत पड़ने में लंबा समय हो तो उसे वापस संभलने का मौका मिलता है। फिर भी, वापस संभलने की कोई गारंटी नहीं है।"
+      },
+      "te": {
+        "prompt": "చాలా సంవత్సరాల తర్వాత ఉన్న లక్ష్యం కోసం పెట్టిన డబ్బు సాధారణంగా ఎక్కువ ఒడిదుడుకులను ఎందుకు తట్టుకోగలదు?",
+        "options": [
+          "పడిపోయిన విలువ తిరిగి కోలుకోవడానికి ఎక్కువ సమయం ఉంటుంది",
+          "దీర్ఘకాలిక ఆప్షన్ల విలువ ఎప్పుడూ తగ్గదు",
+          "ఐదు సంవత్సరాల తర్వాత ధరలు మారడం ఆగిపోతుంది",
+          "బ్యాంకులు అన్ని దీర్ఘకాలిక పెట్టుబడులకు గ్యారంటీ ఇస్తాయి"
+        ],
+        "answer": "A",
+        "explanation": "తక్కువ కాలంలో విలువ పడిపోవచ్చు, కానీ డబ్బు అవసరం అయ్యేందుకు చాలా సమయం ఉంటే అది తిరిగి కోలుకునే అవకాశం ఉంటుంది. అయినా కోలుకుంటుందని గ్యారంటీ లేదు."
+      }
+    }
+  },
+  {
+    "id": "invest-mutual-fund-basics-001",
+    "pillar": "invest",
+    "tags": [
+      "mutual-fund-basics"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "What is a mutual fund, in simple words?",
+        "options": [
+          "A loan a bank gives to students",
+          "A savings account with a fixed interest rate",
+          "A government scheme that promises double money",
+          "Money pooled from many people and managed together"
+        ],
+        "answer": "D",
+        "explanation": "A mutual fund collects money from many people and a manager invests it in many things. Its value can go up or down."
+      },
+      "hi": {
+        "prompt": "आसान शब्दों में, म्यूचुअल फ़ंड क्या है?",
+        "options": [
+          "बैंक द्वारा छात्रों को दिया जाने वाला लोन",
+          "तय ब्याज दर वाला बचत खाता",
+          "सरकार की एक योजना जो पैसा दोगुना करने का वादा करती है",
+          "कई लोगों से इकट्ठा करके एक साथ संभाला जाने वाला पैसा"
+        ],
+        "answer": "D",
+        "explanation": "म्यूचुअल फ़ंड कई लोगों से पैसा इकट्ठा करता है और एक मैनेजर उसे कई चीज़ों में निवेश करता है। इसकी वैल्यू ऊपर या नीचे जा सकती है।"
+      },
+      "te": {
+        "prompt": "సులభమైన మాటల్లో, మ్యూచువల్ ఫండ్ అంటే ఏమిటి?",
+        "options": [
+          "బ్యాంకు విద్యార్థులకు ఇచ్చే లోన్",
+          "స్థిర వడ్డీ రేటు ఉన్న సేవింగ్స్ ఖాతా",
+          "డబ్బు రెట్టింపు చేస్తానని హామీ ఇచ్చే ప్రభుత్వ పథకం",
+          "చాలా మంది నుండి సేకరించి, కలిపి నిర్వహించే డబ్బు"
+        ],
+        "answer": "D",
+        "explanation": "మ్యూచువల్ ఫండ్ చాలా మంది నుండి డబ్బు సేకరిస్తుంది, ఒక మేనేజర్ దాన్ని రకరకాల వాటిలో పెట్టుబడి పెడతారు. దాని విలువ పెరగవచ్చు లేదా తగ్గవచ్చు."
+      }
+    }
+  },
+  {
+    "id": "invest-mutual-fund-basics-002",
+    "pillar": "invest",
+    "tags": [
+      "mutual-fund-basics"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "In investing, what does \"SIP\" stand for?",
+        "options": [
+          "Safe Interest Payment",
+          "Savings Insurance Policy",
+          "Systematic Investment Plan",
+          "Simple Income Profit"
+        ],
+        "answer": "C",
+        "explanation": "SIP means Systematic Investment Plan. It is a way of putting a fixed amount into a fund at regular times, such as every month."
+      },
+      "hi": {
+        "prompt": "निवेश में \"SIP\" का पूरा नाम क्या है?",
+        "options": [
+          "Safe Interest Payment",
+          "Savings Insurance Policy",
+          "Systematic Investment Plan",
+          "Simple Income Profit"
+        ],
+        "answer": "C",
+        "explanation": "SIP का मतलब है Systematic Investment Plan (सिस्टमैटिक इन्वेस्टमेंट प्लान)। यह हर महीने जैसे नियमित समय पर किसी फ़ंड में एक तय रकम डालने का तरीका है।"
+      },
+      "te": {
+        "prompt": "పెట్టుబడిలో \"SIP\" పూర్తి రూపం ఏమిటి?",
+        "options": [
+          "Safe Interest Payment",
+          "Savings Insurance Policy",
+          "Systematic Investment Plan",
+          "Simple Income Profit"
+        ],
+        "answer": "C",
+        "explanation": "SIP అంటే Systematic Investment Plan (సిస్టమాటిక్ ఇన్వెస్ట్‌మెంట్ ప్లాన్). ప్రతి నెలా లాంటి క్రమమైన సమయాల్లో ఒక ఫండ్‌లో నిర్ణీత మొత్తాన్ని పెట్టే పద్ధతి ఇది."
+      }
+    }
+  },
+  {
+    "id": "invest-stocks-basics-001",
+    "pillar": "invest",
+    "tags": [
+      "stocks-basics"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "If you own one share of a company, what do you actually own?",
+        "options": [
+          "A loan you gave to that company",
+          "A fixed deposit with that company",
+          "A small part of that company",
+          "A promise of the company's profits"
+        ],
+        "answer": "C",
+        "explanation": "A share is a small piece of ownership in a company. Its price can rise or fall with how the company and market do."
+      },
+      "hi": {
+        "prompt": "अगर आपके पास किसी कंपनी का एक शेयर है, तो असल में आप किस चीज़ के मालिक हैं?",
+        "options": [
+          "उस कंपनी को दिया गया एक लोन",
+          "उस कंपनी के पास एक फ़िक्स्ड डिपॉज़िट",
+          "उस कंपनी का एक छोटा हिस्सा",
+          "कंपनी के मुनाफ़े का एक वादा"
+        ],
+        "answer": "C",
+        "explanation": "शेयर किसी कंपनी में मालिकाना हक़ का एक छोटा हिस्सा है। कंपनी और बाज़ार के प्रदर्शन के हिसाब से इसका दाम बढ़ या घट सकता है।"
+      },
+      "te": {
+        "prompt": "మీ దగ్గర ఒక కంపెనీ షేరు ఒకటి ఉంటే, నిజానికి మీరు దేనికి యజమాని?",
+        "options": [
+          "ఆ కంపెనీకి మీరు ఇచ్చిన లోన్",
+          "ఆ కంపెనీ దగ్గర ఉన్న ఫిక్స్‌డ్ డిపాజిట్",
+          "ఆ కంపెనీలో ఒక చిన్న భాగం",
+          "కంపెనీ లాభాలు ఇస్తామనే హామీ"
+        ],
+        "answer": "C",
+        "explanation": "షేరు అంటే ఒక కంపెనీ యాజమాన్యంలో ఒక చిన్న భాగం. కంపెనీ, మార్కెట్ ఎలా నడుస్తాయో దాన్ని బట్టి దాని ధర పెరగవచ్చు లేదా తగ్గవచ్చు."
+      }
+    }
+  },
+  {
+    "id": "invest-stocks-basics-002",
+    "pillar": "invest",
+    "tags": [
+      "stocks-basics"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Can a company's share price fall below the price you paid for it?",
+        "options": [
+          "No, share prices only rise over time",
+          "Yes, share prices can go down as well as up",
+          "No, the government fixes all share prices",
+          "Only if the company shuts down completely"
+        ],
+        "answer": "B",
+        "explanation": "Share prices change every day based on buying and selling. They can fall below your buying price, so a loss is possible."
+      },
+      "hi": {
+        "prompt": "क्या किसी कंपनी के शेयर का दाम आपके खरीदे गए दाम से नीचे जा सकता है?",
+        "options": [
+          "नहीं, शेयर के दाम समय के साथ सिर्फ़ बढ़ते हैं",
+          "हाँ, शेयर के दाम ऊपर के साथ-साथ नीचे भी जा सकते हैं",
+          "नहीं, सरकार सभी शेयरों के दाम तय करती है",
+          "सिर्फ़ तब, जब कंपनी पूरी तरह बंद हो जाए"
+        ],
+        "answer": "B",
+        "explanation": "शेयरों के दाम खरीद-बिक्री के आधार पर हर दिन बदलते हैं। वे आपके खरीदे दाम से नीचे जा सकते हैं, इसलिए नुकसान हो सकता है।"
+      },
+      "te": {
+        "prompt": "ఒక కంపెనీ షేరు ధర మీరు కొన్న ధర కంటే తగ్గిపోగలదా?",
+        "options": [
+          "లేదు, కాలం గడిచే కొద్దీ షేరు ధరలు పెరుగుతాయి మాత్రమే",
+          "అవును, షేరు ధరలు పెరగనూ వచ్చు, తగ్గనూ వచ్చు",
+          "లేదు, అన్ని షేరు ధరలను ప్రభుత్వం నిర్ణయిస్తుంది",
+          "కంపెనీ పూర్తిగా మూతపడితే మాత్రమే"
+        ],
+        "answer": "B",
+        "explanation": "కొనడం, అమ్మడం బట్టి షేరు ధరలు ప్రతిరోజూ మారుతాయి. అవి మీరు కొన్న ధర కంటే తగ్గవచ్చు, కాబట్టి నష్టం రావచ్చు."
+      }
+    }
+  },
+  {
+    "id": "invest-gold-and-fd-001",
+    "pillar": "invest",
+    "tags": [
+      "gold-and-fd"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Gold prices go up and down from day to day. What does this mean for someone who owns gold?",
+        "options": [
+          "Its value can rise or fall over time",
+          "Its value can only go up",
+          "It pays a fixed interest every month",
+          "It works exactly like cash in a bank"
+        ],
+        "answer": "A",
+        "explanation": "Gold pays no fixed interest, and its price changes with demand. Its value can fall as well as rise."
+      },
+      "hi": {
+        "prompt": "सोने के दाम रोज़ ऊपर-नीचे होते हैं। जिसके पास सोना है, उसके लिए इसका क्या मतलब है?",
+        "options": [
+          "समय के साथ इसकी वैल्यू बढ़ या घट सकती है",
+          "इसकी वैल्यू सिर्फ़ बढ़ सकती है",
+          "यह हर महीने तय ब्याज देता है",
+          "यह बिल्कुल बैंक में रखे नकद पैसे की तरह काम करता है"
+        ],
+        "answer": "A",
+        "explanation": "सोना कोई तय ब्याज नहीं देता, और इसका दाम माँग के हिसाब से बदलता है। इसकी वैल्यू बढ़ भी सकती है और घट भी सकती है।"
+      },
+      "te": {
+        "prompt": "బంగారం ధరలు రోజురోజుకూ పెరుగుతూ తగ్గుతూ ఉంటాయి. బంగారం ఉన్నవారికి దీని అర్థం ఏమిటి?",
+        "options": [
+          "కాలక్రమంలో దాని విలువ పెరగవచ్చు లేదా తగ్గవచ్చు",
+          "దాని విలువ పెరగడం మాత్రమే జరుగుతుంది",
+          "అది ప్రతి నెలా స్థిరమైన వడ్డీ ఇస్తుంది",
+          "అది అచ్చం బ్యాంకులో ఉన్న నగదు లాగే పనిచేస్తుంది"
+        ],
+        "answer": "A",
+        "explanation": "బంగారం స్థిరమైన వడ్డీ ఏమీ ఇవ్వదు, దాని ధర డిమాండ్‌ను బట్టి మారుతుంది. దాని విలువ పెరగనూ వచ్చు, తగ్గనూ వచ్చు."
+      }
+    }
+  },
+  {
+    "id": "invest-gold-and-fd-002",
+    "pillar": "invest",
+    "tags": [
+      "gold-and-fd"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Which statement about the price of gold is true?",
+        "options": [
+          "It only ever goes up each year",
+          "The bank fixes it once every year",
+          "It stays the same for ten years at a time",
+          "It goes up and down; it is not fixed"
+        ],
+        "answer": "D",
+        "explanation": "Gold's price changes with demand and world events. It can fall as well as rise."
+      },
+      "hi": {
+        "prompt": "सोने के दाम के बारे में कौन-सी बात सही है?",
+        "options": [
+          "यह हर साल सिर्फ़ बढ़ता ही है",
+          "बैंक इसे साल में एक बार तय करता है",
+          "यह दस-दस साल तक एक जैसा रहता है",
+          "यह ऊपर-नीचे होता है; यह तय नहीं है"
+        ],
+        "answer": "D",
+        "explanation": "सोने का दाम माँग और दुनिया की घटनाओं के हिसाब से बदलता है। यह बढ़ भी सकता है और घट भी सकता है।"
+      },
+      "te": {
+        "prompt": "బంగారం ధర గురించి ఏ వాక్యం నిజం?",
+        "options": [
+          "అది ప్రతి సంవత్సరం పెరుగుతుంది మాత్రమే",
+          "బ్యాంకు దాన్ని సంవత్సరానికి ఒకసారి నిర్ణయిస్తుంది",
+          "అది ఒకేసారి పది సంవత్సరాల పాటు మారకుండా ఉంటుంది",
+          "అది పెరుగుతూ తగ్గుతూ ఉంటుంది; స్థిరంగా ఉండదు"
+        ],
+        "answer": "D",
+        "explanation": "డిమాండ్, ప్రపంచంలో జరిగే సంఘటనలను బట్టి బంగారం ధర మారుతుంది. అది పెరగనూ వచ్చు, తగ్గనూ వచ్చు."
+      }
+    }
+  },
+  {
+    "id": "invest-gold-and-fd-003",
+    "pillar": "invest",
+    "tags": [
+      "gold-and-fd",
+      "risk-and-return"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Compared with shares, why is a bank FD usually called lower risk?",
+        "options": [
+          "It always earns more than shares",
+          "Its value rises whenever markets rise",
+          "It has no rules about taking money out",
+          "Its interest rate is fixed when you open it"
+        ],
+        "answer": "D",
+        "explanation": "An FD's rate is agreed at the start, so you know what it will pay. Share prices move every day, so their value is less certain."
+      },
+      "hi": {
+        "prompt": "शेयरों की तुलना में, बैंक FD को आम तौर पर कम रिस्क वाला क्यों कहा जाता है?",
+        "options": [
+          "यह हमेशा शेयरों से ज़्यादा कमाती है",
+          "जब भी बाज़ार बढ़ता है, इसकी वैल्यू बढ़ती है",
+          "इसमें पैसा निकालने के कोई नियम नहीं हैं",
+          "इसे खोलते समय ही इसकी ब्याज दर तय हो जाती है"
+        ],
+        "answer": "D",
+        "explanation": "FD की दर शुरू में ही तय हो जाती है, इसलिए आपको पता होता है कि यह कितना देगी। शेयरों के दाम हर दिन बदलते हैं, इसलिए उनकी वैल्यू उतनी पक्की नहीं होती।"
+      },
+      "te": {
+        "prompt": "షేర్లతో పోలిస్తే, బ్యాంకు FDని సాధారణంగా తక్కువ రిస్క్ అని ఎందుకు అంటారు?",
+        "options": [
+          "అది ఎప్పుడూ షేర్ల కంటే ఎక్కువ సంపాదిస్తుంది",
+          "మార్కెట్లు పెరిగినప్పుడల్లా దాని విలువ పెరుగుతుంది",
+          "డబ్బు తీసుకోవడానికి దానికి ఎలాంటి నియమాలు లేవు",
+          "దాన్ని తెరిచినప్పుడే దాని వడ్డీ రేటు స్థిరపడుతుంది"
+        ],
+        "answer": "D",
+        "explanation": "FD రేటు మొదట్లోనే ఒప్పుకున్నది కాబట్టి, అది ఎంత ఇస్తుందో మీకు ముందే తెలుస్తుంది. షేరు ధరలు ప్రతిరోజూ మారుతాయి, కాబట్టి వాటి విలువ అంత ఖచ్చితంగా ఉండదు."
+      }
+    }
+  },
+  {
+    "id": "invest-mutual-fund-basics-003",
+    "pillar": "invest",
+    "tags": [
+      "mutual-fund-basics",
+      "diversification"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Why does one mutual fund usually hold shares of many different companies?",
+        "options": [
+          "So the fund can promise fixed returns",
+          "So investors never pay any charges",
+          "So one company's fall hurts the fund less",
+          "So the fund's value can never go down"
+        ],
+        "answer": "C",
+        "explanation": "Holding many companies spreads risk, so one bad company has a smaller effect. The fund's value can still go down."
+      },
+      "hi": {
+        "prompt": "एक म्यूचुअल फ़ंड आम तौर पर कई अलग-अलग कंपनियों के शेयर क्यों रखता है?",
+        "options": [
+          "ताकि फ़ंड तय रिटर्न का वादा कर सके",
+          "ताकि निवेशकों को कभी कोई चार्ज न देना पड़े",
+          "ताकि एक कंपनी के गिरने से फ़ंड को कम नुकसान हो",
+          "ताकि फ़ंड की वैल्यू कभी नीचे न जा सके"
+        ],
+        "answer": "C",
+        "explanation": "कई कंपनियों में पैसा रखने से रिस्क बँट जाता है, इसलिए एक खराब कंपनी का असर कम होता है। फिर भी फ़ंड की वैल्यू नीचे जा सकती है।"
+      },
+      "te": {
+        "prompt": "ఒక మ్యూచువల్ ఫండ్ సాధారణంగా చాలా వేర్వేరు కంపెనీల షేర్లను ఎందుకు కలిగి ఉంటుంది?",
+        "options": [
+          "ఫండ్ స్థిరమైన రిటర్న్‌కు హామీ ఇవ్వగలిగేలా",
+          "పెట్టుబడిదారులు ఎప్పుడూ ఏ ఛార్జీలూ కట్టనవసరం లేకుండా",
+          "ఒక కంపెనీ పడిపోయినా ఫండ్‌కు తక్కువ నష్టం కలిగేలా",
+          "ఫండ్ విలువ ఎప్పటికీ తగ్గకుండా"
+        ],
+        "answer": "C",
+        "explanation": "చాలా కంపెనీల్లో పెట్టడం వల్ల రిస్క్ పంచబడుతుంది, కాబట్టి ఒక చెడ్డ కంపెనీ ప్రభావం తక్కువగా ఉంటుంది. అయినా ఫండ్ విలువ తగ్గవచ్చు."
+      }
+    }
+  },
+  {
+    "id": "invest-risk-and-return-003",
+    "pillar": "invest",
+    "tags": [
+      "risk-and-return"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "What is \"survivorship bias\" in stories about money?",
+        "options": [
+          "Saving money to survive emergencies",
+          "Hearing only from winners, not from people who lost",
+          "Choosing safe options to avoid every loss",
+          "Believing old companies can never fail"
+        ],
+        "answer": "B",
+        "explanation": "People who made money share their stories, while those who lost often stay quiet. So risky bets can look safer than they really are."
+      },
+      "hi": {
+        "prompt": "पैसे से जुड़ी कहानियों में \"सर्वाइवरशिप बायस\" क्या है?",
+        "options": [
+          "इमरजेंसी में काम आने के लिए पैसे बचाना",
+          "सिर्फ़ जीतने वालों की बातें सुनना, हारने वालों की नहीं",
+          "हर नुकसान से बचने के लिए सुरक्षित विकल्प चुनना",
+          "यह मानना कि पुरानी कंपनियाँ कभी फ़ेल नहीं हो सकतीं"
+        ],
+        "answer": "B",
+        "explanation": "जिन लोगों ने पैसा कमाया, वे अपनी कहानियाँ सुनाते हैं, जबकि जिन्होंने गँवाया, वे अक्सर चुप रहते हैं। इसलिए जोखिम भरे दाँव असल से ज़्यादा सुरक्षित लगने लगते हैं।"
+      },
+      "te": {
+        "prompt": "డబ్బు గురించిన కథల్లో \"సర్వైవర్‌షిప్ బయాస్\" అంటే ఏమిటి?",
+        "options": [
+          "అత్యవసర పరిస్థితుల్లో నెట్టుకురావడానికి డబ్బు పొదుపు చేయడం",
+          "గెలిచినవాళ్ల మాటలు మాత్రమే వినడం, నష్టపోయినవాళ్లవి కాదు",
+          "ప్రతి నష్టాన్నీ తప్పించుకోవడానికి సురక్షితమైన ఆప్షన్లు ఎంచుకోవడం",
+          "పాత కంపెనీలు ఎప్పటికీ విఫలం కావని నమ్మడం"
+        ],
+        "answer": "B",
+        "explanation": "డబ్బు సంపాదించినవాళ్లు తమ కథలు చెప్పుకుంటారు, నష్టపోయినవాళ్లు తరచూ మౌనంగా ఉంటారు. అందుకే రిస్క్ ఉన్న పందేలు నిజంగా ఉన్నదానికంటే సురక్షితంగా కనిపిస్తాయి."
+      }
+    }
+  },
+  {
+    "id": "invest-time-horizon-003",
+    "pillar": "invest",
+    "tags": [
+      "time-horizon",
+      "risk-and-return"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Shreya needs ₹5,000 for exam fees in two months. Why could a high-risk option be a poor fit for this money?",
+        "options": [
+          "Its value could be down when she needs it",
+          "Risky options cannot be sold for a year",
+          "Exam fees cannot be paid from investments",
+          "Risky options always lose money in two months"
+        ],
+        "answer": "A",
+        "explanation": "In a short time, a risky option may be below what she put in. She would then have less than ₹5,000 for her fees."
+      },
+      "hi": {
+        "prompt": "श्रेया को दो महीने में परीक्षा फ़ीस के लिए ₹5,000 चाहिए। इस पैसे के लिए ज़्यादा रिस्क वाला विकल्प ठीक क्यों नहीं हो सकता?",
+        "options": [
+          "जब उसे ज़रूरत हो, तब इसकी वैल्यू घटी हुई हो सकती है",
+          "रिस्क वाले विकल्प एक साल तक बेचे नहीं जा सकते",
+          "परीक्षा फ़ीस निवेश से नहीं भरी जा सकती",
+          "रिस्क वाले विकल्प दो महीने में हमेशा पैसा गँवाते हैं"
+        ],
+        "answer": "A",
+        "explanation": "थोड़े समय में, रिस्क वाले विकल्प की वैल्यू उसके लगाए पैसे से कम हो सकती है। तब उसके पास फ़ीस के लिए ₹5,000 से कम होंगे।"
+      },
+      "te": {
+        "prompt": "శ్రేయకు రెండు నెలల్లో పరీక్ష ఫీజు కోసం ₹5,000 కావాలి. ఈ డబ్బుకు ఎక్కువ రిస్క్ ఉన్న ఆప్షన్ ఎందుకు సరిపోకపోవచ్చు?",
+        "options": [
+          "ఆమెకు అవసరమైనప్పుడు దాని విలువ తగ్గి ఉండవచ్చు",
+          "రిస్క్ ఉన్న ఆప్షన్లను ఒక సంవత్సరం వరకు అమ్మలేరు",
+          "పరీక్ష ఫీజును పెట్టుబడుల నుండి కట్టలేరు",
+          "రిస్క్ ఉన్న ఆప్షన్లు రెండు నెలల్లో ఎప్పుడూ నష్టపోతాయి"
+        ],
+        "answer": "A",
+        "explanation": "తక్కువ సమయంలో, రిస్క్ ఉన్న ఆప్షన్ విలువ ఆమె పెట్టిన దానికంటే తక్కువగా ఉండవచ్చు. అప్పుడు ఫీజుకు ఆమె దగ్గర ₹5,000 కంటే తక్కువ ఉంటుంది."
+      }
+    }
+  },
+  {
+    "id": "invest-diversification-003",
+    "pillar": "invest",
+    "tags": [
+      "diversification"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Arjun's uncle keeps all his savings in shares of the one company he works for. What is the main danger?",
+        "options": [
+          "If it struggles, he may lose job and savings together",
+          "Shares of your own company cannot be sold",
+          "He will pay double tax on those shares",
+          "There is no danger if he trusts the company"
+        ],
+        "answer": "A",
+        "explanation": "His salary and his savings both depend on the same company. One bad event could hit both at once."
+      },
+      "hi": {
+        "prompt": "अर्जुन के चाचा अपनी सारी बचत उसी एक कंपनी के शेयरों में रखते हैं जहाँ वे काम करते हैं। सबसे बड़ा खतरा क्या है?",
+        "options": [
+          "अगर कंपनी मुश्किल में आई, तो नौकरी और बचत दोनों एक साथ जा सकती हैं",
+          "अपनी कंपनी के शेयर बेचे नहीं जा सकते",
+          "उन्हें उन शेयरों पर दोगुना टैक्स देना होगा",
+          "अगर उन्हें कंपनी पर भरोसा है तो कोई खतरा नहीं"
+        ],
+        "answer": "A",
+        "explanation": "उनकी सैलरी और उनकी बचत दोनों एक ही कंपनी पर निर्भर हैं। एक बुरी घटना दोनों पर एक साथ चोट कर सकती है।"
+      },
+      "te": {
+        "prompt": "అర్జున్ బాబాయి తన పొదుపు మొత్తాన్నీ తను పనిచేసే ఒకే కంపెనీ షేర్లలో పెట్టారు. ప్రధాన ప్రమాదం ఏమిటి?",
+        "options": [
+          "కంపెనీ కష్టాల్లో పడితే, ఉద్యోగం, పొదుపు రెండూ ఒకేసారి పోవచ్చు",
+          "సొంత కంపెనీ షేర్లను అమ్మలేరు",
+          "ఆ షేర్లపై ఆయన రెట్టింపు పన్ను కట్టాలి",
+          "కంపెనీని నమ్మితే ఎలాంటి ప్రమాదం లేదు"
+        ],
+        "answer": "A",
+        "explanation": "ఆయన జీతం, పొదుపు రెండూ ఒకే కంపెనీపై ఆధారపడి ఉన్నాయి. ఒక్క చెడు సంఘటన రెండింటినీ ఒకేసారి దెబ్బతీయగలదు."
+      }
+    }
+  },
+  {
+    "id": "invest-risk-and-return-004",
+    "pillar": "invest",
+    "tags": [
+      "risk-and-return"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "A message says: \"Invest ₹1,000, get ₹2,000 in one week, zero risk!\" What does the risk-return idea tell you?",
+        "options": [
+          "It is fine if a friend has already tried it",
+          "One week is enough time to double money safely",
+          "Small amounts like ₹1,000 carry no risk",
+          "High return with no risk is a big warning sign"
+        ],
+        "answer": "D",
+        "explanation": "Big returns always come with big risk, so a promise of both is not believable. Such offers are often scams."
+      },
+      "hi": {
+        "prompt": "एक मैसेज में लिखा है: \"₹1,000 लगाओ, एक हफ़्ते में ₹2,000 पाओ, ज़ीरो रिस्क!\" रिस्क-रिटर्न का सिद्धांत आपको क्या बताता है?",
+        "options": [
+          "अगर किसी दोस्त ने आज़माया है तो ठीक है",
+          "पैसा सुरक्षित तरीके से दोगुना करने के लिए एक हफ़्ता काफ़ी है",
+          "₹1,000 जैसी छोटी रकम में कोई रिस्क नहीं होता",
+          "बिना रिस्क के ज़्यादा रिटर्न एक बड़ा खतरे का संकेत है"
+        ],
+        "answer": "D",
+        "explanation": "बड़े रिटर्न के साथ हमेशा बड़ा रिस्क आता है, इसलिए दोनों का एक साथ वादा भरोसे लायक नहीं है। ऐसे ऑफ़र अक्सर धोखाधड़ी (स्कैम) होते हैं।"
+      },
+      "te": {
+        "prompt": "ఒక మెసేజ్‌లో ఇలా ఉంది: \"₹1,000 పెట్టండి, ఒక వారంలో ₹2,000 పొందండి, జీరో రిస్క్!\" రిస్క్-రిటర్న్ ఆలోచన మీకు ఏం చెబుతుంది?",
+        "options": [
+          "ఒక స్నేహితుడు ఇప్పటికే ప్రయత్నించి ఉంటే పర్వాలేదు",
+          "డబ్బును సురక్షితంగా రెట్టింపు చేయడానికి ఒక వారం చాలు",
+          "₹1,000 లాంటి చిన్న మొత్తాలకు రిస్క్ ఉండదు",
+          "రిస్క్ లేకుండా ఎక్కువ రిటర్న్ అంటే అది పెద్ద హెచ్చరిక సంకేతం"
+        ],
+        "answer": "D",
+        "explanation": "పెద్ద రిటర్న్‌తో ఎప్పుడూ పెద్ద రిస్క్ వస్తుంది, కాబట్టి రెండింటినీ కలిపి ఇస్తామన్న హామీ నమ్మదగినది కాదు. ఇలాంటి ఆఫర్లు తరచూ మోసాలు (స్కామ్‌లు)."
+      }
+    }
+  },
+  {
+    "id": "invest-stocks-basics-003",
+    "pillar": "invest",
+    "tags": [
+      "stocks-basics"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Kiran's friend says a share \"will surely go up\" because it rose a lot last month. What is wrong with this thinking?",
+        "options": [
+          "Shares that rise must fall the next month",
+          "Share prices change only once a year",
+          "Past rises do not guarantee future rises",
+          "Prices rise only when profits are paid out"
+        ],
+        "answer": "C",
+        "explanation": "A share's past movement does not decide what happens next. Nobody can be sure a price will rise."
+      },
+      "hi": {
+        "prompt": "किरण का दोस्त कहता है कि एक शेयर \"पक्का ऊपर जाएगा\", क्योंकि पिछले महीने वह बहुत बढ़ा था। इस सोच में क्या गलत है?",
+        "options": [
+          "जो शेयर बढ़ते हैं, वे अगले महीने ज़रूर गिरते हैं",
+          "शेयर के दाम साल में सिर्फ़ एक बार बदलते हैं",
+          "पहले बढ़ने का मतलब यह गारंटी नहीं कि आगे भी बढ़ेगा",
+          "दाम तभी बढ़ते हैं जब मुनाफ़ा बाँटा जाता है"
+        ],
+        "answer": "C",
+        "explanation": "किसी शेयर की पिछली चाल से तय नहीं होता कि आगे क्या होगा। कोई भी पक्का नहीं कह सकता कि दाम बढ़ेगा।"
+      },
+      "te": {
+        "prompt": "ఒక షేరు గత నెల బాగా పెరిగింది కాబట్టి అది \"ఖచ్చితంగా పెరుగుతుంది\" అని కిరణ్ స్నేహితుడు అంటున్నాడు. ఈ ఆలోచనలో తప్పు ఏమిటి?",
+        "options": [
+          "పెరిగిన షేర్లు తర్వాతి నెల తప్పకుండా పడిపోతాయి",
+          "షేరు ధరలు సంవత్సరానికి ఒకసారి మాత్రమే మారుతాయి",
+          "గతంలో పెరిగినంత మాత్రాన భవిష్యత్తులో పెరుగుతుందని గ్యారంటీ లేదు",
+          "లాభాలు పంచినప్పుడు మాత్రమే ధరలు పెరుగుతాయి"
+        ],
+        "answer": "C",
+        "explanation": "ఒక షేరు గతంలో ఎలా కదిలిందో దాన్ని బట్టి తర్వాత ఏం జరుగుతుందో నిర్ణయం కాదు. ధర పెరుగుతుందని ఎవరూ ఖచ్చితంగా చెప్పలేరు."
+      }
+    }
+  },
+  {
+    "id": "invest-mutual-fund-basics-004",
+    "pillar": "invest",
+    "tags": [
+      "mutual-fund-basics"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Fatima puts ₹500 into a mutual fund on the 5th of every month. What is this regular way of investing called?",
+        "options": [
+          "A lump-sum fixed deposit",
+          "A SIP (Systematic Investment Plan)",
+          "A monthly loan EMI",
+          "A one-time share purchase"
+        ],
+        "answer": "B",
+        "explanation": "Putting a fixed amount into a fund at regular times is a SIP. A lump sum is a single large payment, and an EMI repays a loan."
+      },
+      "hi": {
+        "prompt": "फ़ातिमा हर महीने की 5 तारीख को एक म्यूचुअल फ़ंड में ₹500 डालती है। निवेश के इस नियमित तरीके को क्या कहते हैं?",
+        "options": [
+          "एकमुश्त (लम्प सम) फ़िक्स्ड डिपॉज़िट",
+          "SIP (सिस्टमैटिक इन्वेस्टमेंट प्लान)",
+          "लोन की मासिक EMI",
+          "एक बार में शेयर खरीदना"
+        ],
+        "answer": "B",
+        "explanation": "नियमित समय पर किसी फ़ंड में तय रकम डालना SIP कहलाता है। एकमुश्त का मतलब एक ही बार में बड़ी रकम देना है, और EMI से लोन चुकाया जाता है।"
+      },
+      "te": {
+        "prompt": "ఫాతిమా ప్రతి నెలా 5వ తేదీన ఒక మ్యూచువల్ ఫండ్‌లో ₹500 పెడుతుంది. ఇలా క్రమం తప్పకుండా పెట్టుబడి పెట్టే పద్ధతిని ఏమంటారు?",
+        "options": [
+          "ఒకేసారి పెట్టే (లంప్-సమ్) ఫిక్స్‌డ్ డిపాజిట్",
+          "SIP (సిస్టమాటిక్ ఇన్వెస్ట్‌మెంట్ ప్లాన్)",
+          "నెలవారీ లోన్ EMI",
+          "ఒక్కసారి షేర్లు కొనడం"
+        ],
+        "answer": "B",
+        "explanation": "క్రమమైన సమయాల్లో ఒక ఫండ్‌లో నిర్ణీత మొత్తం పెట్టడాన్ని SIP అంటారు. లంప్-సమ్ అంటే ఒకేసారి పెద్ద మొత్తం కట్టడం, EMI అంటే లోన్ తిరిగి చెల్లించడం."
+      }
+    }
+  },
+  {
+    "id": "invest-time-horizon-004",
+    "pillar": "invest",
+    "tags": [
+      "time-horizon"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Rahul is saving for a goal 10 years away. Ananya is saving for a phone in 6 months. Who can better handle short-term ups and downs?",
+        "options": [
+          "Ananya, because her amount is smaller",
+          "Rahul, because he has more time to recover",
+          "Both equally, since time does not matter",
+          "Neither, because values never change"
+        ],
+        "answer": "B",
+        "explanation": "Rahul will not need his money for years, so a fall today has time to recover. Ananya needs hers soon, so a fall could leave her short."
+      },
+      "hi": {
+        "prompt": "राहुल 10 साल बाद के एक लक्ष्य के लिए बचत कर रहा है। अनन्या 6 महीने में फ़ोन खरीदने के लिए बचत कर रही है। थोड़े समय के उतार-चढ़ाव को कौन बेहतर झेल सकता है?",
+        "options": [
+          "अनन्या, क्योंकि उसकी रकम छोटी है",
+          "राहुल, क्योंकि उसके पास संभलने के लिए ज़्यादा समय है",
+          "दोनों बराबर, क्योंकि समय से कोई फ़र्क नहीं पड़ता",
+          "कोई नहीं, क्योंकि वैल्यू कभी बदलती ही नहीं"
+        ],
+        "answer": "B",
+        "explanation": "राहुल को सालों तक अपने पैसे की ज़रूरत नहीं है, इसलिए आज की गिरावट को संभलने का समय मिलेगा। अनन्या को जल्दी पैसा चाहिए, इसलिए गिरावट से उसके पैसे कम पड़ सकते हैं।"
+      },
+      "te": {
+        "prompt": "రాహుల్ 10 సంవత్సరాల తర్వాతి లక్ష్యం కోసం పొదుపు చేస్తున్నాడు. అనన్య 6 నెలల్లో ఫోన్ కొనడానికి పొదుపు చేస్తోంది. తక్కువ కాలపు ఒడిదుడుకులను ఎవరు బాగా తట్టుకోగలరు?",
+        "options": [
+          "అనన్య, ఎందుకంటే ఆమె మొత్తం చిన్నది",
+          "రాహుల్, ఎందుకంటే కోలుకోవడానికి అతనికి ఎక్కువ సమయం ఉంది",
+          "ఇద్దరూ సమానంగా, ఎందుకంటే సమయం ముఖ్యం కాదు",
+          "ఎవరూ కాదు, ఎందుకంటే విలువలు ఎప్పుడూ మారవు"
+        ],
+        "answer": "B",
+        "explanation": "రాహుల్‌కు చాలా సంవత్సరాల వరకు డబ్బు అవసరం లేదు, కాబట్టి ఈరోజు పడిపోయినా కోలుకోవడానికి సమయం ఉంటుంది. అనన్యకు డబ్బు త్వరలోనే కావాలి, కాబట్టి విలువ పడిపోతే ఆమెకు డబ్బు తక్కువ పడవచ్చు."
+      }
+    }
+  },
+  {
+    "id": "invest-diversification-004",
+    "pillar": "invest",
+    "tags": [
+      "diversification"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Meena sells only tea at her stall. Her neighbour sells tea, snacks and juice. In a month when tea sales drop, who is likely hurt more?",
+        "options": [
+          "Meena, because all her income depends on tea",
+          "The neighbour, because she has more to manage",
+          "Both equally, since tea sales fell for both",
+          "Neither, because stalls always earn the same"
+        ],
+        "answer": "A",
+        "explanation": "Meena has only one source of income, so a fall in tea sales hits all of it. Her neighbour still earns from snacks and juice."
+      },
+      "hi": {
+        "prompt": "मीना अपने स्टॉल पर सिर्फ़ चाय बेचती है। उसकी पड़ोसन चाय, नाश्ता और जूस बेचती है। जिस महीने चाय की बिक्री घटती है, किसका नुकसान ज़्यादा होने की संभावना है?",
+        "options": [
+          "मीना का, क्योंकि उसकी पूरी कमाई चाय पर टिकी है",
+          "पड़ोसन का, क्योंकि उसे ज़्यादा चीज़ें संभालनी पड़ती हैं",
+          "दोनों का बराबर, क्योंकि दोनों की चाय की बिक्री घटी",
+          "किसी का नहीं, क्योंकि स्टॉल हमेशा एक जितना कमाते हैं"
+        ],
+        "answer": "A",
+        "explanation": "मीना की कमाई का सिर्फ़ एक ही ज़रिया है, इसलिए चाय की बिक्री घटने से उसकी पूरी कमाई पर असर पड़ता है। उसकी पड़ोसन अब भी नाश्ते और जूस से कमाती है।"
+      },
+      "te": {
+        "prompt": "మీనా తన స్టాల్‌లో టీ మాత్రమే అమ్ముతుంది. ఆమె పక్కింటావిడ టీ, స్నాక్స్, జ్యూస్ అమ్ముతుంది. టీ అమ్మకాలు తగ్గిన నెలలో ఎవరికి ఎక్కువ నష్టం జరిగే అవకాశం ఉంది?",
+        "options": [
+          "మీనాకు, ఎందుకంటే ఆమె ఆదాయం మొత్తం టీ మీదే ఆధారపడి ఉంది",
+          "పక్కింటావిడకు, ఎందుకంటే ఆమె ఎక్కువ వాటిని చూసుకోవాలి",
+          "ఇద్దరికీ సమానంగా, ఎందుకంటే ఇద్దరికీ టీ అమ్మకాలు తగ్గాయి",
+          "ఎవరికీ కాదు, ఎందుకంటే స్టాల్స్ ఎప్పుడూ ఒకేలా సంపాదిస్తాయి"
+        ],
+        "answer": "A",
+        "explanation": "మీనాకు ఆదాయం ఒకే మార్గం నుండి వస్తుంది, కాబట్టి టీ అమ్మకాలు తగ్గితే ఆమె ఆదాయం మొత్తం దెబ్బతింటుంది. ఆమె పక్కింటావిడకు ఇంకా స్నాక్స్, జ్యూస్ నుండి ఆదాయం వస్తుంది."
+      }
+    }
+  },
+  {
+    "id": "invest-gold-and-fd-004",
+    "pillar": "invest",
+    "tags": [
+      "gold-and-fd"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Sunita's grandmother says, \"Gold never loses value.\" Which statement is more accurate?",
+        "options": [
+          "Gold rises by a fixed amount every year",
+          "Banks guarantee the value of gold",
+          "Gold loses value only when made into jewellery",
+          "Gold prices can fall too, sometimes for years"
+        ],
+        "answer": "D",
+        "explanation": "Gold's price moves with demand and world events. It has had long periods of falling or flat prices."
+      },
+      "hi": {
+        "prompt": "सुनीता की दादी कहती हैं, \"सोने की वैल्यू कभी नहीं घटती।\" कौन-सी बात ज़्यादा सही है?",
+        "options": [
+          "सोना हर साल एक तय मात्रा में बढ़ता है",
+          "बैंक सोने की वैल्यू की गारंटी देते हैं",
+          "सोना तभी वैल्यू खोता है जब उसके गहने बनते हैं",
+          "सोने के दाम भी गिर सकते हैं, कभी-कभी सालों तक"
+        ],
+        "answer": "D",
+        "explanation": "सोने का दाम माँग और दुनिया की घटनाओं के साथ बदलता है। कई बार लंबे समय तक इसके दाम गिरे हैं या वहीं के वहीं रहे हैं।"
+      },
+      "te": {
+        "prompt": "సునీత నానమ్మ \"బంగారం విలువ ఎప్పుడూ తగ్గదు\" అంటుంది. ఏ వాక్యం ఎక్కువ సరైనది?",
+        "options": [
+          "బంగారం ప్రతి సంవత్సరం ఒక నిర్ణీత మొత్తంలో పెరుగుతుంది",
+          "బంగారం విలువకు బ్యాంకులు గ్యారంటీ ఇస్తాయి",
+          "బంగారాన్ని నగలుగా చేసినప్పుడు మాత్రమే అది విలువ కోల్పోతుంది",
+          "బంగారం ధరలు కూడా పడిపోవచ్చు, కొన్నిసార్లు సంవత్సరాల పాటు"
+        ],
+        "answer": "D",
+        "explanation": "డిమాండ్, ప్రపంచ సంఘటనలను బట్టి బంగారం ధర మారుతుంది. చాలా కాలం పాటు దాని ధరలు పడిపోయిన లేదా పెరగకుండా ఉన్న సందర్భాలు ఉన్నాయి."
+      }
+    }
+  },
+  {
+    "id": "invest-mutual-fund-basics-005",
+    "pillar": "invest",
+    "tags": [
+      "mutual-fund-basics",
+      "risk-and-return"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "A fund advert says, \"Mutual fund investments are subject to market risks.\" What does this mean?",
+        "options": [
+          "The fund promises you a fixed yearly return",
+          "Only the fund manager can lose money",
+          "Your money's value can go down as well as up",
+          "Your money can never be taken out"
+        ],
+        "answer": "C",
+        "explanation": "A fund's value follows the market, so it can fall. That warning reminds investors that returns are not promised."
+      },
+      "hi": {
+        "prompt": "एक फ़ंड के विज्ञापन में लिखा है, \"म्यूचुअल फ़ंड निवेश बाज़ार के जोखिमों के अधीन हैं।\" इसका क्या मतलब है?",
+        "options": [
+          "फ़ंड आपको हर साल तय रिटर्न का वादा करता है",
+          "सिर्फ़ फ़ंड मैनेजर का पैसा डूब सकता है",
+          "आपके पैसे की वैल्यू ऊपर के साथ-साथ नीचे भी जा सकती है",
+          "आपका पैसा कभी निकाला नहीं जा सकता"
+        ],
+        "answer": "C",
+        "explanation": "फ़ंड की वैल्यू बाज़ार के साथ चलती है, इसलिए यह गिर सकती है। यह चेतावनी निवेशकों को याद दिलाती है कि रिटर्न का कोई वादा नहीं है।"
+      },
+      "te": {
+        "prompt": "ఒక ఫండ్ ప్రకటనలో \"మ్యూచువల్ ఫండ్ పెట్టుబడులు మార్కెట్ రిస్క్‌లకు లోబడి ఉంటాయి\" అని ఉంది. దీని అర్థం ఏమిటి?",
+        "options": [
+          "ఫండ్ మీకు ప్రతి సంవత్సరం స్థిరమైన రిటర్న్ ఇస్తానని హామీ ఇస్తుంది",
+          "ఫండ్ మేనేజర్ మాత్రమే డబ్బు నష్టపోగలరు",
+          "మీ డబ్బు విలువ పెరగనూ వచ్చు, తగ్గనూ వచ్చు",
+          "మీ డబ్బును ఎప్పటికీ బయటకు తీయలేరు"
+        ],
+        "answer": "C",
+        "explanation": "ఫండ్ విలువ మార్కెట్‌ను అనుసరిస్తుంది, కాబట్టి అది తగ్గవచ్చు. రిటర్న్‌లకు హామీ లేదని ఆ హెచ్చరిక పెట్టుబడిదారులకు గుర్తు చేస్తుంది."
+      }
+    }
+  },
+  {
+    "id": "invest-risk-and-return-005",
+    "pillar": "invest",
+    "tags": [
+      "risk-and-return"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Vikram feels so worried that he cannot sleep when his investment drops 10%. What does this say about his \"risk tolerance\"?",
+        "options": [
+          "It is high; he enjoys big swings",
+          "Risk tolerance cannot be judged from feelings",
+          "It is low; big swings make him uneasy",
+          "Risk tolerance depends only on a person's age"
+        ],
+        "answer": "C",
+        "explanation": "Risk tolerance is how comfortable you are with your money going up and down. Strong worry after a small drop shows low tolerance."
+      },
+      "hi": {
+        "prompt": "जब विक्रम का निवेश 10% गिरता है, तो वह इतना परेशान हो जाता है कि सो नहीं पाता। इससे उसकी \"रिस्क टॉलरेंस\" (जोखिम सहने की क्षमता) के बारे में क्या पता चलता है?",
+        "options": [
+          "यह ज़्यादा है; उसे बड़े उतार-चढ़ाव पसंद हैं",
+          "रिस्क टॉलरेंस को भावनाओं से नहीं परखा जा सकता",
+          "यह कम है; बड़े उतार-चढ़ाव से वह बेचैन हो जाता है",
+          "रिस्क टॉलरेंस सिर्फ़ इंसान की उम्र पर निर्भर करती है"
+        ],
+        "answer": "C",
+        "explanation": "रिस्क टॉलरेंस का मतलब है कि अपने पैसे के ऊपर-नीचे होने पर आप कितने सहज रहते हैं। छोटी-सी गिरावट पर बहुत चिंता होना कम टॉलरेंस दिखाता है।"
+      },
+      "te": {
+        "prompt": "విక్రమ్ పెట్టుబడి 10% పడిపోయినప్పుడు, అతనికి నిద్రపట్టనంతగా ఆందోళన కలుగుతుంది. ఇది అతని \"రిస్క్ టాలరెన్స్\" (రిస్క్‌ను తట్టుకునే సామర్థ్యం) గురించి ఏం చెబుతుంది?",
+        "options": [
+          "అది ఎక్కువ; అతనికి పెద్ద ఒడిదుడుకులు ఇష్టం",
+          "భావాలను బట్టి రిస్క్ టాలరెన్స్‌ను అంచనా వేయలేము",
+          "అది తక్కువ; పెద్ద ఒడిదుడుకులు అతన్ని ఇబ్బంది పెడతాయి",
+          "రిస్క్ టాలరెన్స్ ఒక వ్యక్తి వయసుపై మాత్రమే ఆధారపడుతుంది"
+        ],
+        "answer": "C",
+        "explanation": "రిస్క్ టాలరెన్స్ అంటే మీ డబ్బు పెరుగుతూ తగ్గుతూ ఉన్నప్పుడు మీరు ఎంత నిశ్చింతగా ఉంటారో అది. చిన్న తగ్గుదలకే బాగా ఆందోళన చెందడం తక్కువ టాలరెన్స్‌ను చూపిస్తుంది."
+      }
+    }
+  },
+  {
+    "id": "invest-stocks-basics-004",
+    "pillar": "invest",
+    "tags": [
+      "stocks-basics"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Lakshmi owns a few shares of a company. News comes that the company's profits have fallen sharply. What is likely to happen to her shares?",
+        "options": [
+          "Their price is fixed, so nothing changes",
+          "Their price may fall",
+          "She must pay a share of the losses",
+          "The bank will refund her original amount"
+        ],
+        "answer": "B",
+        "explanation": "Share prices often fall when a company earns less, because fewer people want to buy. Her loss is limited to what she invested."
+      },
+      "hi": {
+        "prompt": "लक्ष्मी के पास एक कंपनी के कुछ शेयर हैं। खबर आती है कि कंपनी का मुनाफ़ा बहुत घट गया है। उसके शेयरों के साथ क्या होने की संभावना है?",
+        "options": [
+          "उनका दाम तय है, इसलिए कुछ नहीं बदलेगा",
+          "उनका दाम गिर सकता है",
+          "उसे नुकसान का एक हिस्सा भरना होगा",
+          "बैंक उसका मूल पैसा वापस कर देगा"
+        ],
+        "answer": "B",
+        "explanation": "जब कोई कंपनी कम कमाती है, तो अक्सर उसके शेयर का दाम गिरता है, क्योंकि कम लोग उसे खरीदना चाहते हैं। उसका नुकसान उतने तक ही सीमित है जितना उसने निवेश किया है।"
+      },
+      "te": {
+        "prompt": "లక్ష్మి దగ్గర ఒక కంపెనీ షేర్లు కొన్ని ఉన్నాయి. ఆ కంపెనీ లాభాలు బాగా తగ్గిపోయాయని వార్త వచ్చింది. ఆమె షేర్లకు ఏం జరిగే అవకాశం ఉంది?",
+        "options": [
+          "వాటి ధర స్థిరం, కాబట్టి ఏమీ మారదు",
+          "వాటి ధర తగ్గవచ్చు",
+          "నష్టాల్లో కొంత భాగాన్ని ఆమె కట్టాలి",
+          "బ్యాంకు ఆమె అసలు మొత్తాన్ని తిరిగి ఇస్తుంది"
+        ],
+        "answer": "B",
+        "explanation": "ఒక కంపెనీ తక్కువ సంపాదించినప్పుడు, కొనాలనుకునేవారు తగ్గుతారు కాబట్టి తరచూ దాని షేరు ధర పడిపోతుంది. ఆమె నష్టం ఆమె పెట్టిన మొత్తానికి మించదు."
+      }
+    }
+  },
+  {
+    "id": "invest-gold-and-fd-005",
+    "pillar": "invest",
+    "tags": [
+      "gold-and-fd"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Imran puts ₹10,000 in a 1-year FD but needs the money after 4 months. What usually happens?",
+        "options": [
+          "He can break it early, often for less interest",
+          "He cannot get any money for the full year",
+          "He earns extra interest for leaving early",
+          "The bank keeps the whole ₹10,000 as a fine"
+        ],
+        "answer": "A",
+        "explanation": "Most banks let you close an FD early but pay a lower rate or charge a small penalty. His original money is still returned."
+      },
+      "hi": {
+        "prompt": "इमरान ₹10,000 की 1 साल की FD करता है, लेकिन उसे 4 महीने बाद ही पैसे चाहिए। आम तौर पर क्या होता है?",
+        "options": [
+          "वह इसे पहले तोड़ सकता है, अक्सर कम ब्याज पर",
+          "उसे पूरे साल तक कोई पैसा नहीं मिल सकता",
+          "जल्दी निकालने पर उसे ज़्यादा ब्याज मिलता है",
+          "बैंक जुर्माने के तौर पर पूरे ₹10,000 रख लेता है"
+        ],
+        "answer": "A",
+        "explanation": "ज़्यादातर बैंक FD को समय से पहले बंद करने देते हैं, लेकिन कम दर पर ब्याज देते हैं या थोड़ा जुर्माना लेते हैं। उसका मूल पैसा फिर भी वापस मिल जाता है।"
+      },
+      "te": {
+        "prompt": "ఇమ్రాన్ ₹10,000తో 1 సంవత్సరం FD వేస్తాడు, కానీ 4 నెలల తర్వాతే అతనికి డబ్బు అవసరం అవుతుంది. సాధారణంగా ఏం జరుగుతుంది?",
+        "options": [
+          "అతను దాన్ని ముందుగానే బ్రేక్ చేయవచ్చు, తరచూ తక్కువ వడ్డీకి",
+          "పూర్తి సంవత్సరం వరకు అతనికి ఏ డబ్బూ రాదు",
+          "ముందుగా తీసుకున్నందుకు అతనికి అదనపు వడ్డీ వస్తుంది",
+          "బ్యాంకు జరిమానాగా మొత్తం ₹10,000 ఉంచేసుకుంటుంది"
+        ],
+        "answer": "A",
+        "explanation": "చాలా బ్యాంకులు FDని ముందుగానే మూసేయనిస్తాయి, కానీ తక్కువ రేటు ఇస్తాయి లేదా చిన్న జరిమానా వసూలు చేస్తాయి. అయినా అతని అసలు డబ్బు తిరిగి వస్తుంది."
+      }
+    }
+  },
+  {
+    "id": "invest-diversification-005",
+    "pillar": "invest",
+    "tags": [
+      "diversification"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Which example shows money spread across the widest mix of options?",
+        "options": [
+          "Ravi puts all savings in one company's shares",
+          "Asha buys gold jewellery with all her savings",
+          "Tarun keeps all his savings in one FD",
+          "Pooja splits savings across an FD, gold and a fund"
+        ],
+        "answer": "D",
+        "explanation": "Pooja's money is in three different types of options. The others have everything in a single option."
+      },
+      "hi": {
+        "prompt": "किस उदाहरण में पैसा सबसे ज़्यादा तरह के विकल्पों में बँटा हुआ है?",
+        "options": [
+          "रवि सारी बचत एक कंपनी के शेयरों में लगाता है",
+          "आशा सारी बचत से सोने के गहने खरीदती है",
+          "तरुण सारी बचत एक FD में रखता है",
+          "पूजा बचत को FD, सोने और एक फ़ंड में बाँटती है"
+        ],
+        "answer": "D",
+        "explanation": "पूजा का पैसा तीन अलग-अलग तरह के विकल्पों में है। बाकी सबने सब कुछ एक ही विकल्प में रखा है।"
+      },
+      "te": {
+        "prompt": "ఏ ఉదాహరణలో డబ్బు అత్యధిక రకాల ఆప్షన్లలో పంచబడి ఉంది?",
+        "options": [
+          "రవి పొదుపు మొత్తాన్ని ఒకే కంపెనీ షేర్లలో పెడతాడు",
+          "ఆశ తన పొదుపు మొత్తంతో బంగారు నగలు కొంటుంది",
+          "తరుణ్ తన పొదుపు మొత్తాన్ని ఒకే FDలో ఉంచుతాడు",
+          "పూజ పొదుపును FD, బంగారం, ఒక ఫండ్‌లో పంచుతుంది"
+        ],
+        "answer": "D",
+        "explanation": "పూజ డబ్బు మూడు వేర్వేరు రకాల ఆప్షన్లలో ఉంది. మిగతావాళ్లు అంతా ఒకే ఆప్షన్‌లో పెట్టారు."
+      }
+    }
+  },
+  {
+    "id": "invest-time-horizon-005",
+    "pillar": "invest",
+    "tags": [
+      "time-horizon",
+      "risk-and-return"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Why do many people lower the risk of their savings as the date of their goal gets close?",
+        "options": [
+          "Risky options stop working near goal dates",
+          "Banks require it in the final year",
+          "Low-risk options pay more near a goal date",
+          "A fall near the end leaves little time to recover"
+        ],
+        "answer": "D",
+        "explanation": "Close to the goal, there is no time to wait for prices to come back. Lowering risk then protects the money that is needed soon."
+      },
+      "hi": {
+        "prompt": "लक्ष्य की तारीख पास आने पर बहुत से लोग अपनी बचत का रिस्क कम क्यों कर देते हैं?",
+        "options": [
+          "लक्ष्य की तारीख के पास रिस्क वाले विकल्प काम करना बंद कर देते हैं",
+          "आखिरी साल में बैंक ऐसा करना ज़रूरी बनाते हैं",
+          "लक्ष्य की तारीख के पास कम रिस्क वाले विकल्प ज़्यादा देते हैं",
+          "आखिर में गिरावट आई तो संभलने का समय कम बचता है"
+        ],
+        "answer": "D",
+        "explanation": "लक्ष्य के करीब, दाम वापस आने का इंतज़ार करने का समय नहीं होता। तब रिस्क कम करने से वह पैसा सुरक्षित रहता है जिसकी जल्दी ज़रूरत है।"
+      },
+      "te": {
+        "prompt": "లక్ష్యం తేదీ దగ్గర పడుతున్న కొద్దీ చాలా మంది తమ పొదుపు రిస్క్‌ను ఎందుకు తగ్గిస్తారు?",
+        "options": [
+          "లక్ష్యం తేదీ దగ్గర రిస్క్ ఉన్న ఆప్షన్లు పనిచేయడం ఆగిపోతాయి",
+          "చివరి సంవత్సరంలో బ్యాంకులు అలా చేయడం తప్పనిసరి చేస్తాయి",
+          "లక్ష్యం తేదీ దగ్గర తక్కువ రిస్క్ ఉన్న ఆప్షన్లు ఎక్కువ ఇస్తాయి",
+          "చివర్లో విలువ పడిపోతే కోలుకోవడానికి తక్కువ సమయం మిగులుతుంది"
+        ],
+        "answer": "D",
+        "explanation": "లక్ష్యానికి దగ్గరగా ఉన్నప్పుడు, ధరలు తిరిగి పెరిగే వరకు ఎదురుచూసే సమయం ఉండదు. అప్పుడు రిస్క్ తగ్గిస్తే త్వరలో అవసరమైన డబ్బు సురక్షితంగా ఉంటుంది."
+      }
+    }
+  },
+  {
+    "id": "invest-stocks-basics-005",
+    "pillar": "invest",
+    "tags": [
+      "stocks-basics"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Siddharth bought a share at ₹200. It is now ₹150, and he has not sold it. What is true?",
+        "options": [
+          "He has already lost ₹50 in cash for sure",
+          "The price must return to ₹200 eventually",
+          "His loss is on paper; the price can still change",
+          "The company now owes him ₹50"
+        ],
+        "answer": "C",
+        "explanation": "Until he sells, the ₹50 loss is not final, and the price may rise or fall further. Nothing guarantees it returns to ₹200."
+      },
+      "hi": {
+        "prompt": "सिद्धार्थ ने ₹200 में एक शेयर खरीदा। अब उसका दाम ₹150 है, और उसने उसे बेचा नहीं है। क्या सही है?",
+        "options": [
+          "उसने पक्का ₹50 नकद गँवा दिए हैं",
+          "दाम आखिरकार ₹200 पर लौटना ही चाहिए",
+          "उसका नुकसान अभी कागज़ पर है; दाम अभी भी बदल सकता है",
+          "अब कंपनी को उसे ₹50 देने हैं"
+        ],
+        "answer": "C",
+        "explanation": "जब तक वह बेचता नहीं, ₹50 का नुकसान पक्का नहीं है, और दाम आगे बढ़ या घट सकता है। इसकी कोई गारंटी नहीं कि दाम ₹200 पर लौटेगा।"
+      },
+      "te": {
+        "prompt": "సిద్ధార్థ్ ఒక షేరును ₹200కు కొన్నాడు. ఇప్పుడు దాని ధర ₹150, అతను దాన్ని ఇంకా అమ్మలేదు. ఏది నిజం?",
+        "options": [
+          "అతను ఇప్పటికే ఖచ్చితంగా ₹50 నగదు నష్టపోయాడు",
+          "ధర ఎప్పటికైనా ₹200కు తిరిగి రావాల్సిందే",
+          "అతని నష్టం ఇప్పటికి కాగితం మీదే; ధర ఇంకా మారవచ్చు",
+          "ఇప్పుడు కంపెనీ అతనికి ₹50 బాకీ ఉంది"
+        ],
+        "answer": "C",
+        "explanation": "అతను అమ్మే వరకు ₹50 నష్టం ఫైనల్ కాదు, ధర ఇంకా పెరగవచ్చు లేదా తగ్గవచ్చు. ధర ₹200కు తిరిగి వస్తుందని ఏ గ్యారంటీ లేదు."
+      }
+    }
+  },
+  {
+    "id": "invest-diversification-006",
+    "pillar": "invest",
+    "tags": [
+      "diversification",
+      "risk-and-return"
+    ],
+    "tier": "gold",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "reel_id": "invest-risk-and-diversification",
+    "content": {
+      "en": {
+        "prompt": "A fruit seller earns ₹300 a day each from mangoes, bananas and apples. Mango season fails, and mango income becomes zero. How much does she still earn per day?",
+        "options": [
+          "₹0",
+          "₹600",
+          "₹300",
+          "₹900"
+        ],
+        "answer": "B",
+        "explanation": "Only the ₹300 from mangoes is lost, so bananas and apples still bring ₹600. Selling three fruits meant one bad season did not wipe her out."
+      },
+      "hi": {
+        "prompt": "एक फल वाली आम, केले और सेब — हर एक से रोज़ ₹300 कमाती है। आम का मौसम खराब जाता है, और आम से कमाई शून्य हो जाती है। अब वह रोज़ कितना कमाती है?",
+        "options": [
+          "₹0",
+          "₹600",
+          "₹300",
+          "₹900"
+        ],
+        "answer": "B",
+        "explanation": "सिर्फ़ आम से होने वाले ₹300 गए, इसलिए केले और सेब से अब भी ₹600 आते हैं। तीन तरह के फल बेचने से एक खराब मौसम में सब कुछ खत्म नहीं हुआ।"
+      },
+      "te": {
+        "prompt": "ఒక పండ్ల వ్యాపారి మామిడి, అరటి, ఆపిల్ — ఒక్కోదాని నుండి రోజుకు ₹300 సంపాదిస్తుంది. మామిడి సీజన్ దెబ్బతిని, మామిడి ఆదాయం సున్నా అవుతుంది. ఆమె ఇప్పటికీ రోజుకు ఎంత సంపాదిస్తుంది?",
+        "options": [
+          "₹0",
+          "₹600",
+          "₹300",
+          "₹900"
+        ],
+        "answer": "B",
+        "explanation": "మామిడి నుండి వచ్చే ₹300 మాత్రమే పోయింది, కాబట్టి అరటి, ఆపిల్ నుండి ఇంకా ₹600 వస్తుంది. మూడు రకాల పండ్లు అమ్మడం వల్ల ఒక్క చెడ్డ సీజన్ ఆమెను పూర్తిగా దెబ్బతీయలేదు."
+      }
+    }
+  },
+  {
+    "id": "invest-risk-and-return-006",
+    "pillar": "invest",
+    "tags": [
+      "risk-and-return"
+    ],
+    "tier": "gold",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Priya's ₹10,000 investment falls 20% in year one and rises 20% in year two. What is it worth now? (Example numbers; ignore fees.)",
+        "options": [
+          "₹9,600",
+          "₹10,000",
+          "₹8,000",
+          "₹10,400"
+        ],
+        "answer": "A",
+        "explanation": "After the fall it is ₹8,000, and 20% of ₹8,000 is ₹1,600, giving ₹9,600. A rise has to be bigger than the fall to get back to the start."
+      },
+      "hi": {
+        "prompt": "प्रिया का ₹10,000 का निवेश पहले साल 20% गिरता है और दूसरे साल 20% बढ़ता है। अब इसकी वैल्यू कितनी है? (उदाहरण के आँकड़े; फ़ीस को छोड़ दें।)",
+        "options": [
+          "₹9,600",
+          "₹10,000",
+          "₹8,000",
+          "₹10,400"
+        ],
+        "answer": "A",
+        "explanation": "गिरने के बाद यह ₹8,000 रह जाता है, और ₹8,000 का 20% ₹1,600 है, जिससे यह ₹9,600 होता है। शुरुआती रकम पर लौटने के लिए बढ़त, गिरावट से बड़ी होनी चाहिए।"
+      },
+      "te": {
+        "prompt": "ప్రియ పెట్టిన ₹10,000 మొదటి సంవత్సరం 20% పడిపోయి, రెండో సంవత్సరం 20% పెరుగుతుంది. ఇప్పుడు దాని విలువ ఎంత? (ఉదాహరణ సంఖ్యలు; ఫీజులను లెక్కలోకి తీసుకోవద్దు.)",
+        "options": [
+          "₹9,600",
+          "₹10,000",
+          "₹8,000",
+          "₹10,400"
+        ],
+        "answer": "A",
+        "explanation": "పడిపోయిన తర్వాత అది ₹8,000 అవుతుంది, ₹8,000లో 20% అంటే ₹1,600, కాబట్టి మొత్తం ₹9,600. మొదటి మొత్తానికి తిరిగి రావాలంటే, పెరుగుదల తగ్గుదల కంటే పెద్దదిగా ఉండాలి."
+      }
+    }
+  },
+  {
+    "id": "invest-diversification-007",
+    "pillar": "invest",
+    "tags": [
+      "diversification"
+    ],
+    "tier": "gold",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Ravi puts ₹5,000 in option X and ₹5,000 in option Y. In one example year, X falls 10% and Y rises 6%. What is his total at year end?",
+        "options": [
+          "₹9,800",
+          "₹9,000",
+          "₹10,600",
+          "₹9,600"
+        ],
+        "answer": "A",
+        "explanation": "X becomes ₹4,500 and Y becomes ₹5,300, which adds to ₹9,800. Splitting the money made the loss smaller than putting it all in X."
+      },
+      "hi": {
+        "prompt": "रवि ₹5,000 विकल्प X में और ₹5,000 विकल्प Y में लगाता है। एक उदाहरण वाले साल में X 10% गिरता है और Y 6% बढ़ता है। साल के आखिर में उसके पास कुल कितना है?",
+        "options": [
+          "₹9,800",
+          "₹9,000",
+          "₹10,600",
+          "₹9,600"
+        ],
+        "answer": "A",
+        "explanation": "X ₹4,500 हो जाता है और Y ₹5,300, जो मिलाकर ₹9,800 है। पैसा बाँटने से नुकसान उससे कम हुआ, जितना सारा पैसा X में लगाने पर होता।"
+      },
+      "te": {
+        "prompt": "రవి ₹5,000 ఆప్షన్ Xలో, ₹5,000 ఆప్షన్ Yలో పెడతాడు. ఒక ఉదాహరణ సంవత్సరంలో X 10% పడిపోతుంది, Y 6% పెరుగుతుంది. సంవత్సరం చివరికి అతని దగ్గర మొత్తం ఎంత ఉంటుంది?",
+        "options": [
+          "₹9,800",
+          "₹9,000",
+          "₹10,600",
+          "₹9,600"
+        ],
+        "answer": "A",
+        "explanation": "X ₹4,500 అవుతుంది, Y ₹5,300 అవుతుంది, రెండూ కలిపి ₹9,800. డబ్బును పంచడం వల్ల, మొత్తం Xలోనే పెట్టి ఉంటే వచ్చే నష్టం కంటే తక్కువ నష్టం వచ్చింది."
+      }
+    }
+  },
+  {
+    "id": "invest-gold-and-fd-006",
+    "pillar": "invest",
+    "tags": [
+      "gold-and-fd"
+    ],
+    "tier": "gold",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Anjali puts ₹20,000 in a 1-year FD. Assume 7% interest a year and ignore tax. How much will she have at the end?",
+        "options": [
+          "₹20,140",
+          "₹27,000",
+          "₹21,000",
+          "₹21,400"
+        ],
+        "answer": "D",
+        "explanation": "7% of ₹20,000 is ₹1,400, so she ends with ₹21,400. A fixed rate makes the FD result easy to know in advance."
+      },
+      "hi": {
+        "prompt": "अंजलि ₹20,000 की 1 साल की FD करती है। मान लें कि ब्याज 7% सालाना है और टैक्स को छोड़ दें। आखिर में उसके पास कितने होंगे?",
+        "options": [
+          "₹20,140",
+          "₹27,000",
+          "₹21,000",
+          "₹21,400"
+        ],
+        "answer": "D",
+        "explanation": "₹20,000 का 7% ₹1,400 है, इसलिए आखिर में उसके पास ₹21,400 होंगे। तय दर की वजह से FD का नतीजा पहले से जानना आसान होता है।"
+      },
+      "te": {
+        "prompt": "అంజలి ₹20,000తో 1 సంవత్సరం FD వేస్తుంది. వడ్డీ సంవత్సరానికి 7% అనుకోండి, పన్నును లెక్కలోకి తీసుకోవద్దు. చివరికి ఆమె దగ్గర ఎంత ఉంటుంది?",
+        "options": [
+          "₹20,140",
+          "₹27,000",
+          "₹21,000",
+          "₹21,400"
+        ],
+        "answer": "D",
+        "explanation": "₹20,000లో 7% అంటే ₹1,400, కాబట్టి చివరికి ఆమె దగ్గర ₹21,400 ఉంటుంది. స్థిర రేటు వల్ల FD ఫలితం ముందుగానే తెలుసుకోవడం సులభం."
+      }
+    }
+  },
+  {
+    "id": "invest-mutual-fund-basics-006",
+    "pillar": "invest",
+    "tags": [
+      "mutual-fund-basics",
+      "time-horizon"
+    ],
+    "tier": "gold",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Kavya invests ₹500 every month through a SIP for 3 years. How much money has she put in, before any gains or losses?",
+        "options": [
+          "₹1,500",
+          "₹6,000",
+          "₹18,000",
+          "₹15,000"
+        ],
+        "answer": "C",
+        "explanation": "3 years is 36 months, and 36 × ₹500 = ₹18,000. The fund's value could end above or below this amount."
+      },
+      "hi": {
+        "prompt": "काव्या 3 साल तक हर महीने SIP के ज़रिए ₹500 निवेश करती है। किसी भी फ़ायदे या नुकसान से पहले, उसने कुल कितना पैसा लगाया है?",
+        "options": [
+          "₹1,500",
+          "₹6,000",
+          "₹18,000",
+          "₹15,000"
+        ],
+        "answer": "C",
+        "explanation": "3 साल यानी 36 महीने, और 36 × ₹500 = ₹18,000। फ़ंड की वैल्यू आखिर में इस रकम से ज़्यादा या कम हो सकती है।"
+      },
+      "te": {
+        "prompt": "కావ్య 3 సంవత్సరాల పాటు ప్రతి నెలా SIP ద్వారా ₹500 పెట్టుబడి పెడుతుంది. లాభనష్టాలకు ముందు, ఆమె మొత్తం ఎంత డబ్బు పెట్టింది?",
+        "options": [
+          "₹1,500",
+          "₹6,000",
+          "₹18,000",
+          "₹15,000"
+        ],
+        "answer": "C",
+        "explanation": "3 సంవత్సరాలు అంటే 36 నెలలు, 36 × ₹500 = ₹18,000. చివరికి ఫండ్ విలువ ఈ మొత్తం కంటే ఎక్కువ లేదా తక్కువ ఉండవచ్చు."
+      }
+    }
+  },
+  {
+    "id": "invest-risk-and-return-007",
+    "pillar": "invest",
+    "tags": [
+      "risk-and-return"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "invest-risk-and-return",
+    "content": {
+      "en": {
+        "prompt": "Option A grows about 6% each year with small changes. Option B has averaged more, but in some years fell 15%. What is the main trade-off? (Example numbers.)",
+        "options": [
+          "A is riskier because it grows slowly",
+          "B may grow more but can drop sharply",
+          "B is safer because its average is higher",
+          "There is no trade-off; B is simply better"
+        ],
+        "answer": "B",
+        "explanation": "B's higher average comes with bigger falls, while A is steadier but grows slowly. Choosing between them means weighing growth against the chance of loss."
+      },
+      "hi": {
+        "prompt": "विकल्प A हर साल लगभग 6% बढ़ता है, छोटे-मोटे बदलावों के साथ। विकल्प B का औसत ज़्यादा रहा है, लेकिन कुछ सालों में यह 15% गिरा। मुख्य ट्रेड-ऑफ़ (किसके बदले क्या छोड़ना पड़ता है) क्या है? (उदाहरण के आँकड़े।)",
+        "options": [
+          "A ज़्यादा रिस्की है क्योंकि यह धीरे बढ़ता है",
+          "B ज़्यादा बढ़ सकता है, लेकिन तेज़ी से गिर भी सकता है",
+          "B ज़्यादा सुरक्षित है क्योंकि इसका औसत ज़्यादा है",
+          "कोई ट्रेड-ऑफ़ नहीं; B बस बेहतर है"
+        ],
+        "answer": "B",
+        "explanation": "B के ज़्यादा औसत के साथ बड़ी गिरावटें भी आती हैं, जबकि A स्थिर है पर धीरे बढ़ता है। इनमें से चुनने का मतलब है बढ़त और नुकसान की संभावना को तौलना।"
+      },
+      "te": {
+        "prompt": "ఆప్షన్ A ప్రతి సంవత్సరం చిన్న మార్పులతో దాదాపు 6% పెరుగుతుంది. ఆప్షన్ B సగటు ఎక్కువే, కానీ కొన్ని సంవత్సరాల్లో అది 15% పడిపోయింది. ప్రధాన ట్రేడ్-ఆఫ్ (ఒకటి పొందాలంటే మరొకటి వదులుకోవడం) ఏమిటి? (ఉదాహరణ సంఖ్యలు.)",
+        "options": [
+          "A నెమ్మదిగా పెరుగుతుంది కాబట్టి అదే ఎక్కువ రిస్క్",
+          "B ఎక్కువగా పెరగవచ్చు, కానీ ఒక్కసారిగా పడిపోవచ్చు కూడా",
+          "B సగటు ఎక్కువ కాబట్టి అదే సురక్షితం",
+          "ట్రేడ్-ఆఫ్ ఏమీ లేదు; B నే మంచిది"
+        ],
+        "answer": "B",
+        "explanation": "B ఎక్కువ సగటుతో పాటు పెద్ద పతనాలు కూడా వస్తాయి, A స్థిరంగా ఉంటుంది కానీ నెమ్మదిగా పెరుగుతుంది. వాటి మధ్య ఎంచుకోవడం అంటే పెరుగుదలను, నష్టం వచ్చే అవకాశాన్ని బేరీజు వేయడం."
+      }
+    }
+  },
+  {
+    "id": "invest-time-horizon-006",
+    "pillar": "invest",
+    "tags": [
+      "time-horizon",
+      "risk-and-return"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "invest-risk-and-return",
+    "content": {
+      "en": {
+        "prompt": "Neha needs ₹30,000 in 6 months. Arvind's goal is 12 years away. Both look at an option that can fall 20% in a bad year. Why might it suit them differently?",
+        "options": [
+          "Neha's smaller goal makes a loss impossible",
+          "Arvind has time to recover; Neha may not",
+          "Arvind's long wait guarantees him a profit",
+          "It suits both equally; time doesn't matter"
+        ],
+        "answer": "B",
+        "explanation": "A bad year just before Neha needs her money could leave her short. Arvind has years for prices to recover, though even that is not guaranteed."
+      },
+      "hi": {
+        "prompt": "नेहा को 6 महीने में ₹30,000 चाहिए। अरविंद का लक्ष्य 12 साल दूर है। दोनों एक ऐसा विकल्प देखते हैं जो किसी बुरे साल में 20% गिर सकता है। यह दोनों के लिए अलग-अलग तरह से सही क्यों हो सकता है?",
+        "options": [
+          "नेहा का छोटा लक्ष्य नुकसान को नामुमकिन बना देता है",
+          "अरविंद के पास संभलने का समय है; नेहा के पास शायद नहीं",
+          "अरविंद का लंबा इंतज़ार उसे मुनाफ़े की गारंटी देता है",
+          "यह दोनों के लिए बराबर है; समय से फ़र्क नहीं पड़ता"
+        ],
+        "answer": "B",
+        "explanation": "नेहा को पैसे की ज़रूरत पड़ने से ठीक पहले बुरा साल आया तो उसके पैसे कम पड़ सकते हैं। अरविंद के पास दाम संभलने के लिए कई साल हैं, हालाँकि उसकी भी गारंटी नहीं है।"
+      },
+      "te": {
+        "prompt": "నేహాకు 6 నెలల్లో ₹30,000 కావాలి. అరవింద్ లక్ష్యం 12 సంవత్సరాల దూరంలో ఉంది. చెడ్డ సంవత్సరంలో 20% పడిపోగల ఒక ఆప్షన్‌ను ఇద్దరూ చూస్తున్నారు. అది వారిద్దరికీ వేర్వేరుగా ఎందుకు సరిపోవచ్చు?",
+        "options": [
+          "నేహా లక్ష్యం చిన్నది కాబట్టి నష్టం రావడం అసాధ్యం",
+          "అరవింద్‌కు కోలుకునే సమయం ఉంది; నేహాకు ఉండకపోవచ్చు",
+          "ఎక్కువ కాలం ఆగడం వల్ల అరవింద్‌కు లాభం గ్యారంటీ",
+          "ఇద్దరికీ సమానంగా సరిపోతుంది; సమయం ముఖ్యం కాదు"
+        ],
+        "answer": "B",
+        "explanation": "నేహాకు డబ్బు అవసరమయ్యే ముందే చెడ్డ సంవత్సరం వస్తే, ఆమెకు డబ్బు తక్కువ పడవచ్చు. అరవింద్‌కు ధరలు కోలుకోవడానికి చాలా సంవత్సరాలు ఉన్నాయి, అయినా అది కూడా గ్యారంటీ కాదు."
+      }
+    }
+  },
+  {
+    "id": "invest-time-horizon-007",
+    "pillar": "invest",
+    "tags": [
+      "time-horizon",
+      "risk-and-return"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "invest-risk-and-return",
+    "content": {
+      "en": {
+        "prompt": "Divya and Karan invest in the same option for 10 years. After a 15% fall, Divya stays invested while Karan sells in panic. Whose choice locks in the loss?",
+        "options": [
+          "Karan's, because selling makes the fall final",
+          "Divya's, because staying makes losses bigger",
+          "Neither, since losses are final once prices fall",
+          "Both equally, since selling changes nothing"
+        ],
+        "answer": "A",
+        "explanation": "A fall is only a loss on paper until you sell. By selling, Karan turned it into a real loss, while Divya's value can still change."
+      },
+      "hi": {
+        "prompt": "दिव्या और करण एक ही विकल्प में 10 साल के लिए निवेश करते हैं। 15% गिरावट के बाद दिव्या निवेश में बनी रहती है, जबकि करण घबराकर बेच देता है। किसके फ़ैसले से नुकसान पक्का हो जाता है?",
+        "options": [
+          "करण के, क्योंकि बेचने से गिरावट पक्की हो जाती है",
+          "दिव्या के, क्योंकि बने रहने से नुकसान बढ़ता है",
+          "किसी के नहीं, क्योंकि दाम गिरते ही नुकसान पक्का हो जाता है",
+          "दोनों के बराबर, क्योंकि बेचने से कुछ नहीं बदलता"
+        ],
+        "answer": "A",
+        "explanation": "जब तक आप बेचते नहीं, गिरावट सिर्फ़ कागज़ी नुकसान है। बेचकर करण ने इसे असली नुकसान बना दिया, जबकि दिव्या की वैल्यू अभी भी बदल सकती है।"
+      },
+      "te": {
+        "prompt": "దివ్య, కరణ్ ఒకే ఆప్షన్‌లో 10 సంవత్సరాల కోసం పెట్టుబడి పెడతారు. 15% పతనం తర్వాత దివ్య పెట్టుబడిని కొనసాగిస్తుంది, కరణ్ భయంతో అమ్మేస్తాడు. ఎవరి నిర్ణయం నష్టాన్ని ఖాయం చేస్తుంది?",
+        "options": [
+          "కరణ్‌ది, ఎందుకంటే అమ్మడం వల్ల పతనం ఫైనల్ అవుతుంది",
+          "దివ్యది, ఎందుకంటే కొనసాగించడం నష్టాలను పెంచుతుంది",
+          "ఎవరిదీ కాదు, ఎందుకంటే ధరలు పడిపోగానే నష్టాలు ఫైనల్",
+          "ఇద్దరిదీ సమానంగా, ఎందుకంటే అమ్మడం వల్ల ఏమీ మారదు"
+        ],
+        "answer": "A",
+        "explanation": "మీరు అమ్మే వరకు పతనం కేవలం కాగితంపై నష్టమే. అమ్మడం ద్వారా కరణ్ దాన్ని నిజమైన నష్టంగా మార్చాడు, దివ్య పెట్టుబడి విలువ ఇంకా మారవచ్చు."
+      }
+    }
+  },
+  {
+    "id": "invest-risk-and-return-008",
+    "pillar": "invest",
+    "tags": [
+      "risk-and-return"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "invest-risk-and-return",
+    "content": {
+      "en": {
+        "prompt": "Ramesh's FD earns an assumed 5% a year, while prices rise 6% a year. Why is his \"safe\" FD losing value in real terms?",
+        "options": [
+          "The bank cuts 6% from his deposit yearly",
+          "Share market falls reduce his FD by 1%",
+          "Interest is paid only when prices fall",
+          "Prices rise faster than his money grows"
+        ],
+        "answer": "D",
+        "explanation": "His money grows 5%, but things cost 6% more, so it buys a little less each year. Low risk does not always mean no loss of buying power."
+      },
+      "hi": {
+        "prompt": "मान लें रमेश की FD पर 5% सालाना ब्याज मिलता है, जबकि दाम हर साल 6% बढ़ते हैं। असल मायनों में उसकी \"सुरक्षित\" FD की वैल्यू क्यों घट रही है?",
+        "options": [
+          "बैंक हर साल उसकी जमा राशि से 6% काट लेता है",
+          "शेयर बाज़ार की गिरावट उसकी FD को 1% घटा देती है",
+          "ब्याज सिर्फ़ तब मिलता है जब दाम गिरते हैं",
+          "दाम उसके पैसे से ज़्यादा तेज़ी से बढ़ते हैं"
+        ],
+        "answer": "D",
+        "explanation": "उसका पैसा 5% बढ़ता है, लेकिन चीज़ें 6% महँगी हो जाती हैं, इसलिए हर साल वह उससे थोड़ा कम खरीद पाता है। कम रिस्क का मतलब हमेशा यह नहीं कि खरीदने की ताकत नहीं घटेगी।"
+      },
+      "te": {
+        "prompt": "రమేష్ FDకి సంవత్సరానికి 5% వడ్డీ వస్తుందని అనుకోండి, కానీ ధరలు సంవత్సరానికి 6% పెరుగుతున్నాయి. అతని \"సురక్షితమైన\" FD అసలు విలువ ఎందుకు తగ్గుతోంది?",
+        "options": [
+          "బ్యాంకు ప్రతి సంవత్సరం అతని డిపాజిట్ నుండి 6% కోస్తుంది",
+          "షేర్ మార్కెట్ పతనాలు అతని FDని 1% తగ్గిస్తాయి",
+          "ధరలు తగ్గినప్పుడు మాత్రమే వడ్డీ చెల్లిస్తారు",
+          "అతని డబ్బు పెరిగే దానికంటే ధరలు వేగంగా పెరుగుతున్నాయి"
+        ],
+        "answer": "D",
+        "explanation": "అతని డబ్బు 5% పెరుగుతుంది, కానీ వస్తువుల ధరలు 6% పెరుగుతాయి, కాబట్టి ప్రతి సంవత్సరం దానితో కొంచెం తక్కువే కొనగలడు. తక్కువ రిస్క్ అంటే కొనుగోలు శక్తి తగ్గదని ఎప్పుడూ కాదు."
+      }
+    }
+  },
+  {
+    "id": "invest-time-horizon-008",
+    "pillar": "invest",
+    "tags": [
+      "time-horizon",
+      "risk-and-return"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "invest-risk-and-return",
+    "content": {
+      "en": {
+        "prompt": "Sana has ₹15,000: ₹10,000 is her emergency fund and ₹5,000 is for a goal 8 years away. Why might she treat these two parts differently?",
+        "options": [
+          "The larger part should always take more risk",
+          "Both parts have the same time horizon",
+          "Emergency money must be ready; long-term money can ride ups and downs",
+          "Long-term money must be kept as cash at home"
+        ],
+        "answer": "C",
+        "explanation": "An emergency can come any day, so that money must not be down when needed. Money for 8 years ahead has time to handle some swings."
+      },
+      "hi": {
+        "prompt": "सना के पास ₹15,000 हैं: ₹10,000 उसका इमरजेंसी फ़ंड है और ₹5,000 8 साल बाद के एक लक्ष्य के लिए हैं। वह इन दोनों हिस्सों को अलग-अलग तरह से क्यों संभाल सकती है?",
+        "options": [
+          "बड़े हिस्से को हमेशा ज़्यादा रिस्क लेना चाहिए",
+          "दोनों हिस्सों का टाइम होराइज़न एक ही है",
+          "इमरजेंसी का पैसा तुरंत मिलना चाहिए; लंबे समय का पैसा उतार-चढ़ाव झेल सकता है",
+          "लंबे समय का पैसा घर पर नकद ही रखना चाहिए"
+        ],
+        "answer": "C",
+        "explanation": "इमरजेंसी किसी भी दिन आ सकती है, इसलिए ज़रूरत के समय वह पैसा घटा हुआ नहीं होना चाहिए। 8 साल बाद के पैसे के पास कुछ उतार-चढ़ाव झेलने का समय है।"
+      },
+      "te": {
+        "prompt": "సనా దగ్గర ₹15,000 ఉన్నాయి: ₹10,000 ఆమె ఎమర్జెన్సీ ఫండ్, ₹5,000 8 సంవత్సరాల తర్వాతి లక్ష్యం కోసం. ఈ రెండు భాగాలను ఆమె ఎందుకు వేర్వేరుగా చూడవచ్చు?",
+        "options": [
+          "పెద్ద భాగం ఎప్పుడూ ఎక్కువ రిస్క్ తీసుకోవాలి",
+          "రెండు భాగాలకూ ఒకే టైమ్ హొరైజన్ ఉంది",
+          "ఎమర్జెన్సీ డబ్బు వెంటనే అందుబాటులో ఉండాలి; దీర్ఘకాలిక డబ్బు ఒడిదుడుకులను తట్టుకోగలదు",
+          "దీర్ఘకాలిక డబ్బును ఇంట్లో నగదుగానే ఉంచాలి"
+        ],
+        "answer": "C",
+        "explanation": "ఎమర్జెన్సీ ఏ రోజైనా రావచ్చు, కాబట్టి అవసరమైనప్పుడు ఆ డబ్బు విలువ తగ్గి ఉండకూడదు. 8 సంవత్సరాల తర్వాత కావాల్సిన డబ్బుకు కొన్ని ఒడిదుడుకులను తట్టుకునే సమయం ఉంది."
+      }
+    }
+  },
+  {
+    "id": "invest-diversification-008",
+    "pillar": "invest",
+    "tags": [
+      "diversification"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "invest-diversification",
+    "content": {
+      "en": {
+        "prompt": "Portfolio A has 5 shares, all banks. Portfolio B has 5 shares from banking, medicine, food, phones and power. Which is more diversified, and why?",
+        "options": [
+          "A, because banks are always safe",
+          "Both, because each holds five shares",
+          "B, because one industry's trouble hits less of it",
+          "A, because fewer industries are easier to track"
+        ],
+        "answer": "C",
+        "explanation": "If banks have a bad year, all of A suffers but only one-fifth of B does. Diversifying across industries spreads that risk."
+      },
+      "hi": {
+        "prompt": "पोर्टफ़ोलियो A में 5 शेयर हैं, सभी बैंकों के। पोर्टफ़ोलियो B में बैंकिंग, दवा, खाना, फ़ोन और बिजली से 5 शेयर हैं। कौन ज़्यादा डाइवर्सिफ़ाइड है, और क्यों?",
+        "options": [
+          "A, क्योंकि बैंक हमेशा सुरक्षित होते हैं",
+          "दोनों, क्योंकि दोनों में पाँच-पाँच शेयर हैं",
+          "B, क्योंकि किसी एक उद्योग की मुसीबत उसके छोटे हिस्से पर ही असर डालती है",
+          "A, क्योंकि कम उद्योगों पर नज़र रखना आसान है"
+        ],
+        "answer": "C",
+        "explanation": "अगर बैंकों का साल खराब रहा, तो पूरा A नुकसान में होगा, लेकिन B का सिर्फ़ पाँचवाँ हिस्सा। अलग-अलग उद्योगों में पैसा बाँटने से वह रिस्क बँट जाता है।"
+      },
+      "te": {
+        "prompt": "పోర్ట్‌ఫోలియో Aలో 5 షేర్లు ఉన్నాయి, అన్నీ బ్యాంకులవే. పోర్ట్‌ఫోలియో Bలో బ్యాంకింగ్, మందులు, ఆహారం, ఫోన్లు, విద్యుత్ రంగాల నుండి 5 షేర్లు ఉన్నాయి. ఏది ఎక్కువ డైవర్సిఫైడ్, ఎందుకు?",
+        "options": [
+          "A, ఎందుకంటే బ్యాంకులు ఎప్పుడూ సురక్షితం",
+          "రెండూ, ఎందుకంటే ప్రతిదానిలో ఐదు షేర్లు ఉన్నాయి",
+          "B, ఎందుకంటే ఒక పరిశ్రమకు కష్టం వస్తే దానిలో తక్కువ భాగమే దెబ్బతింటుంది",
+          "A, ఎందుకంటే తక్కువ పరిశ్రమలను గమనించడం సులభం"
+        ],
+        "answer": "C",
+        "explanation": "బ్యాంకులకు చెడ్డ సంవత్సరం వస్తే, A మొత్తం నష్టపోతుంది కానీ Bలో ఐదో వంతు మాత్రమే నష్టపోతుంది. వేర్వేరు పరిశ్రమల్లో పంచడం వల్ల ఆ రిస్క్ పంచబడుతుంది."
+      }
+    }
+  },
+  {
+    "id": "invest-diversification-009",
+    "pillar": "invest",
+    "tags": [
+      "diversification"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "invest-diversification",
+    "content": {
+      "en": {
+        "prompt": "Diversification is useful, but there are limits. Which of these can diversification NOT do?",
+        "options": [
+          "Reduce harm from one bad investment",
+          "Guarantee that you never lose money",
+          "Spread your money across different options",
+          "Make one company's failure hurt less"
+        ],
+        "answer": "B",
+        "explanation": "Diversification softens losses from any one option. When most markets fall together, a spread-out mix can still lose money."
+      },
+      "hi": {
+        "prompt": "डाइवर्सिफ़िकेशन फ़ायदेमंद है, लेकिन इसकी सीमाएँ हैं। इनमें से कौन-सा काम डाइवर्सिफ़िकेशन नहीं कर सकता?",
+        "options": [
+          "एक खराब निवेश से होने वाला नुकसान कम करना",
+          "गारंटी देना कि आपको कभी नुकसान नहीं होगा",
+          "आपके पैसे को अलग-अलग विकल्पों में बाँटना",
+          "किसी एक कंपनी के फ़ेल होने का असर कम करना"
+        ],
+        "answer": "B",
+        "explanation": "डाइवर्सिफ़िकेशन किसी एक विकल्प से होने वाले नुकसान को कम करता है। जब ज़्यादातर बाज़ार एक साथ गिरते हैं, तो बँटा हुआ पैसा भी घट सकता है।"
+      },
+      "te": {
+        "prompt": "డైవర్సిఫికేషన్ ఉపయోగకరమే, కానీ దానికి పరిమితులు ఉన్నాయి. వీటిలో డైవర్సిఫికేషన్ ఏది చేయలేదు?",
+        "options": [
+          "ఒక చెడ్డ పెట్టుబడి వల్ల జరిగే హానిని తగ్గించడం",
+          "మీకు ఎప్పుడూ నష్టం రాదని గ్యారంటీ ఇవ్వడం",
+          "మీ డబ్బును వేర్వేరు ఆప్షన్లలో పంచడం",
+          "ఒక కంపెనీ విఫలమైతే దాని ప్రభావాన్ని తగ్గించడం"
+        ],
+        "answer": "B",
+        "explanation": "డైవర్సిఫికేషన్ ఏ ఒక్క ఆప్షన్ నుండి వచ్చే నష్టాన్నైనా తగ్గిస్తుంది. చాలా మార్కెట్లు ఒకేసారి పడిపోయినప్పుడు, పంచి పెట్టిన డబ్బు కూడా నష్టపోవచ్చు."
+      }
+    }
+  },
+  {
+    "id": "invest-diversification-010",
+    "pillar": "invest",
+    "tags": [
+      "diversification"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "invest-diversification",
+    "content": {
+      "en": {
+        "prompt": "Spreading money across many options lowers risk. What is the trade-off?",
+        "options": [
+          "You won't get the full gain of the top performer",
+          "Your money becomes locked for many years",
+          "Your total return is guaranteed to be lower",
+          "You must pay extra tax on each option"
+        ],
+        "answer": "A",
+        "explanation": "Only part of your money is in whichever option does best, so your gain is smaller than if it were all there. In return, a single failure hurts less."
+      },
+      "hi": {
+        "prompt": "पैसे को कई विकल्पों में बाँटने से रिस्क कम होता है। इसका ट्रेड-ऑफ़ (बदले में क्या छोड़ना पड़ता है) क्या है?",
+        "options": [
+          "सबसे अच्छा करने वाले विकल्प का पूरा फ़ायदा आपको नहीं मिलेगा",
+          "आपका पैसा कई सालों के लिए बंद हो जाता है",
+          "आपका कुल रिटर्न पक्का कम ही होगा",
+          "हर विकल्प पर आपको अलग से ज़्यादा टैक्स देना होगा"
+        ],
+        "answer": "A",
+        "explanation": "जो विकल्प सबसे अच्छा करता है, उसमें आपके पैसे का सिर्फ़ एक हिस्सा होता है, इसलिए फ़ायदा उससे कम होता है जितना सारा पैसा वहाँ होने पर होता। बदले में, किसी एक के फ़ेल होने से कम नुकसान होता है।"
+      },
+      "te": {
+        "prompt": "డబ్బును చాలా ఆప్షన్లలో పంచితే రిస్క్ తగ్గుతుంది. దీనికి ట్రేడ్-ఆఫ్ (బదులుగా వదులుకోవాల్సింది) ఏమిటి?",
+        "options": [
+          "అన్నింటికంటే బాగా పెరిగిన ఆప్షన్ పూర్తి లాభం మీకు రాదు",
+          "మీ డబ్బు చాలా సంవత్సరాల పాటు లాక్ అయిపోతుంది",
+          "మీ మొత్తం రిటర్న్ తక్కువగా ఉంటుందని ఖాయం",
+          "ప్రతి ఆప్షన్‌పై మీరు అదనపు పన్ను కట్టాలి"
+        ],
+        "answer": "A",
+        "explanation": "బాగా పెరిగిన ఆప్షన్‌లో మీ డబ్బులో కొంత భాగమే ఉంటుంది, కాబట్టి మొత్తం అక్కడే ఉంటే వచ్చేదానికంటే లాభం తక్కువ. దానికి బదులుగా, ఏదో ఒకటి విఫలమైతే జరిగే నష్టం తక్కువ."
+      }
+    }
+  },
+  {
+    "id": "invest-diversification-011",
+    "pillar": "invest",
+    "tags": [
+      "diversification"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "invest-diversification",
+    "content": {
+      "en": {
+        "prompt": "Asif puts ₹10,000 into one option. Bhavna splits ₹10,000 equally across five options, including Asif's. That option falls to zero; the others stay flat. How much does each lose?",
+        "options": [
+          "Both lose ₹10,000",
+          "Asif ₹10,000; Bhavna ₹5,000",
+          "Asif ₹2,000; Bhavna ₹10,000",
+          "Asif ₹10,000; Bhavna ₹2,000"
+        ],
+        "answer": "D",
+        "explanation": "Bhavna had only ₹10,000 ÷ 5 = ₹2,000 in the failed option. Asif had everything in it, so he lost it all."
+      },
+      "hi": {
+        "prompt": "आसिफ़ ₹10,000 एक विकल्प में लगाता है। भावना ₹10,000 को पाँच विकल्पों में बराबर बाँटती है, जिनमें आसिफ़ वाला विकल्प भी है। वह विकल्प शून्य हो जाता है; बाकी वैसे ही रहते हैं। हर एक को कितना नुकसान होता है?",
+        "options": [
+          "दोनों को ₹10,000",
+          "आसिफ़ को ₹10,000; भावना को ₹5,000",
+          "आसिफ़ को ₹2,000; भावना को ₹10,000",
+          "आसिफ़ को ₹10,000; भावना को ₹2,000"
+        ],
+        "answer": "D",
+        "explanation": "भावना का उस डूबे विकल्प में सिर्फ़ ₹10,000 ÷ 5 = ₹2,000 था। आसिफ़ का सारा पैसा उसी में था, इसलिए उसने सब गँवा दिया।"
+      },
+      "te": {
+        "prompt": "ఆసిఫ్ ₹10,000 ఒకే ఆప్షన్‌లో పెడతాడు. భావన ₹10,000ను ఆసిఫ్ ఆప్షన్‌తో సహా ఐదు ఆప్షన్లలో సమానంగా పంచుతుంది. ఆ ఆప్షన్ సున్నాకు పడిపోతుంది; మిగతావి మారకుండా ఉంటాయి. ఒక్కొక్కరు ఎంత నష్టపోతారు?",
+        "options": [
+          "ఇద్దరూ ₹10,000",
+          "ఆసిఫ్ ₹10,000; భావన ₹5,000",
+          "ఆసిఫ్ ₹2,000; భావన ₹10,000",
+          "ఆసిఫ్ ₹10,000; భావన ₹2,000"
+        ],
+        "answer": "D",
+        "explanation": "విఫలమైన ఆప్షన్‌లో భావనకు ₹10,000 ÷ 5 = ₹2,000 మాత్రమే ఉంది. ఆసిఫ్ మొత్తం డబ్బు దానిలోనే ఉంది, కాబట్టి అతను అంతా పోగొట్టుకున్నాడు."
+      }
+    }
+  },
+  {
+    "id": "invest-diversification-012",
+    "pillar": "invest",
+    "tags": [
+      "diversification",
+      "mutual-fund-basics"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "invest-diversification",
+    "content": {
+      "en": {
+        "prompt": "Gopal owns two mutual funds and thinks he is well diversified. But both funds mostly hold the same ten big companies. What is the problem?",
+        "options": [
+          "Owning two funds is against the rules",
+          "Funds holding big companies cannot fall",
+          "He is spread across too many companies",
+          "His money is still bunched in the same companies"
+        ],
+        "answer": "D",
+        "explanation": "If the same ten companies do badly, both funds fall together. Real diversification means holding things that don't all depend on the same companies."
+      },
+      "hi": {
+        "prompt": "गोपाल के पास दो म्यूचुअल फ़ंड हैं और उसे लगता है कि उसका पैसा अच्छी तरह डाइवर्सिफ़ाइड है। लेकिन दोनों फ़ंड ज़्यादातर उन्हीं दस बड़ी कंपनियों के शेयर रखते हैं। समस्या क्या है?",
+        "options": [
+          "दो फ़ंड रखना नियमों के खिलाफ़ है",
+          "बड़ी कंपनियों वाले फ़ंड गिर नहीं सकते",
+          "उसका पैसा बहुत ज़्यादा कंपनियों में बँटा है",
+          "उसका पैसा अब भी उन्हीं कंपनियों में सिमटा हुआ है"
+        ],
+        "answer": "D",
+        "explanation": "अगर वही दस कंपनियाँ खराब करें, तो दोनों फ़ंड एक साथ गिरेंगे। असली डाइवर्सिफ़िकेशन का मतलब है ऐसी चीज़ें रखना जो सब एक ही कंपनियों पर निर्भर न हों।"
+      },
+      "te": {
+        "prompt": "గోపాల్ దగ్గర రెండు మ్యూచువల్ ఫండ్లు ఉన్నాయి, తన డబ్బు బాగా డైవర్సిఫై అయిందని అతను అనుకుంటున్నాడు. కానీ రెండు ఫండ్లూ ఎక్కువగా అవే పది పెద్ద కంపెనీల షేర్లను కలిగి ఉన్నాయి. సమస్య ఏమిటి?",
+        "options": [
+          "రెండు ఫండ్లు ఉంచుకోవడం నిబంధనలకు విరుద్ధం",
+          "పెద్ద కంపెనీలు ఉన్న ఫండ్లు పడిపోవు",
+          "అతని డబ్బు చాలా ఎక్కువ కంపెనీల్లో పంచబడి ఉంది",
+          "అతని డబ్బు ఇంకా అవే కంపెనీల్లో కూడి ఉంది"
+        ],
+        "answer": "D",
+        "explanation": "అవే పది కంపెనీలు నష్టపోతే, రెండు ఫండ్లూ కలిసి పడిపోతాయి. నిజమైన డైవర్సిఫికేషన్ అంటే అన్నీ అవే కంపెనీలపై ఆధారపడని వాటిని కలిగి ఉండటం."
+      }
+    }
+  },
+  {
+    "id": "invest-time-horizon-009",
+    "pillar": "invest",
+    "tags": [
+      "time-horizon",
+      "risk-and-return"
+    ],
+    "tier": "diamond",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Farah has ₹40,000. She needs ₹15,000 for fees next month and wants ₹10,000 kept ready for emergencies. The rest is for a goal 6 years away. How much is free for that long-term goal?",
+        "options": [
+          "₹25,000",
+          "₹30,000",
+          "₹15,000",
+          "₹40,000"
+        ],
+        "answer": "C",
+        "explanation": "Fees and emergencies need ₹15,000 + ₹10,000 = ₹25,000, leaving ₹40,000 − ₹25,000 = ₹15,000. Only money not needed soon can wait out ups and downs."
+      },
+      "hi": {
+        "prompt": "फ़राह के पास ₹40,000 हैं। उसे अगले महीने फ़ीस के लिए ₹15,000 चाहिए और वह इमरजेंसी के लिए ₹10,000 तैयार रखना चाहती है। बाकी पैसा 6 साल बाद के एक लक्ष्य के लिए है। उस लंबे समय के लक्ष्य के लिए कितना पैसा बचा है?",
+        "options": [
+          "₹25,000",
+          "₹30,000",
+          "₹15,000",
+          "₹40,000"
+        ],
+        "answer": "C",
+        "explanation": "फ़ीस और इमरजेंसी के लिए ₹15,000 + ₹10,000 = ₹25,000 चाहिए, जिससे ₹40,000 − ₹25,000 = ₹15,000 बचते हैं। सिर्फ़ वही पैसा उतार-चढ़ाव के बीत जाने का इंतज़ार कर सकता है, जिसकी जल्दी ज़रूरत न हो।"
+      },
+      "te": {
+        "prompt": "ఫరా దగ్గర ₹40,000 ఉన్నాయి. వచ్చే నెల ఫీజుకు ఆమెకు ₹15,000 కావాలి, ఎమర్జెన్సీ కోసం ₹10,000 సిద్ధంగా ఉంచాలనుకుంటోంది. మిగతాది 6 సంవత్సరాల తర్వాతి లక్ష్యం కోసం. ఆ దీర్ఘకాలిక లక్ష్యానికి ఎంత డబ్బు మిగిలి ఉంది?",
+        "options": [
+          "₹25,000",
+          "₹30,000",
+          "₹15,000",
+          "₹40,000"
+        ],
+        "answer": "C",
+        "explanation": "ఫీజు, ఎమర్జెన్సీలకు ₹15,000 + ₹10,000 = ₹25,000 కావాలి, కాబట్టి ₹40,000 − ₹25,000 = ₹15,000 మిగులుతుంది. త్వరలో అవసరం లేని డబ్బు మాత్రమే ఒడిదుడుకులు తగ్గే వరకు ఎదురుచూడగలదు."
+      }
+    }
+  },
+  {
+    "id": "invest-mutual-fund-basics-007",
+    "pillar": "invest",
+    "tags": [
+      "mutual-fund-basics",
+      "time-horizon"
+    ],
+    "tier": "diamond",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Manoj wants ₹24,000 in 2 years, saved equally each month through a SIP. He gets a ₹4,800 gift to start. Ignoring gains and losses, how much must he add monthly?",
+        "options": [
+          "₹1,000",
+          "₹800",
+          "₹1,600",
+          "₹200"
+        ],
+        "answer": "B",
+        "explanation": "He still needs ₹24,000 − ₹4,800 = ₹19,200 over 24 months, which is ₹800 a month. Real returns could make the final amount higher or lower."
+      },
+      "hi": {
+        "prompt": "मनोज को 2 साल में ₹24,000 चाहिए, जो वह SIP के ज़रिए हर महीने बराबर रकम डालकर जमा करेगा। शुरुआत के लिए उसे ₹4,800 का तोहफ़ा मिलता है। फ़ायदे और नुकसान को छोड़कर, उसे हर महीने कितना डालना होगा?",
+        "options": [
+          "₹1,000",
+          "₹800",
+          "₹1,600",
+          "₹200"
+        ],
+        "answer": "B",
+        "explanation": "उसे अब भी 24 महीनों में ₹24,000 − ₹4,800 = ₹19,200 चाहिए, यानी हर महीने ₹800। असली रिटर्न की वजह से आखिरी रकम ज़्यादा या कम हो सकती है।"
+      },
+      "te": {
+        "prompt": "మనోజ్‌కు 2 సంవత్సరాల్లో ₹24,000 కావాలి, దాన్ని SIP ద్వారా ప్రతి నెలా సమాన మొత్తం పెట్టి కూడబెడతాడు. మొదలుపెట్టడానికి అతనికి ₹4,800 బహుమతిగా వస్తుంది. లాభనష్టాలను పక్కన పెడితే, అతను ప్రతి నెలా ఎంత పెట్టాలి?",
+        "options": [
+          "₹1,000",
+          "₹800",
+          "₹1,600",
+          "₹200"
+        ],
+        "answer": "B",
+        "explanation": "అతనికి ఇంకా ₹24,000 − ₹4,800 = ₹19,200 కావాలి, 24 నెలల్లో, అంటే నెలకు ₹800. నిజమైన రిటర్న్‌ల వల్ల చివరి మొత్తం ఎక్కువ లేదా తక్కువ కావచ్చు."
+      }
+    }
+  },
+  {
+    "id": "invest-diversification-013",
+    "pillar": "invest",
+    "tags": [
+      "diversification",
+      "gold-and-fd"
+    ],
+    "tier": "diamond",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Nisha splits ₹20,000: ₹10,000 in an FD at an assumed 7%, ₹5,000 in gold and ₹5,000 in a share fund. In one example year, gold rises 10% and the fund falls 20%. Year-end total?",
+        "options": [
+          "₹20,200",
+          "₹19,800",
+          "₹19,400",
+          "₹21,200"
+        ],
+        "answer": "A",
+        "explanation": "The FD becomes ₹10,700, gold ₹5,500 and the fund ₹4,000, totalling ₹20,200. Each part's change must be applied to its own amount."
+      },
+      "hi": {
+        "prompt": "निशा ₹20,000 को बाँटती है: ₹10,000 FD में (मान लें 7% ब्याज), ₹5,000 सोने में और ₹5,000 एक शेयर फ़ंड में। एक उदाहरण वाले साल में सोना 10% बढ़ता है और फ़ंड 20% गिरता है। साल के आखिर में कुल कितना?",
+        "options": [
+          "₹20,200",
+          "₹19,800",
+          "₹19,400",
+          "₹21,200"
+        ],
+        "answer": "A",
+        "explanation": "FD ₹10,700, सोना ₹5,500 और फ़ंड ₹4,000 हो जाता है, कुल ₹20,200। हर हिस्से का बदलाव उसकी अपनी रकम पर लगाना होता है।"
+      },
+      "te": {
+        "prompt": "నిషా ₹20,000ను ఇలా పంచుతుంది: ₹10,000 FDలో (7% వడ్డీ అనుకోండి), ₹5,000 బంగారంలో, ₹5,000 ఒక షేర్ ఫండ్‌లో. ఒక ఉదాహరణ సంవత్సరంలో బంగారం 10% పెరుగుతుంది, ఫండ్ 20% పడిపోతుంది. సంవత్సరం చివరికి మొత్తం ఎంత?",
+        "options": [
+          "₹20,200",
+          "₹19,800",
+          "₹19,400",
+          "₹21,200"
+        ],
+        "answer": "A",
+        "explanation": "FD ₹10,700, బంగారం ₹5,500, ఫండ్ ₹4,000 అవుతాయి, మొత్తం ₹20,200. ప్రతి భాగం మార్పును దాని సొంత మొత్తానికే లెక్కించాలి."
+      }
+    }
+  },
+  {
+    "id": "invest-risk-and-return-009",
+    "pillar": "invest",
+    "tags": [
+      "risk-and-return"
+    ],
+    "tier": "diamond",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Rohan invests ₹10,000. In example years, it rises 50%, then falls 50%, then rises 20%. Ignoring fees, what is it worth after three years?",
+        "options": [
+          "₹9,000",
+          "₹12,000",
+          "₹7,500",
+          "₹10,000"
+        ],
+        "answer": "A",
+        "explanation": "₹10,000 becomes ₹15,000, then ₹7,500, then ₹9,000. A 50% fall undoes more than a 50% rise, so the percentages cannot simply be added."
+      },
+      "hi": {
+        "prompt": "रोहन ₹10,000 निवेश करता है। उदाहरण वाले सालों में यह 50% बढ़ता है, फिर 50% गिरता है, फिर 20% बढ़ता है। फ़ीस को छोड़कर, तीन साल बाद इसकी वैल्यू कितनी है?",
+        "options": [
+          "₹9,000",
+          "₹12,000",
+          "₹7,500",
+          "₹10,000"
+        ],
+        "answer": "A",
+        "explanation": "₹10,000 पहले ₹15,000, फिर ₹7,500, फिर ₹9,000 हो जाता है। 50% की गिरावट 50% की बढ़त से ज़्यादा असर करती है, इसलिए प्रतिशतों को सीधे जोड़ा नहीं जा सकता।"
+      },
+      "te": {
+        "prompt": "రోహన్ ₹10,000 పెట్టుబడి పెడతాడు. ఉదాహరణ సంవత్సరాల్లో అది 50% పెరిగి, తర్వాత 50% పడిపోయి, ఆ తర్వాత 20% పెరుగుతుంది. ఫీజులను పక్కన పెడితే, మూడు సంవత్సరాల తర్వాత దాని విలువ ఎంత?",
+        "options": [
+          "₹9,000",
+          "₹12,000",
+          "₹7,500",
+          "₹10,000"
+        ],
+        "answer": "A",
+        "explanation": "₹10,000 మొదట ₹15,000, తర్వాత ₹7,500, ఆ తర్వాత ₹9,000 అవుతుంది. 50% పతనం 50% పెరుగుదల కంటే ఎక్కువ ప్రభావం చూపిస్తుంది, కాబట్టి శాతాలను నేరుగా కూడలేము."
+      }
+    }
+  },
+  {
+    "id": "invest-stocks-basics-006",
+    "pillar": "invest",
+    "tags": [
+      "stocks-basics"
+    ],
+    "tier": "diamond",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Tanvi buys 20 shares at ₹100 each. She gets ₹40 in total dividends (a share of company profits), then sells all at ₹110 each. Ignoring fees and tax, what is her total return?",
+        "options": [
+          "10%",
+          "2%",
+          "14%",
+          "12%"
+        ],
+        "answer": "D",
+        "explanation": "She paid ₹2,000 and gained ₹200 from the price rise plus ₹40 in dividends, so ₹240. ₹240 ÷ ₹2,000 = 12%."
+      },
+      "hi": {
+        "prompt": "तन्वी ₹100 प्रति शेयर के दाम पर 20 शेयर खरीदती है। उसे कुल ₹40 डिविडेंड (कंपनी के मुनाफ़े का हिस्सा) मिलता है, फिर वह सारे शेयर ₹110 प्रति शेयर पर बेच देती है। फ़ीस और टैक्स को छोड़कर, उसका कुल रिटर्न कितना है?",
+        "options": [
+          "10%",
+          "2%",
+          "14%",
+          "12%"
+        ],
+        "answer": "D",
+        "explanation": "उसने ₹2,000 दिए और दाम बढ़ने से ₹200 तथा डिविडेंड से ₹40 कमाए, यानी कुल ₹240। ₹240 ÷ ₹2,000 = 12%।"
+      },
+      "te": {
+        "prompt": "తన్వి ఒక్కోటి ₹100 చొప్పున 20 షేర్లు కొంటుంది. ఆమెకు మొత్తం ₹40 డివిడెండ్లు (కంపెనీ లాభాల్లో వాటా) వస్తాయి, తర్వాత ఆమె అన్ని షేర్లను ఒక్కోటి ₹110 చొప్పున అమ్మేస్తుంది. ఫీజులు, పన్ను పక్కన పెడితే, ఆమె మొత్తం రిటర్న్ ఎంత?",
+        "options": [
+          "10%",
+          "2%",
+          "14%",
+          "12%"
+        ],
+        "answer": "D",
+        "explanation": "ఆమె ₹2,000 చెల్లించింది; ధర పెరగడం వల్ల ₹200, డివిడెండ్ల నుండి ₹40, మొత్తం ₹240 లాభం వచ్చింది. ₹240 ÷ ₹2,000 = 12%."
+      }
+    }
+  }
+]

@@ -1,0 +1,2111 @@
+[
+  {
+    "id": "budget-needs-vs-wants-001",
+    "pillar": "budget",
+    "tags": [
+      "needs-vs-wants",
+      "pocket-money"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "reel_id": "budget-needs-vs-wants",
+    "content": {
+      "en": {
+        "prompt": "In \"Peter Learns Needs vs Wants\", what simple test does Stewie give to tell a need from a want?",
+        "options": [
+          "Is it cheaper than ₹500?",
+          "Can I get through the month without it?",
+          "Do all my friends already have it?",
+          "Will I enjoy it today?"
+        ],
+        "answer": "B",
+        "explanation": "A need is something you can't get through the month without. A want is just nice to have."
+      },
+      "hi": {
+        "prompt": "\"Peter Learns Needs vs Wants\" में, ज़रूरत और चाहत में फ़र्क पहचानने के लिए स्टूवी कौन-सा आसान टेस्ट बताता है?",
+        "options": [
+          "क्या यह ₹500 से सस्ता है?",
+          "क्या मैं इसके बिना महीना निकाल सकता हूँ?",
+          "क्या मेरे सभी दोस्तों के पास यह पहले से है?",
+          "क्या आज मुझे इसमें मज़ा आएगा?"
+        ],
+        "answer": "B",
+        "explanation": "ज़रूरत वह है जिसके बिना महीना नहीं निकल सकता। चाहत वह है जो बस हो तो अच्छा है।"
+      },
+      "te": {
+        "prompt": "\"Peter Learns Needs vs Wants\"లో, అవసరం ఏదో, కోరిక ఏదో తెలుసుకోవడానికి స్టూవీ ఏ సులభమైన టెస్ట్ చెబుతాడు?",
+        "options": [
+          "ఇది ₹500 కంటే తక్కువ ధరా?",
+          "ఇది లేకుండా నేను నెల గడపగలనా?",
+          "నా ఫ్రెండ్స్ అందరి దగ్గర ఇది ఇప్పటికే ఉందా?",
+          "ఈరోజు దీన్ని నేను ఎంజాయ్ చేస్తానా?"
+        ],
+        "answer": "B",
+        "explanation": "అవసరం అంటే అది లేకుండా నెల గడవనిది. కోరిక అంటే ఉంటే బాగుంటుంది, అంతే."
+      }
+    }
+  },
+  {
+    "id": "budget-50-30-20-001",
+    "pillar": "budget",
+    "tags": [
+      "50-30-20",
+      "pocket-money"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "reel_id": "budget-50-30-20",
+    "content": {
+      "en": {
+        "prompt": "In the reel, Stewie splits ₹2,000 of monthly money using the 50-30-20 rule. What is the split?",
+        "options": [
+          "₹1,000 wants, ₹600 needs, ₹400 savings",
+          "₹700 needs, ₹600 wants, ₹700 savings",
+          "₹1,000 needs, ₹600 wants, ₹400 savings",
+          "₹600 needs, ₹400 wants, ₹1,000 savings"
+        ],
+        "answer": "C",
+        "explanation": "50% of ₹2,000 is ₹1,000 for needs, 30% is ₹600 for wants and 20% is ₹400 for savings."
+      },
+      "hi": {
+        "prompt": "रील में स्टूवी 50-30-20 नियम से महीने के ₹2,000 बाँटता है। बँटवारा क्या है?",
+        "options": [
+          "₹1,000 चाहतें, ₹600 ज़रूरतें, ₹400 बचत",
+          "₹700 ज़रूरतें, ₹600 चाहतें, ₹700 बचत",
+          "₹1,000 ज़रूरतें, ₹600 चाहतें, ₹400 बचत",
+          "₹600 ज़रूरतें, ₹400 चाहतें, ₹1,000 बचत"
+        ],
+        "answer": "C",
+        "explanation": "₹2,000 का 50% यानी ₹1,000 ज़रूरतों के लिए, 30% यानी ₹600 चाहतों के लिए और 20% यानी ₹400 बचत के लिए।"
+      },
+      "te": {
+        "prompt": "రీల్‌లో స్టూవీ 50-30-20 రూల్ ప్రకారం నెలకు వచ్చే ₹2,000ను పంచుతాడు. ఆ పంపకం ఏమిటి?",
+        "options": [
+          "₹1,000 కోరికలు, ₹600 అవసరాలు, ₹400 పొదుపు",
+          "₹700 అవసరాలు, ₹600 కోరికలు, ₹700 పొదుపు",
+          "₹1,000 అవసరాలు, ₹600 కోరికలు, ₹400 పొదుపు",
+          "₹600 అవసరాలు, ₹400 కోరికలు, ₹1,000 పొదుపు"
+        ],
+        "answer": "C",
+        "explanation": "₹2,000లో 50% అంటే ₹1,000 అవసరాలకు, 30% అంటే ₹600 కోరికలకు, 20% అంటే ₹400 పొదుపుకు."
+      }
+    }
+  },
+  {
+    "id": "budget-tracking-spending-001",
+    "pillar": "budget",
+    "tags": [
+      "tracking-spending"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "reel_id": "budget-chai-math",
+    "content": {
+      "en": {
+        "prompt": "In \"Peter's Chai Math\", Stewie says spending ₹20 a day on chai adds up to how much in a month?",
+        "options": [
+          "₹200",
+          "₹2,000",
+          "₹7,300",
+          "₹600"
+        ],
+        "answer": "D",
+        "explanation": "₹20 a day for 30 days is ₹600 a month. ₹7,300 is what it adds up to in a whole year."
+      },
+      "hi": {
+        "prompt": "\"Peter's Chai Math\" में स्टूवी कहता है कि रोज़ चाय पर ₹20 खर्च करना एक महीने में कितना हो जाता है?",
+        "options": [
+          "₹200",
+          "₹2,000",
+          "₹7,300",
+          "₹600"
+        ],
+        "answer": "D",
+        "explanation": "30 दिन तक रोज़ ₹20 यानी महीने में ₹600। ₹7,300 तो पूरे साल का जोड़ है।"
+      },
+      "te": {
+        "prompt": "\"Peter's Chai Math\"లో, రోజూ టీ మీద ₹20 ఖర్చు చేస్తే నెలకు ఎంత అవుతుందని స్టూవీ చెబుతాడు?",
+        "options": [
+          "₹200",
+          "₹2,000",
+          "₹7,300",
+          "₹600"
+        ],
+        "answer": "D",
+        "explanation": "రోజుకు ₹20 చొప్పున 30 రోజులకు నెలకు ₹600. ₹7,300 అనేది ఏడాది మొత్తానికి అయ్యే ఖర్చు."
+      }
+    }
+  },
+  {
+    "id": "budget-needs-vs-wants-002",
+    "pillar": "budget",
+    "tags": [
+      "needs-vs-wants"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "budget-needs-vs-wants",
+    "content": {
+      "en": {
+        "prompt": "Which of these is a need for a student who takes the bus to school?",
+        "options": [
+          "Monthly bus pass",
+          "New wireless earphones",
+          "A skin for an online game",
+          "Biryani with friends every Friday"
+        ],
+        "answer": "A",
+        "explanation": "Without the bus pass the student can't get to school. The others are nice to have but not needed to get through the month."
+      },
+      "hi": {
+        "prompt": "स्कूल बस से जाने वाले स्टूडेंट के लिए इनमें से कौन-सी चीज़ ज़रूरत है?",
+        "options": [
+          "महीने का बस पास",
+          "नए वायरलेस ईयरफ़ोन",
+          "ऑनलाइन गेम की एक स्किन",
+          "हर शुक्रवार दोस्तों के साथ बिरयानी"
+        ],
+        "answer": "A",
+        "explanation": "बस पास के बिना स्टूडेंट स्कूल नहीं पहुँच सकता। बाकी चीज़ें हों तो अच्छा है, पर महीना निकालने के लिए ज़रूरी नहीं।"
+      },
+      "te": {
+        "prompt": "బస్సులో స్కూల్‌కి వెళ్లే స్టూడెంట్‌కి వీటిలో ఏది అవసరం?",
+        "options": [
+          "నెలవారీ బస్ పాస్",
+          "కొత్త వైర్‌లెస్ ఇయర్‌ఫోన్స్",
+          "ఆన్‌లైన్ గేమ్‌లో ఒక స్కిన్",
+          "ప్రతి శుక్రవారం ఫ్రెండ్స్‌తో బిర్యానీ"
+        ],
+        "answer": "A",
+        "explanation": "బస్ పాస్ లేకపోతే స్టూడెంట్ స్కూల్‌కి వెళ్లలేరు. మిగతావి ఉంటే బాగుంటాయి, కానీ నెల గడవడానికి అవసరం లేదు."
+      }
+    }
+  },
+  {
+    "id": "budget-needs-vs-wants-003",
+    "pillar": "budget",
+    "tags": [
+      "needs-vs-wants"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "budget-needs-vs-wants",
+    "content": {
+      "en": {
+        "prompt": "Kavya's phone works fine, but a new model has just launched. For Kavya, buying the new phone is:",
+        "options": [
+          "A need, because everyone uses phones",
+          "A need, because newer is always better",
+          "An emergency expense",
+          "A want, because her phone already works"
+        ],
+        "answer": "D",
+        "explanation": "Her current phone already does the job, so the new one is nice to have, not something she can't do without."
+      },
+      "hi": {
+        "prompt": "काव्या का फ़ोन ठीक चल रहा है, पर अभी-अभी नया मॉडल लॉन्च हुआ है। काव्या के लिए नया फ़ोन खरीदना:",
+        "options": [
+          "ज़रूरत है, क्योंकि सब फ़ोन इस्तेमाल करते हैं",
+          "ज़रूरत है, क्योंकि नया हमेशा बेहतर होता है",
+          "एक इमरजेंसी खर्च है",
+          "चाहत है, क्योंकि उसका फ़ोन पहले से चल रहा है"
+        ],
+        "answer": "D",
+        "explanation": "उसका अभी का फ़ोन काम कर रहा है, इसलिए नया फ़ोन हो तो अच्छा है, पर उसके बिना उसका काम नहीं रुकेगा।"
+      },
+      "te": {
+        "prompt": "కావ్య ఫోన్ బాగానే పనిచేస్తోంది, కానీ కొత్త మోడల్ ఇప్పుడే లాంచ్ అయింది. కావ్యకు కొత్త ఫోన్ కొనడం:",
+        "options": [
+          "అవసరం, ఎందుకంటే అందరూ ఫోన్లు వాడతారు",
+          "అవసరం, ఎందుకంటే కొత్తది ఎప్పుడూ మంచిదే",
+          "ఒక ఎమర్జెన్సీ ఖర్చు",
+          "కోరిక, ఎందుకంటే తన ఫోన్ ఇప్పటికే పనిచేస్తోంది"
+        ],
+        "answer": "D",
+        "explanation": "ఇప్పుడున్న ఫోన్‌తోనే పని జరుగుతోంది, కాబట్టి కొత్తది ఉంటే బాగుంటుంది, కానీ అది లేకుండా గడవదు అని కాదు."
+      }
+    }
+  },
+  {
+    "id": "budget-needs-vs-wants-004",
+    "pillar": "budget",
+    "tags": [
+      "needs-vs-wants"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "budget-needs-vs-wants",
+    "content": {
+      "en": {
+        "prompt": "Food is a need. Which of these food spends is a want?",
+        "options": [
+          "Rice and dal at home",
+          "A lunch tiffin for school",
+          "Pizza with friends every weekend",
+          "Milk for the family"
+        ],
+        "answer": "C",
+        "explanation": "Eating is a need, but eating out with friends every weekend is extra. You can get through the month without it."
+      },
+      "hi": {
+        "prompt": "खाना ज़रूरत है। इनमें से खाने पर कौन-सा खर्च चाहत है?",
+        "options": [
+          "घर पर दाल-चावल",
+          "स्कूल के लिए लंच टिफ़िन",
+          "हर वीकेंड दोस्तों के साथ पिज़्ज़ा",
+          "परिवार के लिए दूध"
+        ],
+        "answer": "C",
+        "explanation": "खाना ज़रूरत है, पर हर वीकेंड दोस्तों के साथ बाहर खाना एक्स्ट्रा है। इसके बिना भी महीना निकल सकता है।"
+      },
+      "te": {
+        "prompt": "ఆహారం అవసరం. వీటిలో ఆహారం మీద చేసే ఏ ఖర్చు కోరిక?",
+        "options": [
+          "ఇంట్లో అన్నం, పప్పు",
+          "స్కూల్‌కి లంచ్ టిఫిన్",
+          "ప్రతి వీకెండ్ ఫ్రెండ్స్‌తో పిజ్జా",
+          "కుటుంబానికి పాలు"
+        ],
+        "answer": "C",
+        "explanation": "తినడం అవసరమే, కానీ ప్రతి వీకెండ్ ఫ్రెండ్స్‌తో బయట తినడం అదనం. అది లేకుండా కూడా నెల గడుస్తుంది."
+      }
+    }
+  },
+  {
+    "id": "budget-needs-vs-wants-005",
+    "pillar": "budget",
+    "tags": [
+      "needs-vs-wants",
+      "pocket-money"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "budget-needs-vs-wants",
+    "content": {
+      "en": {
+        "prompt": "Arjun has just got his monthly pocket money. In what order should he spend it?",
+        "options": [
+          "Wants first, then needs with the rest",
+          "Needs first, then wants with the leftovers",
+          "Half on needs, half on wants",
+          "Whatever feels most urgent that day"
+        ],
+        "answer": "B",
+        "explanation": "Paying for needs first makes sure the important things are covered. Wants are paid from whatever is left."
+      },
+      "hi": {
+        "prompt": "अर्जुन को अभी-अभी महीने की पॉकेट मनी मिली है। उसे किस क्रम में खर्च करना चाहिए?",
+        "options": [
+          "पहले चाहतें, फिर बचे पैसों से ज़रूरतें",
+          "पहले ज़रूरतें, फिर बचे पैसों से चाहतें",
+          "आधा ज़रूरतों पर, आधा चाहतों पर",
+          "उस दिन जो सबसे ज़रूरी लगे"
+        ],
+        "answer": "B",
+        "explanation": "पहले ज़रूरतों पर खर्च करने से ज़रूरी चीज़ें पक्की हो जाती हैं। चाहतें बचे हुए पैसों से पूरी होती हैं।"
+      },
+      "te": {
+        "prompt": "అర్జున్‌కి ఇప్పుడే నెల పాకెట్ మనీ వచ్చింది. అతను ఏ క్రమంలో ఖర్చు చేయాలి?",
+        "options": [
+          "ముందు కోరికలు, మిగిలిన డబ్బుతో అవసరాలు",
+          "ముందు అవసరాలు, మిగిలిన డబ్బుతో కోరికలు",
+          "సగం అవసరాలకు, సగం కోరికలకు",
+          "ఆ రోజు ఏది అర్జెంట్ అనిపిస్తే అది"
+        ],
+        "answer": "B",
+        "explanation": "ముందు అవసరాలకు ఖర్చు చేస్తే ముఖ్యమైనవన్నీ కవర్ అవుతాయి. కోరికలకు మిగిలిన డబ్బు నుంచి ఖర్చు చేయాలి."
+      }
+    }
+  },
+  {
+    "id": "budget-needs-vs-wants-006",
+    "pillar": "budget",
+    "tags": [
+      "needs-vs-wants"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "budget-needs-vs-wants",
+    "content": {
+      "en": {
+        "prompt": "A phone recharge is a need for Neha, who attends online classes, but a want for her cousin. Why can this happen?",
+        "options": [
+          "Prices are different from shop to shop",
+          "Wants turn into needs if you like them enough",
+          "Needs depend on what each person's life truly requires",
+          "Only adults have real needs"
+        ],
+        "answer": "C",
+        "explanation": "Whether something is a need depends on the person's situation. Neha needs the recharge for school; her cousin can manage without it."
+      },
+      "hi": {
+        "prompt": "ऑनलाइन क्लास करने वाली नेहा के लिए फ़ोन रिचार्ज ज़रूरत है, पर उसके कज़िन के लिए चाहत। ऐसा क्यों हो सकता है?",
+        "options": [
+          "हर दुकान पर दाम अलग होते हैं",
+          "कोई चीज़ बहुत पसंद हो तो चाहत ज़रूरत बन जाती है",
+          "ज़रूरतें इस पर निर्भर हैं कि हर इंसान की ज़िंदगी को सच में क्या चाहिए",
+          "असली ज़रूरतें सिर्फ़ बड़ों की होती हैं"
+        ],
+        "answer": "C",
+        "explanation": "कोई चीज़ ज़रूरत है या नहीं, यह इंसान के हालात पर निर्भर करता है। नेहा को पढ़ाई के लिए रिचार्ज चाहिए; उसके कज़िन का काम इसके बिना चल सकता है।"
+      },
+      "te": {
+        "prompt": "ఆన్‌లైన్ క్లాసులు వినే నేహాకి ఫోన్ రీచార్జ్ అవసరం, కానీ తన కజిన్‌కి కోరిక. ఇలా ఎందుకు జరగొచ్చు?",
+        "options": [
+          "ఒక్కో షాపులో ఒక్కో ధర ఉంటుంది",
+          "బాగా నచ్చితే కోరికలు అవసరాలుగా మారిపోతాయి",
+          "ప్రతి వ్యక్తి జీవితానికి నిజంగా ఏం కావాలో దాన్ని బట్టి అవసరాలు ఉంటాయి",
+          "నిజమైన అవసరాలు పెద్దవాళ్లకే ఉంటాయి"
+        ],
+        "answer": "C",
+        "explanation": "ఏదైనా అవసరమా కాదా అనేది ఆ వ్యక్తి పరిస్థితిని బట్టి ఉంటుంది. నేహాకి చదువు కోసం రీచార్జ్ కావాలి; తన కజిన్‌కి అది లేకపోయినా పర్వాలేదు."
+      }
+    }
+  },
+  {
+    "id": "budget-tracking-spending-002",
+    "pillar": "budget",
+    "tags": [
+      "tracking-spending"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "What is the main purpose of tracking your spending?",
+        "options": [
+          "To see where your money actually goes",
+          "To make your income go up",
+          "To prove you never buy wants",
+          "So you no longer need a budget"
+        ],
+        "answer": "A",
+        "explanation": "Tracking shows you exactly where your money goes. Then you can decide what to change."
+      },
+      "hi": {
+        "prompt": "अपने खर्च का हिसाब रखने का मुख्य मकसद क्या है?",
+        "options": [
+          "यह देखना कि आपका पैसा असल में कहाँ जाता है",
+          "अपनी आमदनी बढ़ाना",
+          "यह साबित करना कि आप कभी चाहतों पर खर्च नहीं करते",
+          "ताकि आपको बजट की ज़रूरत ही न रहे"
+        ],
+        "answer": "A",
+        "explanation": "हिसाब रखने से साफ़ दिखता है कि आपका पैसा कहाँ जा रहा है। फिर आप तय कर सकते हैं कि क्या बदलना है।"
+      },
+      "te": {
+        "prompt": "మీ ఖర్చులను ట్రాక్ చేయడం ముఖ్య ఉద్దేశం ఏమిటి?",
+        "options": [
+          "మీ డబ్బు నిజంగా ఎక్కడికి వెళ్తుందో చూడటం",
+          "మీ ఆదాయం పెంచుకోవడం",
+          "మీరు ఎప్పుడూ కోరికల మీద ఖర్చు చేయరని నిరూపించడం",
+          "ఇక బడ్జెట్ అవసరం లేకుండా ఉండటం"
+        ],
+        "answer": "A",
+        "explanation": "ట్రాక్ చేస్తే మీ డబ్బు సరిగ్గా ఎక్కడికి వెళ్తుందో తెలుస్తుంది. అప్పుడు ఏం మార్చాలో మీరు నిర్ణయించుకోవచ్చు."
+      }
+    }
+  },
+  {
+    "id": "budget-tracking-spending-003",
+    "pillar": "budget",
+    "tags": [
+      "tracking-spending"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Why do small UPI payments often go unnoticed?",
+        "options": [
+          "UPI payments are always free",
+          "One tap, no cash leaves your hand, so it feels invisible",
+          "UPI hides payments from your history",
+          "Small payments don't count in a budget"
+        ],
+        "answer": "B",
+        "explanation": "With UPI you never see cash leave your hand, so small spends don't feel real. They still add up."
+      },
+      "hi": {
+        "prompt": "छोटे UPI पेमेंट अक्सर ध्यान में क्यों नहीं आते?",
+        "options": [
+          "UPI पेमेंट हमेशा फ़्री होते हैं",
+          "बस एक टैप, हाथ से कैश नहीं जाता, इसलिए खर्च दिखता ही नहीं",
+          "UPI आपकी हिस्ट्री से पेमेंट छिपा देता है",
+          "छोटे पेमेंट बजट में नहीं गिने जाते"
+        ],
+        "answer": "B",
+        "explanation": "UPI में हाथ से कैश जाता हुआ नहीं दिखता, इसलिए छोटे खर्च असली नहीं लगते। फिर भी वे जुड़ते जाते हैं।"
+      },
+      "te": {
+        "prompt": "చిన్న UPI పేమెంట్లు తరచుగా ఎందుకు మన దృష్టికి రావు?",
+        "options": [
+          "UPI పేమెంట్లు ఎప్పుడూ ఫ్రీ",
+          "ఒక్క ట్యాప్, చేతిలోంచి క్యాష్ వెళ్లదు, అందుకే ఖర్చు కనిపించదు",
+          "UPI మీ హిస్టరీ నుంచి పేమెంట్లను దాచేస్తుంది",
+          "చిన్న పేమెంట్లు బడ్జెట్‌లో లెక్కలోకి రావు"
+        ],
+        "answer": "B",
+        "explanation": "UPIలో చేతిలోంచి క్యాష్ వెళ్లడం కనిపించదు, అందుకే చిన్న ఖర్చులు నిజమైనవిగా అనిపించవు. అయినా అవి కలిసి పెద్ద మొత్తం అవుతాయి."
+      }
+    },
+    "chapter_slug": "save-chai-math"
+  },
+  {
+    "id": "budget-50-30-20-002",
+    "pillar": "budget",
+    "tags": [
+      "50-30-20"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "In the 50-30-20 rule, what is the 20% part for?",
+        "options": [
+          "Wants",
+          "Needs",
+          "Bills and EMIs",
+          "Savings"
+        ],
+        "answer": "D",
+        "explanation": "The rule puts 50% on needs, 30% on wants and 20% into savings."
+      },
+      "hi": {
+        "prompt": "50-30-20 नियम में 20% वाला हिस्सा किसके लिए है?",
+        "options": [
+          "चाहतें",
+          "ज़रूरतें",
+          "बिल और EMI",
+          "बचत"
+        ],
+        "answer": "D",
+        "explanation": "यह नियम 50% ज़रूरतों पर, 30% चाहतों पर और 20% बचत में रखता है।"
+      },
+      "te": {
+        "prompt": "50-30-20 రూల్‌లో 20% భాగం దేనికోసం?",
+        "options": [
+          "కోరికలు",
+          "అవసరాలు",
+          "బిల్లులు, EMIలు",
+          "పొదుపు"
+        ],
+        "answer": "D",
+        "explanation": "ఈ రూల్ ప్రకారం 50% అవసరాలకు, 30% కోరికలకు, 20% పొదుపుకు."
+      }
+    }
+  },
+  {
+    "id": "budget-pocket-money-001",
+    "pillar": "budget",
+    "tags": [
+      "pocket-money"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "What is a budget?",
+        "options": [
+          "A plan for how you will use your money",
+          "A list of what you bought last year",
+          "A rule that bans spending on fun",
+          "The money left at the end of the month"
+        ],
+        "answer": "A",
+        "explanation": "A budget is a plan made in advance for how your money will be used. It can include fun, as long as it is planned."
+      },
+      "hi": {
+        "prompt": "बजट क्या है?",
+        "options": [
+          "आप अपना पैसा कैसे इस्तेमाल करेंगे, उसका प्लान",
+          "पिछले साल आपने जो खरीदा, उसकी लिस्ट",
+          "मौज-मस्ती पर खर्च रोकने वाला नियम",
+          "महीने के आख़िर में बचा पैसा"
+        ],
+        "answer": "A",
+        "explanation": "बजट पहले से बनाया गया प्लान है कि आपका पैसा कैसे इस्तेमाल होगा। इसमें मौज-मस्ती भी हो सकती है, बस वह प्लान की हुई हो।"
+      },
+      "te": {
+        "prompt": "బడ్జెట్ అంటే ఏమిటి?",
+        "options": [
+          "మీ డబ్బును ఎలా వాడతారో వేసుకునే ప్లాన్",
+          "పోయిన ఏడాది మీరు కొన్నవాటి లిస్ట్",
+          "సరదాల మీద ఖర్చును నిషేధించే రూల్",
+          "నెల చివర మిగిలే డబ్బు"
+        ],
+        "answer": "A",
+        "explanation": "బడ్జెట్ అంటే మీ డబ్బు ఎలా వాడాలో ముందే వేసుకునే ప్లాన్. ప్లాన్ చేసుకుంటే అందులో సరదాలకు కూడా చోటు ఉంటుంది."
+      }
+    }
+  },
+  {
+    "id": "budget-bills-and-emi-001",
+    "pillar": "budget",
+    "tags": [
+      "bills-and-emi"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "What is an EMI?",
+        "options": [
+          "A one-time discount when you buy",
+          "A fee charged on every UPI payment",
+          "A fixed monthly payment to repay a loan",
+          "Interest you earn on your savings"
+        ],
+        "answer": "C",
+        "explanation": "EMI means Equated Monthly Instalment. It is the same amount paid every month until a loan is repaid."
+      },
+      "hi": {
+        "prompt": "EMI क्या है?",
+        "options": [
+          "खरीदते समय मिलने वाली एक बार की छूट",
+          "हर UPI पेमेंट पर लगने वाली फ़ीस",
+          "लोन चुकाने के लिए हर महीने दी जाने वाली तय रकम",
+          "आपकी बचत पर मिलने वाला ब्याज"
+        ],
+        "answer": "C",
+        "explanation": "EMI का मतलब है Equated Monthly Instalment। यह वह तय रकम है जो लोन चुकने तक हर महीने दी जाती है।"
+      },
+      "te": {
+        "prompt": "EMI అంటే ఏమిటి?",
+        "options": [
+          "కొనేటప్పుడు ఒక్కసారి ఇచ్చే డిస్కౌంట్",
+          "ప్రతి UPI పేమెంట్‌కి వసూలు చేసే ఫీజు",
+          "లోన్ తీర్చడానికి ప్రతి నెలా కట్టే ఫిక్స్‌డ్ మొత్తం",
+          "మీ పొదుపు మీద మీకు వచ్చే వడ్డీ"
+        ],
+        "answer": "C",
+        "explanation": "EMI అంటే Equated Monthly Instalment. లోన్ పూర్తిగా తీరేవరకు ప్రతి నెలా కట్టే ఒకే మొత్తం ఇది."
+      }
+    },
+    "chapter_slug": "budget-no-cost-emi"
+  },
+  {
+    "id": "budget-bills-and-emi-002",
+    "pillar": "budget",
+    "tags": [
+      "bills-and-emi"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Which of these is a fixed bill that many families pay every month?",
+        "options": [
+          "A movie ticket",
+          "A birthday gift",
+          "Street food on the way home",
+          "House rent"
+        ],
+        "answer": "D",
+        "explanation": "Rent is the same amount, due every month. The others change or happen only now and then."
+      },
+      "hi": {
+        "prompt": "इनमें से कौन-सा एक तय बिल है जो कई परिवार हर महीने भरते हैं?",
+        "options": [
+          "मूवी टिकट",
+          "जन्मदिन का तोहफ़ा",
+          "घर लौटते वक़्त स्ट्रीट फ़ूड",
+          "घर का किराया"
+        ],
+        "answer": "D",
+        "explanation": "किराया हर महीने उतना ही होता है और हर महीने देना पड़ता है। बाकी खर्च बदलते रहते हैं या कभी-कभी ही होते हैं।"
+      },
+      "te": {
+        "prompt": "చాలా కుటుంబాలు ప్రతి నెలా కట్టే ఫిక్స్‌డ్ బిల్లు వీటిలో ఏది?",
+        "options": [
+          "సినిమా టికెట్",
+          "బర్త్‌డే గిఫ్ట్",
+          "ఇంటికి వెళ్తూ తినే స్ట్రీట్ ఫుడ్",
+          "ఇంటి అద్దె"
+        ],
+        "answer": "D",
+        "explanation": "అద్దె ప్రతి నెలా ఒకే మొత్తం, ప్రతి నెలా కట్టాలి. మిగతావి మారుతుంటాయి లేదా అప్పుడప్పుడు మాత్రమే వస్తాయి."
+      }
+    }
+  },
+  {
+    "id": "budget-pocket-money-002",
+    "pillar": "budget",
+    "tags": [
+      "pocket-money",
+      "tracking-spending"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "What does \"pay yourself first\" mean?",
+        "options": [
+          "Move your savings aside as soon as money comes in",
+          "Buy something for yourself before paying bills",
+          "Spend first, then save whatever is left",
+          "Pay friends back before buying anything"
+        ],
+        "answer": "A",
+        "explanation": "Saving first, on the day money arrives, means it doesn't get spent by accident. You then spend what's left."
+      },
+      "hi": {
+        "prompt": "\"पहले खुद को पे करो\" का क्या मतलब है?",
+        "options": [
+          "पैसा आते ही अपनी बचत अलग रख दो",
+          "बिल भरने से पहले अपने लिए कुछ खरीद लो",
+          "पहले खर्च करो, फिर जो बचे उसे बचाओ",
+          "कुछ भी खरीदने से पहले दोस्तों का उधार चुकाओ"
+        ],
+        "answer": "A",
+        "explanation": "जिस दिन पैसा आए उसी दिन बचत करने से वह गलती से खर्च नहीं होता। फिर जो बचे, वह खर्च करो।"
+      },
+      "te": {
+        "prompt": "\"ముందు మీకు మీరే పే చేసుకోండి\" అంటే అర్థం ఏమిటి?",
+        "options": [
+          "డబ్బు రాగానే పొదుపును పక్కన పెట్టేయడం",
+          "బిల్లులు కట్టే ముందు మీ కోసం ఏదైనా కొనుక్కోవడం",
+          "ముందు ఖర్చు చేసి, మిగిలింది పొదుపు చేయడం",
+          "ఏదైనా కొనే ముందు ఫ్రెండ్స్ అప్పు తీర్చడం"
+        ],
+        "answer": "A",
+        "explanation": "డబ్బు వచ్చిన రోజే పొదుపు చేస్తే అది పొరపాటున ఖర్చైపోదు. ఆ తర్వాత మిగిలినదాన్ని ఖర్చు చేయండి."
+      }
+    }
+  },
+  {
+    "id": "budget-bills-and-emi-003",
+    "pillar": "budget",
+    "tags": [
+      "bills-and-emi"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "reel_id": "budget-no-cost-emi",
+    "content": {
+      "en": {
+        "prompt": "In \"Peter Falls for 'No-Cost EMI'\", why does Stewie say no-cost EMI is often not really free?",
+        "options": [
+          "The price doubles after the first month",
+          "You must pay the full price upfront",
+          "You may still pay a processing fee and GST on interest",
+          "The shop keeps your phone until you finish paying"
+        ],
+        "answer": "C",
+        "explanation": "The shop's discount covers the interest, but a processing fee and GST on the interest are often still charged. So \"no-cost\" can mean some cost."
+      },
+      "hi": {
+        "prompt": "\"Peter Falls for 'No-Cost EMI'\" में स्टूवी क्यों कहता है कि नो-कॉस्ट EMI अक्सर सच में फ़्री नहीं होती?",
+        "options": [
+          "पहले महीने के बाद दाम दोगुना हो जाता है",
+          "आपको पूरी कीमत पहले ही देनी पड़ती है",
+          "आपको फिर भी प्रोसेसिंग फ़ीस और ब्याज पर GST देना पड़ सकता है",
+          "पूरा पैसा चुकने तक दुकान आपका फ़ोन अपने पास रखती है"
+        ],
+        "answer": "C",
+        "explanation": "दुकान की छूट ब्याज को कवर करती है, पर प्रोसेसिंग फ़ीस और ब्याज पर GST अक्सर फिर भी लगते हैं। इसलिए \"नो-कॉस्ट\" में भी कुछ खर्च हो सकता है।"
+      },
+      "te": {
+        "prompt": "\"Peter Falls for 'No-Cost EMI'\"లో, నో-కాస్ట్ EMI చాలాసార్లు నిజంగా ఫ్రీ కాదని స్టూవీ ఎందుకు అంటాడు?",
+        "options": [
+          "మొదటి నెల తర్వాత ధర రెట్టింపు అవుతుంది",
+          "పూర్తి ధర ముందే కట్టాలి",
+          "అయినా ప్రాసెసింగ్ ఫీజు, వడ్డీ మీద GST కట్టాల్సి రావొచ్చు",
+          "మొత్తం కట్టేవరకు షాప్ వాళ్లు మీ ఫోన్‌ని తమ దగ్గరే ఉంచుకుంటారు"
+        ],
+        "answer": "C",
+        "explanation": "షాప్ ఇచ్చే డిస్కౌంట్ వడ్డీని కవర్ చేస్తుంది, కానీ ప్రాసెసింగ్ ఫీజు, వడ్డీ మీద GST చాలాసార్లు అయినా వసూలు చేస్తారు. కాబట్టి \"నో-కాస్ట్\" అన్నా కొంత ఖర్చు ఉండొచ్చు."
+      }
+    }
+  },
+  {
+    "id": "budget-bills-and-emi-004",
+    "pillar": "budget",
+    "tags": [
+      "bills-and-emi"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "reel_id": "budget-minimum-due",
+    "content": {
+      "en": {
+        "prompt": "Peter's credit card bill is ₹20,000. He pays only the ₹1,000 \"minimum due\". What happens to the rest?",
+        "options": [
+          "It is forgiven by the card company",
+          "It is charged interest, which keeps growing",
+          "It waits interest-free until next month",
+          "It is taken from his savings automatically"
+        ],
+        "answer": "B",
+        "explanation": "Paying the minimum only avoids a late fee. The unpaid ₹19,000 is charged high interest every month, and interest gets added on interest."
+      },
+      "hi": {
+        "prompt": "पीटर का क्रेडिट कार्ड बिल ₹20,000 है। वह सिर्फ़ ₹1,000 का \"मिनिमम ड्यू\" भरता है। बाकी रकम का क्या होता है?",
+        "options": [
+          "कार्ड कंपनी उसे माफ़ कर देती है",
+          "उस पर ब्याज लगता है, जो बढ़ता ही जाता है",
+          "वह अगले महीने तक बिना ब्याज के रुकी रहती है",
+          "वह अपने-आप उसकी बचत से कट जाती है"
+        ],
+        "answer": "B",
+        "explanation": "मिनिमम भरने से सिर्फ़ लेट फ़ीस से बचते हैं। बचे हुए ₹19,000 पर हर महीने भारी ब्याज लगता है, और ब्याज पर भी ब्याज जुड़ता है।"
+      },
+      "te": {
+        "prompt": "పీటర్ క్రెడిట్ కార్డ్ బిల్లు ₹20,000. అతను ₹1,000 \"మినిమమ్ డ్యూ\" మాత్రమే కడతాడు. మిగతా మొత్తానికి ఏమవుతుంది?",
+        "options": [
+          "కార్డ్ కంపెనీ దాన్ని మాఫీ చేస్తుంది",
+          "దాని మీద వడ్డీ పడుతుంది, అది పెరుగుతూనే ఉంటుంది",
+          "వచ్చే నెల వరకు వడ్డీ లేకుండా ఆగుతుంది",
+          "అతని పొదుపు నుంచి ఆటోమేటిక్‌గా కట్ అవుతుంది"
+        ],
+        "answer": "B",
+        "explanation": "మినిమమ్ కడితే లేట్ ఫీజు మాత్రమే తప్పుతుంది. కట్టని ₹19,000 మీద ప్రతి నెలా ఎక్కువ వడ్డీ పడుతుంది, వడ్డీ మీద కూడా వడ్డీ కలుస్తుంది."
+      }
+    }
+  },
+  {
+    "id": "budget-pocket-money-003",
+    "pillar": "budget",
+    "tags": [
+      "pocket-money",
+      "tracking-spending"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "budget-pocket-money-plan",
+    "content": {
+      "en": {
+        "prompt": "Rahul's ₹2,000 pocket money runs out by the 20th every month, and he isn't sure why. What is the most useful first step?",
+        "options": [
+          "Ask his parents for more money",
+          "Write down every spend for a month",
+          "Borrow from friends till month end",
+          "Stop buying any food outside at all"
+        ],
+        "answer": "B",
+        "explanation": "He can't fix a leak he can't see. Tracking every spend shows where the money really goes, so he can cut the right things."
+      },
+      "hi": {
+        "prompt": "राहुल की ₹2,000 पॉकेट मनी हर महीने 20 तारीख तक ख़त्म हो जाती है, और उसे समझ नहीं आता क्यों। सबसे काम का पहला कदम क्या है?",
+        "options": [
+          "माता-पिता से और पैसे माँगना",
+          "एक महीने तक हर खर्च लिखना",
+          "महीने के आख़िर तक दोस्तों से उधार लेना",
+          "बाहर का खाना बिल्कुल बंद कर देना"
+        ],
+        "answer": "B",
+        "explanation": "जो लीक दिखे ही नहीं, उसे ठीक नहीं किया जा सकता। हर खर्च लिखने से पता चलता है कि पैसा असल में कहाँ जाता है, ताकि वह सही चीज़ों में कटौती कर सके।"
+      },
+      "te": {
+        "prompt": "రాహుల్ ₹2,000 పాకెట్ మనీ ప్రతి నెలా 20వ తేదీకల్లా అయిపోతుంది, ఎందుకో అతనికి అర్థం కావట్లేదు. అన్నిటికంటే ఉపయోగపడే మొదటి అడుగు ఏది?",
+        "options": [
+          "అమ్మానాన్నలను ఇంకా డబ్బు అడగడం",
+          "ఒక నెల పాటు ప్రతి ఖర్చును రాసుకోవడం",
+          "నెల చివరి వరకు ఫ్రెండ్స్ దగ్గర అప్పు తీసుకోవడం",
+          "బయట ఏ ఫుడ్ కొనడం అయినా పూర్తిగా ఆపేయడం"
+        ],
+        "answer": "B",
+        "explanation": "కనిపించని లీక్‌ని సరిచేయలేం. ప్రతి ఖర్చు రాసుకుంటే డబ్బు నిజంగా ఎక్కడికి వెళ్తుందో తెలుస్తుంది, అప్పుడు సరైనవాటినే తగ్గించుకోవచ్చు."
+      }
+    }
+  },
+  {
+    "id": "budget-50-30-20-003",
+    "pillar": "budget",
+    "tags": [
+      "50-30-20",
+      "pocket-money"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "budget-pocket-money-plan",
+    "content": {
+      "en": {
+        "prompt": "Sneha gets ₹3,000 a month and wants to follow the 50-30-20 rule. How much goes to savings?",
+        "options": [
+          "₹300",
+          "₹900",
+          "₹1,500",
+          "₹600"
+        ],
+        "answer": "D",
+        "explanation": "Savings are 20% of the money. 20% of ₹3,000 is ₹600."
+      },
+      "hi": {
+        "prompt": "स्नेहा को हर महीने ₹3,000 मिलते हैं और वह 50-30-20 नियम मानना चाहती है। बचत में कितना जाएगा?",
+        "options": [
+          "₹300",
+          "₹900",
+          "₹1,500",
+          "₹600"
+        ],
+        "answer": "D",
+        "explanation": "बचत पैसे का 20% होती है। ₹3,000 का 20% है ₹600।"
+      },
+      "te": {
+        "prompt": "స్నేహకి నెలకు ₹3,000 వస్తాయి, ఆమె 50-30-20 రూల్ పాటించాలనుకుంటోంది. పొదుపుకు ఎంత వెళ్తుంది?",
+        "options": [
+          "₹300",
+          "₹900",
+          "₹1,500",
+          "₹600"
+        ],
+        "answer": "D",
+        "explanation": "పొదుపు అంటే డబ్బులో 20%. ₹3,000లో 20% అంటే ₹600."
+      }
+    }
+  },
+  {
+    "id": "budget-tracking-spending-004",
+    "pillar": "budget",
+    "tags": [
+      "tracking-spending",
+      "pocket-money"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "budget-pocket-money-plan",
+    "content": {
+      "en": {
+        "prompt": "On Sunday, Imran checks his UPI history and finds he spent ₹450 on snacks this week. What is a sensible next step?",
+        "options": [
+          "Set a weekly snack limit and keep checking",
+          "Delete the history so it doesn't bother him",
+          "Ignore it, because small spends don't matter",
+          "Spend more next week to even it out"
+        ],
+        "answer": "A",
+        "explanation": "A limit turns what he learned into a plan, and checking each week shows if it is working."
+      },
+      "hi": {
+        "prompt": "रविवार को इमरान अपनी UPI हिस्ट्री देखता है और पाता है कि इस हफ़्ते उसने स्नैक्स पर ₹450 खर्च किए। अगला समझदारी भरा कदम क्या है?",
+        "options": [
+          "स्नैक्स की हफ़्ते की लिमिट तय करना और चेक करते रहना",
+          "हिस्ट्री डिलीट कर देना ताकि परेशानी न हो",
+          "नज़रअंदाज़ करना, क्योंकि छोटे खर्च मायने नहीं रखते",
+          "हिसाब बराबर करने के लिए अगले हफ़्ते और खर्च करना"
+        ],
+        "answer": "A",
+        "explanation": "लिमिट तय करने से जो उसने सीखा, वह एक प्लान बन जाता है, और हर हफ़्ते चेक करने से पता चलता है कि प्लान काम कर रहा है या नहीं।"
+      },
+      "te": {
+        "prompt": "ఆదివారం ఇమ్రాన్ తన UPI హిస్టరీ చూస్తే, ఈ వారం స్నాక్స్ మీద ₹450 ఖర్చు చేశాడని తెలుస్తుంది. తర్వాత చేయాల్సిన సరైన పని ఏది?",
+        "options": [
+          "స్నాక్స్‌కి వారానికి ఒక లిమిట్ పెట్టుకుని, చెక్ చేస్తూ ఉండటం",
+          "ఇబ్బంది లేకుండా హిస్టరీ డిలీట్ చేయడం",
+          "చిన్న ఖర్చులు పెద్ద విషయం కాదని పట్టించుకోకపోవడం",
+          "బ్యాలెన్స్ చేయడానికి వచ్చే వారం ఇంకా ఎక్కువ ఖర్చు చేయడం"
+        ],
+        "answer": "A",
+        "explanation": "లిమిట్ పెట్టుకుంటే తెలుసుకున్నది ఒక ప్లాన్‌గా మారుతుంది, ప్రతి వారం చెక్ చేస్తే అది పనిచేస్తోందో లేదో తెలుస్తుంది."
+      }
+    }
+  },
+  {
+    "id": "budget-pocket-money-004",
+    "pillar": "budget",
+    "tags": [
+      "pocket-money"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "budget-pocket-money-plan",
+    "content": {
+      "en": {
+        "prompt": "Divya gets ₹1,800 on the 1st. Her ₹600 bus pass must be paid on the 10th. Which plan keeps her from running short?",
+        "options": [
+          "Keep ₹600 aside for the pass on day 1",
+          "Spend freely and pay from what is left",
+          "Pay the pass only if money is left",
+          "Use the pass money now and borrow later"
+        ],
+        "answer": "A",
+        "explanation": "Setting the bus pass money aside first means a need is covered before any of it is spent on wants."
+      },
+      "hi": {
+        "prompt": "दिव्या को 1 तारीख को ₹1,800 मिलते हैं। उसके ₹600 के बस पास का पैसा 10 तारीख को भरना है। कौन-सा प्लान उसे पैसों की कमी से बचाता है?",
+        "options": [
+          "पहले ही दिन पास के लिए ₹600 अलग रख देना",
+          "खुलकर खर्च करना और बचे पैसों से पास भरना",
+          "पैसे बचें तो ही पास भरना",
+          "पास के पैसे अभी इस्तेमाल करना और बाद में उधार लेना"
+        ],
+        "answer": "A",
+        "explanation": "बस पास के पैसे पहले अलग रखने से चाहतों पर कुछ भी खर्च होने से पहले ज़रूरत पूरी हो जाती है।"
+      },
+      "te": {
+        "prompt": "దివ్యకి 1వ తేదీన ₹1,800 వస్తాయి. ₹600 బస్ పాస్ డబ్బు 10వ తేదీన కట్టాలి. ఏ ప్లాన్ వల్ల ఆమెకు డబ్బు కొరత రాదు?",
+        "options": [
+          "మొదటి రోజే పాస్ కోసం ₹600 పక్కన పెట్టడం",
+          "ఇష్టం వచ్చినట్లు ఖర్చు చేసి, మిగిలినదానితో పాస్ కట్టడం",
+          "డబ్బు మిగిలితేనే పాస్ కట్టడం",
+          "పాస్ డబ్బును ఇప్పుడు వాడేసి, తర్వాత అప్పు తీసుకోవడం"
+        ],
+        "answer": "A",
+        "explanation": "బస్ పాస్ డబ్బును ముందే పక్కన పెడితే, కోరికల మీద ఏదైనా ఖర్చు చేసే ముందే అవసరం కవర్ అవుతుంది."
+      }
+    }
+  },
+  {
+    "id": "budget-50-30-20-004",
+    "pillar": "budget",
+    "tags": [
+      "50-30-20",
+      "pocket-money"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "budget-pocket-money-plan",
+    "content": {
+      "en": {
+        "prompt": "Kiran gets ₹2,500 a month. Her needs cost ₹1,500, which is more than 50%. How can she adjust her 50-30-20 plan?",
+        "options": [
+          "Stop saving and keep wants the same",
+          "Skip a need, like her exam fee",
+          "Drop the plan and spend as she likes",
+          "Spend less on wants so needs and savings stay covered"
+        ],
+        "answer": "D",
+        "explanation": "50-30-20 is a guide, not a fixed law. When needs cost more, the extra should come out of wants first."
+      },
+      "hi": {
+        "prompt": "किरण को हर महीने ₹2,500 मिलते हैं। उसकी ज़रूरतें ₹1,500 की हैं, जो 50% से ज़्यादा है। वह अपना 50-30-20 प्लान कैसे बदल सकती है?",
+        "options": [
+          "बचत बंद कर दे और चाहतें वैसी ही रखे",
+          "कोई ज़रूरत छोड़ दे, जैसे अपनी एग्ज़ाम फ़ीस",
+          "प्लान छोड़कर मन मुताबिक खर्च करे",
+          "चाहतों पर कम खर्च करे ताकि ज़रूरतें और बचत दोनों पूरी हों"
+        ],
+        "answer": "D",
+        "explanation": "50-30-20 एक गाइड है, पक्का कानून नहीं। जब ज़रूरतें ज़्यादा हों, तो एक्स्ट्रा पैसा पहले चाहतों में से कटना चाहिए।"
+      },
+      "te": {
+        "prompt": "కిరణ్‌కి నెలకు ₹2,500 వస్తాయి. ఆమె అవసరాలకు ₹1,500 అవుతుంది, ఇది 50% కంటే ఎక్కువ. తన 50-30-20 ప్లాన్‌ని ఎలా మార్చుకోవచ్చు?",
+        "options": [
+          "పొదుపు ఆపేసి, కోరికలను అలాగే ఉంచడం",
+          "ఎగ్జామ్ ఫీజు లాంటి ఒక అవసరాన్ని వదిలేయడం",
+          "ప్లాన్ వదిలేసి ఇష్టం వచ్చినట్లు ఖర్చు చేయడం",
+          "అవసరాలు, పొదుపు కవర్ అయ్యేలా కోరికల మీద ఖర్చు తగ్గించడం"
+        ],
+        "answer": "D",
+        "explanation": "50-30-20 ఒక గైడ్ మాత్రమే, మార్చలేని రూల్ కాదు. అవసరాలకు ఎక్కువ అయితే, ఆ అదనపు మొత్తం ముందు కోరికల నుంచి తగ్గించాలి."
+      }
+    }
+  },
+  {
+    "id": "budget-needs-vs-wants-007",
+    "pillar": "budget",
+    "tags": [
+      "needs-vs-wants"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Ravi has ₹500 left. His phone recharge for online classes costs ₹299, and a concert ticket costs ₹450. Which is the needs-first choice?",
+        "options": [
+          "Buy the ticket and skip the recharge",
+          "Borrow ₹250 to pay for both",
+          "Recharge now and save the rest toward the ticket",
+          "Spend ₹250 on each"
+        ],
+        "answer": "C",
+        "explanation": "The recharge is needed for his classes, so it comes first. The ticket is a want he can save up for."
+      },
+      "hi": {
+        "prompt": "रवि के पास ₹500 बचे हैं। ऑनलाइन क्लास के लिए उसका फ़ोन रिचार्ज ₹299 का है, और एक कॉन्सर्ट टिकट ₹450 का। \"पहले ज़रूरत\" वाला चुनाव कौन-सा है?",
+        "options": [
+          "टिकट खरीद ले और रिचार्ज छोड़ दे",
+          "दोनों के लिए ₹250 उधार ले",
+          "अभी रिचार्ज करे और बाकी पैसे टिकट के लिए बचाए",
+          "हर एक पर ₹250 खर्च करे"
+        ],
+        "answer": "C",
+        "explanation": "क्लास के लिए रिचार्ज ज़रूरी है, इसलिए वह पहले आता है। टिकट एक चाहत है, जिसके लिए वह पैसे जोड़ सकता है।"
+      },
+      "te": {
+        "prompt": "రవి దగ్గర ₹500 మిగిలాయి. ఆన్‌లైన్ క్లాసుల కోసం ఫోన్ రీచార్జ్ ₹299, ఒక కాన్సర్ట్ టికెట్ ₹450. \"ముందు అవసరాలు\" అనే పద్ధతిలో సరైన ఎంపిక ఏది?",
+        "options": [
+          "టికెట్ కొని రీచార్జ్ వదిలేయడం",
+          "రెండింటి కోసం ₹250 అప్పు తీసుకోవడం",
+          "ఇప్పుడు రీచార్జ్ చేసి, మిగిలింది టికెట్ కోసం దాచుకోవడం",
+          "ఒక్కోదానికి ₹250 ఖర్చు చేయడం"
+        ],
+        "answer": "C",
+        "explanation": "క్లాసుల కోసం రీచార్జ్ అవసరం, కాబట్టి అదే ముందు. టికెట్ ఒక కోరిక, దాని కోసం అతను డబ్బు కూడబెట్టుకోవచ్చు."
+      }
+    }
+  },
+  {
+    "id": "budget-bills-and-emi-005",
+    "pillar": "budget",
+    "tags": [
+      "bills-and-emi"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "A shop offers a phone \"for just ₹999 a month\". Before agreeing, which question matters most?",
+        "options": [
+          "What is the total I will pay?",
+          "Is the monthly amount under ₹1,000?",
+          "Do my friends also buy on EMI?",
+          "What colours does the phone come in?"
+        ],
+        "answer": "A",
+        "explanation": "A small monthly amount can hide a large total. Knowing the total, with fees, tells you the true cost."
+      },
+      "hi": {
+        "prompt": "एक दुकान फ़ोन \"सिर्फ़ ₹999 महीना\" में ऑफ़र करती है। हाँ कहने से पहले कौन-सा सवाल सबसे ज़रूरी है?",
+        "options": [
+          "कुल मिलाकर मैं कितना भरूँगा?",
+          "क्या महीने की रकम ₹1,000 से कम है?",
+          "क्या मेरे दोस्त भी EMI पर खरीदते हैं?",
+          "फ़ोन किन रंगों में आता है?"
+        ],
+        "answer": "A",
+        "explanation": "छोटी मासिक रकम के पीछे बड़ा कुल खर्च छिपा हो सकता है। फ़ीस मिलाकर कुल रकम जानने से असली कीमत पता चलती है।"
+      },
+      "te": {
+        "prompt": "ఒక షాప్ ఫోన్‌ని \"నెలకు కేవలం ₹999\" అని ఆఫర్ చేస్తోంది. ఒప్పుకునే ముందు అడగాల్సిన అతి ముఖ్యమైన ప్రశ్న ఏది?",
+        "options": [
+          "మొత్తం కలిపి నేను ఎంత కడతాను?",
+          "నెలవారీ మొత్తం ₹1,000 కంటే తక్కువా?",
+          "నా ఫ్రెండ్స్ కూడా EMIలో కొంటారా?",
+          "ఫోన్ ఏ రంగుల్లో వస్తుంది?"
+        ],
+        "answer": "A",
+        "explanation": "చిన్న నెలవారీ మొత్తం వెనుక పెద్ద మొత్తం దాగి ఉండొచ్చు. ఫీజులతో కలిపి మొత్తం ఎంతో తెలిస్తే అసలు ధర తెలుస్తుంది."
+      }
+    },
+    "chapter_slug": "budget-no-cost-emi"
+  },
+  {
+    "id": "budget-tracking-spending-005",
+    "pillar": "budget",
+    "tags": [
+      "tracking-spending"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Which kind of spending is easiest to lose track of?",
+        "options": [
+          "One large exam fee",
+          "Many small spends every day",
+          "A fixed monthly rent",
+          "A yearly school fee"
+        ],
+        "answer": "B",
+        "explanation": "Big payments are easy to remember. Small daily spends feel like nothing but quietly add up."
+      },
+      "hi": {
+        "prompt": "किस तरह के खर्च का हिसाब सबसे आसानी से छूट जाता है?",
+        "options": [
+          "एक बड़ी एग्ज़ाम फ़ीस",
+          "रोज़ के कई छोटे खर्च",
+          "महीने का तय किराया",
+          "साल की स्कूल फ़ीस"
+        ],
+        "answer": "B",
+        "explanation": "बड़े पेमेंट याद रखना आसान है। रोज़ के छोटे खर्च कुछ नहीं लगते, पर चुपचाप जुड़ते जाते हैं।"
+      },
+      "te": {
+        "prompt": "ఏ రకమైన ఖర్చు లెక్క చాలా సులభంగా తప్పిపోతుంది?",
+        "options": [
+          "ఒక పెద్ద ఎగ్జామ్ ఫీజు",
+          "రోజూ చేసే చాలా చిన్న ఖర్చులు",
+          "నెలవారీ ఫిక్స్‌డ్ అద్దె",
+          "ఏడాదికి ఒకసారి కట్టే స్కూల్ ఫీజు"
+        ],
+        "answer": "B",
+        "explanation": "పెద్ద పేమెంట్లు గుర్తుంచుకోవడం సులభం. రోజువారీ చిన్న ఖర్చులు ఏమీ కానట్టు అనిపిస్తాయి, కానీ నిశ్శబ్దంగా పెరిగిపోతాయి."
+      }
+    },
+    "chapter_slug": "save-chai-math"
+  },
+  {
+    "id": "budget-needs-vs-wants-008",
+    "pillar": "budget",
+    "tags": [
+      "needs-vs-wants"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "A sale offers 40% off shoes Ajay doesn't need. He has ₹1,000 saved for his exam fee. What is the sound reasoning?",
+        "options": [
+          "Buy now, because 40% off saves money",
+          "Use the exam money now and refill it later",
+          "Buy two pairs to save even more",
+          "A discount on a want is still spending"
+        ],
+        "answer": "D",
+        "explanation": "A discount only saves money on something you were going to buy anyway. Using exam fee money on a want puts a need at risk."
+      },
+      "hi": {
+        "prompt": "एक सेल में उन जूतों पर 40% छूट है जिनकी अजय को ज़रूरत नहीं। उसने एग्ज़ाम फ़ीस के लिए ₹1,000 बचाए हैं। सही सोच क्या है?",
+        "options": [
+          "अभी खरीद ले, क्योंकि 40% छूट से पैसे बचते हैं",
+          "एग्ज़ाम के पैसे अभी इस्तेमाल करे और बाद में भर दे",
+          "और ज़्यादा बचाने के लिए दो जोड़ी खरीद ले",
+          "चाहत पर छूट भी आख़िर खर्च ही है"
+        ],
+        "answer": "D",
+        "explanation": "छूट से पैसे तभी बचते हैं जब आप वह चीज़ वैसे भी खरीदने वाले थे। एग्ज़ाम फ़ीस के पैसे चाहत पर लगाने से एक ज़रूरत ख़तरे में पड़ जाती है।"
+      },
+      "te": {
+        "prompt": "అజయ్‌కి అవసరం లేని షూస్ మీద సేల్‌లో 40% డిస్కౌంట్ ఉంది. అతను ఎగ్జామ్ ఫీజు కోసం ₹1,000 దాచుకున్నాడు. సరైన ఆలోచన ఏది?",
+        "options": [
+          "ఇప్పుడే కొనేయాలి, 40% డిస్కౌంట్ వల్ల డబ్బు ఆదా అవుతుంది",
+          "ఎగ్జామ్ డబ్బు ఇప్పుడు వాడి, తర్వాత మళ్లీ పెట్టాలి",
+          "ఇంకా ఎక్కువ ఆదా కోసం రెండు జతలు కొనాలి",
+          "కోరిక మీద డిస్కౌంట్ అయినా అది ఖర్చే"
+        ],
+        "answer": "D",
+        "explanation": "మీరు ఎలాగూ కొనాలనుకున్న వస్తువు మీద మాత్రమే డిస్కౌంట్ డబ్బు ఆదా చేస్తుంది. ఎగ్జామ్ ఫీజు డబ్బును కోరిక మీద వాడితే ఒక అవసరం ప్రమాదంలో పడుతుంది."
+      }
+    }
+  },
+  {
+    "id": "budget-pocket-money-005",
+    "pillar": "budget",
+    "tags": [
+      "pocket-money"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Fatima earns ₹800 from tuitions in some months and nothing in others. How should she plan her spending?",
+        "options": [
+          "Plan around her best month",
+          "Spend it all as soon as it comes",
+          "Plan around the low months, not the best ones",
+          "Plan on the average and borrow the gap"
+        ],
+        "answer": "C",
+        "explanation": "If she plans for the months with no income, she won't run short when they come. Extra in good months can be saved."
+      },
+      "hi": {
+        "prompt": "फ़ातिमा कुछ महीनों में ट्यूशन से ₹800 कमाती है और कुछ महीनों में कुछ नहीं। उसे अपना खर्च कैसे प्लान करना चाहिए?",
+        "options": [
+          "अपने सबसे अच्छे महीने के हिसाब से",
+          "पैसा आते ही सब खर्च कर दे",
+          "कम कमाई वाले महीनों के हिसाब से, अच्छे महीनों के नहीं",
+          "औसत के हिसाब से, और कमी उधार लेकर पूरी करे"
+        ],
+        "answer": "C",
+        "explanation": "अगर वह बिना कमाई वाले महीनों के हिसाब से प्लान करे, तो ऐसे महीने आने पर पैसे कम नहीं पड़ेंगे। अच्छे महीनों का एक्स्ट्रा पैसा बचाया जा सकता है।"
+      },
+      "te": {
+        "prompt": "ఫాతిమా కొన్ని నెలల్లో ట్యూషన్ల ద్వారా ₹800 సంపాదిస్తుంది, కొన్ని నెలల్లో ఏమీ రాదు. తన ఖర్చును ఎలా ప్లాన్ చేసుకోవాలి?",
+        "options": [
+          "తనకు బాగా వచ్చిన నెలను బట్టి",
+          "వచ్చిన వెంటనే మొత్తం ఖర్చు చేయడం",
+          "బాగా వచ్చిన నెలలను కాదు, తక్కువ వచ్చే నెలలను బట్టి",
+          "సగటును బట్టి, తక్కువైనది అప్పు తీసుకుని"
+        ],
+        "answer": "C",
+        "explanation": "ఆదాయం లేని నెలలను బట్టి ప్లాన్ చేస్తే, అలాంటి నెలలు వచ్చినప్పుడు డబ్బు కొరత రాదు. మంచి నెలల్లో వచ్చే అదనపు డబ్బును పొదుపు చేయవచ్చు."
+      }
+    }
+  },
+  {
+    "id": "budget-bills-and-emi-006",
+    "pillar": "budget",
+    "tags": [
+      "bills-and-emi"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Suresh's family pays rent, electricity and a ₹2,000 loan EMI every month. Why should these come first in their budget?",
+        "options": [
+          "They must be paid every month, with fines if late",
+          "They are wants that can wait",
+          "They change every day",
+          "They earn interest for the family"
+        ],
+        "answer": "A",
+        "explanation": "These are fixed bills that are due every month. Missing them brings late fees and other trouble, so they are planned first."
+      },
+      "hi": {
+        "prompt": "सुरेश का परिवार हर महीने किराया, बिजली का बिल और ₹2,000 की लोन EMI भरता है। इन्हें बजट में सबसे पहले क्यों रखना चाहिए?",
+        "options": [
+          "ये हर महीने भरने ही पड़ते हैं, देर होने पर जुर्माना लगता है",
+          "ये चाहतें हैं जो रुक सकती हैं",
+          "ये रोज़ बदलते हैं",
+          "इनसे परिवार को ब्याज मिलता है"
+        ],
+        "answer": "A",
+        "explanation": "ये तय बिल हैं जो हर महीने देने होते हैं। इन्हें न भरने पर लेट फ़ीस और दूसरी परेशानियाँ होती हैं, इसलिए इन्हें पहले प्लान किया जाता है।"
+      },
+      "te": {
+        "prompt": "సురేష్ కుటుంబం ప్రతి నెలా అద్దె, కరెంట్ బిల్లు, ₹2,000 లోన్ EMI కడుతుంది. వీటిని బడ్జెట్‌లో ఎందుకు ముందు పెట్టాలి?",
+        "options": [
+          "వీటిని ప్రతి నెలా కట్టాల్సిందే, ఆలస్యమైతే జరిమానా పడుతుంది",
+          "ఇవి ఆగగలిగే కోరికలు",
+          "ఇవి రోజూ మారుతుంటాయి",
+          "వీటి వల్ల కుటుంబానికి వడ్డీ వస్తుంది"
+        ],
+        "answer": "A",
+        "explanation": "ఇవి ప్రతి నెలా కట్టాల్సిన ఫిక్స్‌డ్ బిల్లులు. కట్టకపోతే లేట్ ఫీజులు, ఇతర ఇబ్బందులు వస్తాయి, అందుకే వీటిని ముందు ప్లాన్ చేస్తారు."
+      }
+    }
+  },
+  {
+    "id": "budget-50-30-20-005",
+    "pillar": "budget",
+    "tags": [
+      "50-30-20"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Which of these belongs in the 30% \"wants\" part of a 50-30-20 budget?",
+        "options": [
+          "A bus pass",
+          "A movie with friends",
+          "An exam fee",
+          "Money for emergencies"
+        ],
+        "answer": "B",
+        "explanation": "A movie is nice to have but not needed. Bus pass and exam fee are needs, and emergency money is savings."
+      },
+      "hi": {
+        "prompt": "50-30-20 बजट के 30% \"चाहतों\" वाले हिस्से में इनमें से क्या आता है?",
+        "options": [
+          "बस पास",
+          "दोस्तों के साथ मूवी",
+          "एग्ज़ाम फ़ीस",
+          "इमरजेंसी के लिए पैसे"
+        ],
+        "answer": "B",
+        "explanation": "मूवी हो तो अच्छा है, पर ज़रूरी नहीं। बस पास और एग्ज़ाम फ़ीस ज़रूरतें हैं, और इमरजेंसी के पैसे बचत में आते हैं।"
+      },
+      "te": {
+        "prompt": "50-30-20 బడ్జెట్‌లో 30% \"కోరికలు\" భాగంలోకి వీటిలో ఏది వస్తుంది?",
+        "options": [
+          "బస్ పాస్",
+          "ఫ్రెండ్స్‌తో సినిమా",
+          "ఎగ్జామ్ ఫీజు",
+          "ఎమర్జెన్సీల కోసం డబ్బు"
+        ],
+        "answer": "B",
+        "explanation": "సినిమా ఉంటే బాగుంటుంది కానీ అవసరం కాదు. బస్ పాస్, ఎగ్జామ్ ఫీజు అవసరాలు; ఎమర్జెన్సీ డబ్బు పొదుపులోకి వస్తుంది."
+      }
+    }
+  },
+  {
+    "id": "budget-tracking-spending-006",
+    "pillar": "budget",
+    "tags": [
+      "tracking-spending"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Lakshmi wants to track her spending but keeps forgetting. Which habit is easiest to keep up?",
+        "options": [
+          "Check it once a year",
+          "Track only purchases above ₹1,000",
+          "Track only the cash she spends",
+          "Check her payment history for a few minutes each week"
+        ],
+        "answer": "D",
+        "explanation": "A short weekly check catches small spends before they pile up, and it is quick enough to stick with."
+      },
+      "hi": {
+        "prompt": "लक्ष्मी अपना खर्च ट्रैक करना चाहती है, पर बार-बार भूल जाती है। कौन-सी आदत निभाना सबसे आसान है?",
+        "options": [
+          "साल में एक बार चेक करना",
+          "सिर्फ़ ₹1,000 से ऊपर की खरीद ट्रैक करना",
+          "सिर्फ़ कैश वाले खर्च ट्रैक करना",
+          "हर हफ़्ते कुछ मिनट अपनी पेमेंट हिस्ट्री देखना"
+        ],
+        "answer": "D",
+        "explanation": "हफ़्ते में एक छोटी-सी जाँच छोटे खर्चों को जमा होने से पहले पकड़ लेती है, और यह इतनी जल्दी हो जाती है कि आदत बनी रहती है।"
+      },
+      "te": {
+        "prompt": "లక్ష్మి తన ఖర్చులు ట్రాక్ చేయాలనుకుంటుంది, కానీ మర్చిపోతూ ఉంటుంది. ఏ అలవాటు కొనసాగించడం అన్నిటికంటే సులభం?",
+        "options": [
+          "ఏడాదికి ఒకసారి చెక్ చేయడం",
+          "₹1,000 పైన ఉన్న కొనుగోళ్లు మాత్రమే ట్రాక్ చేయడం",
+          "క్యాష్ ఖర్చులు మాత్రమే ట్రాక్ చేయడం",
+          "ప్రతి వారం కొన్ని నిమిషాలు తన పేమెంట్ హిస్టరీ చూడటం"
+        ],
+        "answer": "D",
+        "explanation": "వారానికి ఒకసారి చిన్న చెక్ చేస్తే చిన్న ఖర్చులు పోగయ్యేలోపే తెలుస్తాయి, ఇది త్వరగా అయిపోతుంది కాబట్టి అలవాటుగా కొనసాగుతుంది."
+      }
+    },
+    "chapter_slug": "save-chai-math"
+  },
+  {
+    "id": "budget-tracking-spending-007",
+    "pillar": "budget",
+    "tags": [
+      "tracking-spending"
+    ],
+    "tier": "gold",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Meena buys a ₹40 cold drink every school day. Assume 24 school days a month. How much does this cost her in a year?",
+        "options": [
+          "₹960",
+          "₹4,800",
+          "₹11,520",
+          "₹14,600"
+        ],
+        "answer": "C",
+        "explanation": "₹40 × 24 = ₹960 a month, and ₹960 × 12 = ₹11,520 a year."
+      },
+      "hi": {
+        "prompt": "मीना हर स्कूल वाले दिन ₹40 की कोल्ड ड्रिंक खरीदती है। मान लो महीने में 24 स्कूल के दिन होते हैं। इससे साल भर में उसका कितना खर्च होता है?",
+        "options": [
+          "₹960",
+          "₹4,800",
+          "₹11,520",
+          "₹14,600"
+        ],
+        "answer": "C",
+        "explanation": "₹40 × 24 = महीने के ₹960, और ₹960 × 12 = साल के ₹11,520।"
+      },
+      "te": {
+        "prompt": "మీనా స్కూల్ ఉన్న ప్రతి రోజూ ₹40 కూల్ డ్రింక్ కొంటుంది. నెలకు 24 స్కూల్ రోజులు అనుకుందాం. ఏడాదికి దీనికి ఆమెకు ఎంత ఖర్చవుతుంది?",
+        "options": [
+          "₹960",
+          "₹4,800",
+          "₹11,520",
+          "₹14,600"
+        ],
+        "answer": "C",
+        "explanation": "₹40 × 24 = నెలకు ₹960, ₹960 × 12 = ఏడాదికి ₹11,520."
+      }
+    },
+    "chapter_slug": "save-chai-math"
+  },
+  {
+    "id": "budget-bills-and-emi-007",
+    "pillar": "budget",
+    "tags": [
+      "bills-and-emi"
+    ],
+    "tier": "gold",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "A ₹12,000 phone is offered at ₹1,100 a month for 12 months. Assume no other fees. How much more than the price do you pay?",
+        "options": [
+          "₹1,200",
+          "₹1,100",
+          "₹100",
+          "₹13,200"
+        ],
+        "answer": "A",
+        "explanation": "₹1,100 × 12 = ₹13,200 in total. ₹13,200 − ₹12,000 = ₹1,200 extra."
+      },
+      "hi": {
+        "prompt": "₹12,000 का एक फ़ोन 12 महीने तक ₹1,100 महीना पर मिल रहा है। मान लो कोई और फ़ीस नहीं है। आप कीमत से कितना ज़्यादा भरते हैं?",
+        "options": [
+          "₹1,200",
+          "₹1,100",
+          "₹100",
+          "₹13,200"
+        ],
+        "answer": "A",
+        "explanation": "कुल ₹1,100 × 12 = ₹13,200 भरने होंगे। ₹13,200 − ₹12,000 = ₹1,200 ज़्यादा।"
+      },
+      "te": {
+        "prompt": "₹12,000 ఫోన్‌ని 12 నెలల పాటు నెలకు ₹1,100 చొప్పున ఇస్తున్నారు. వేరే ఫీజులు లేవనుకుందాం. ధర కంటే ఎంత ఎక్కువ కడతారు?",
+        "options": [
+          "₹1,200",
+          "₹1,100",
+          "₹100",
+          "₹13,200"
+        ],
+        "answer": "A",
+        "explanation": "మొత్తం ₹1,100 × 12 = ₹13,200. ₹13,200 − ₹12,000 = ₹1,200 అదనం."
+      }
+    },
+    "chapter_slug": "budget-no-cost-emi"
+  },
+  {
+    "id": "budget-50-30-20-006",
+    "pillar": "budget",
+    "tags": [
+      "50-30-20",
+      "pocket-money"
+    ],
+    "tier": "gold",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Nikhil gets ₹4,000 a month and follows the 50-30-20 rule. He wants a ₹4,800 cycle and saves only his savings share for it. How many months will it take?",
+        "options": [
+          "4 months",
+          "8 months",
+          "12 months",
+          "6 months"
+        ],
+        "answer": "D",
+        "explanation": "His savings share is 20% of ₹4,000 = ₹800 a month. ₹4,800 ÷ ₹800 = 6 months."
+      },
+      "hi": {
+        "prompt": "निखिल को हर महीने ₹4,000 मिलते हैं और वह 50-30-20 नियम मानता है। उसे ₹4,800 की साइकिल चाहिए और इसके लिए वह सिर्फ़ अपना बचत वाला हिस्सा जोड़ता है। कितने महीने लगेंगे?",
+        "options": [
+          "4 महीने",
+          "8 महीने",
+          "12 महीने",
+          "6 महीने"
+        ],
+        "answer": "D",
+        "explanation": "उसका बचत वाला हिस्सा ₹4,000 का 20% = हर महीने ₹800 है। ₹4,800 ÷ ₹800 = 6 महीने।"
+      },
+      "te": {
+        "prompt": "నిఖిల్‌కి నెలకు ₹4,000 వస్తాయి, అతను 50-30-20 రూల్ పాటిస్తాడు. ₹4,800 సైకిల్ కొనాలనుకుంటున్నాడు, దానికోసం తన పొదుపు భాగాన్ని మాత్రమే దాచుకుంటాడు. ఎన్ని నెలలు పడుతుంది?",
+        "options": [
+          "4 నెలలు",
+          "8 నెలలు",
+          "12 నెలలు",
+          "6 నెలలు"
+        ],
+        "answer": "D",
+        "explanation": "అతని పొదుపు భాగం ₹4,000లో 20% = నెలకు ₹800. ₹4,800 ÷ ₹800 = 6 నెలలు."
+      }
+    }
+  },
+  {
+    "id": "budget-pocket-money-006",
+    "pillar": "budget",
+    "tags": [
+      "pocket-money",
+      "tracking-spending"
+    ],
+    "tier": "gold",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Anjali gets ₹2,400 for a 30-day month. On day 1 she pays ₹600 for a bus pass and ₹300 for a recharge, and saves ₹300. Spread over all 30 days, how much can she spend per day?",
+        "options": [
+          "₹50",
+          "₹40",
+          "₹60",
+          "₹80"
+        ],
+        "answer": "B",
+        "explanation": "₹2,400 − ₹600 − ₹300 − ₹300 = ₹1,200 left. ₹1,200 ÷ 30 days = ₹40 a day."
+      },
+      "hi": {
+        "prompt": "अंजलि को 30 दिन के महीने के लिए ₹2,400 मिलते हैं। पहले दिन वह ₹600 बस पास पर और ₹300 रिचार्ज पर देती है, और ₹300 बचाती है। बचे पैसे सभी 30 दिनों में बाँटें, तो वह रोज़ कितना खर्च कर सकती है?",
+        "options": [
+          "₹50",
+          "₹40",
+          "₹60",
+          "₹80"
+        ],
+        "answer": "B",
+        "explanation": "₹2,400 − ₹600 − ₹300 − ₹300 = ₹1,200 बचे। ₹1,200 ÷ 30 दिन = रोज़ ₹40।"
+      },
+      "te": {
+        "prompt": "అంజలికి 30 రోజుల నెలకు ₹2,400 వస్తాయి. మొదటి రోజు బస్ పాస్‌కి ₹600, రీచార్జ్‌కి ₹300 కట్టి, ₹300 పొదుపు చేస్తుంది. మిగిలినది 30 రోజులకు పంచితే, ఆమె రోజుకు ఎంత ఖర్చు చేయొచ్చు?",
+        "options": [
+          "₹50",
+          "₹40",
+          "₹60",
+          "₹80"
+        ],
+        "answer": "B",
+        "explanation": "₹2,400 − ₹600 − ₹300 − ₹300 = ₹1,200 మిగులుతుంది. ₹1,200 ÷ 30 రోజులు = రోజుకు ₹40."
+      }
+    }
+  },
+  {
+    "id": "budget-bills-and-emi-008",
+    "pillar": "budget",
+    "tags": [
+      "bills-and-emi"
+    ],
+    "tier": "gold",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "A credit card charges 3% a month on the unpaid balance. Varun owes ₹10,000, pays nothing and spends nothing more. Ignore fees. What does he owe after 2 months?",
+        "options": [
+          "₹10,600",
+          "₹10,300",
+          "₹10,609",
+          "₹16,000"
+        ],
+        "answer": "C",
+        "explanation": "After month 1 he owes ₹10,000 + ₹300 = ₹10,300. In month 2, 3% of ₹10,300 is ₹309, making ₹10,609, because interest is charged on interest."
+      },
+      "hi": {
+        "prompt": "एक क्रेडिट कार्ड बकाया रकम पर हर महीने 3% ब्याज लेता है। वरुण पर ₹10,000 बकाया है, वह कुछ नहीं भरता और कुछ नया खर्च भी नहीं करता। फ़ीस को छोड़ दें। 2 महीने बाद उस पर कितना बकाया होगा?",
+        "options": [
+          "₹10,600",
+          "₹10,300",
+          "₹10,609",
+          "₹16,000"
+        ],
+        "answer": "C",
+        "explanation": "पहले महीने के बाद बकाया ₹10,000 + ₹300 = ₹10,300 है। दूसरे महीने ₹10,300 का 3% यानी ₹309 जुड़कर ₹10,609 हो जाता है, क्योंकि ब्याज पर भी ब्याज लगता है।"
+      },
+      "te": {
+        "prompt": "ఒక క్రెడిట్ కార్డ్ కట్టని బాకీ మీద నెలకు 3% వడ్డీ వేస్తుంది. వరుణ్ ₹10,000 బాకీ ఉన్నాడు, ఏమీ కట్టడు, కొత్తగా ఏమీ ఖర్చు చేయడు. ఫీజులు లెక్కలోకి తీసుకోవద్దు. 2 నెలల తర్వాత అతని బాకీ ఎంత?",
+        "options": [
+          "₹10,600",
+          "₹10,300",
+          "₹10,609",
+          "₹16,000"
+        ],
+        "answer": "C",
+        "explanation": "మొదటి నెల తర్వాత బాకీ ₹10,000 + ₹300 = ₹10,300. రెండో నెలలో ₹10,300లో 3% అంటే ₹309 కలిసి ₹10,609 అవుతుంది, ఎందుకంటే వడ్డీ మీద కూడా వడ్డీ పడుతుంది."
+      }
+    },
+    "chapter_slug": "save-credit-card-trap"
+  },
+  {
+    "id": "budget-bills-and-emi-009",
+    "pillar": "budget",
+    "tags": [
+      "bills-and-emi"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "A laptop costs ₹15,000 in cash. A \"no-cost EMI\" plan is ₹2,500 a month for 6 months plus a ₹499 processing fee. Which statement is true?",
+        "options": [
+          "Both options cost exactly the same",
+          "EMI costs ₹499 more, but you keep cash in hand longer",
+          "EMI is cheaper because you pay later",
+          "Cash costs more because you pay all at once"
+        ],
+        "answer": "B",
+        "explanation": "₹2,500 × 6 = ₹15,000, plus the ₹499 fee makes ₹15,499. The EMI keeps money in hand for longer, but it costs more in total."
+      },
+      "hi": {
+        "prompt": "एक लैपटॉप कैश में ₹15,000 का है। \"नो-कॉस्ट EMI\" प्लान में 6 महीने तक ₹2,500 महीना और ₹499 प्रोसेसिंग फ़ीस है। कौन-सी बात सही है?",
+        "options": [
+          "दोनों का खर्च बिल्कुल बराबर है",
+          "EMI ₹499 महँगी पड़ती है, पर कैश ज़्यादा समय तक हाथ में रहता है",
+          "EMI सस्ती है क्योंकि पैसा बाद में देना है",
+          "कैश महँगा है क्योंकि सारा पैसा एक साथ देना पड़ता है"
+        ],
+        "answer": "B",
+        "explanation": "₹2,500 × 6 = ₹15,000, और ₹499 फ़ीस मिलाकर ₹15,499। EMI से पैसा ज़्यादा समय तक हाथ में रहता है, पर कुल खर्च ज़्यादा होता है।"
+      },
+      "te": {
+        "prompt": "ఒక ల్యాప్‌టాప్ క్యాష్‌లో ₹15,000. \"నో-కాస్ట్ EMI\" ప్లాన్‌లో 6 నెలల పాటు నెలకు ₹2,500, దానికి తోడు ₹499 ప్రాసెసింగ్ ఫీజు. ఏది నిజం?",
+        "options": [
+          "రెండింటికీ సరిగ్గా ఒకే ఖర్చు",
+          "EMIకి ₹499 ఎక్కువ అవుతుంది, కానీ క్యాష్ ఎక్కువ కాలం చేతిలో ఉంటుంది",
+          "తర్వాత కడతాం కాబట్టి EMI చౌక",
+          "ఒకేసారి కడతాం కాబట్టి క్యాష్ ఖరీదు"
+        ],
+        "answer": "B",
+        "explanation": "₹2,500 × 6 = ₹15,000, ₹499 ఫీజుతో కలిపి ₹15,499. EMI వల్ల డబ్బు ఎక్కువ కాలం చేతిలో ఉంటుంది, కానీ మొత్తం ఖర్చు ఎక్కువ."
+      }
+    },
+    "chapter_slug": "budget-no-cost-emi"
+  },
+  {
+    "id": "budget-needs-vs-wants-009",
+    "pillar": "budget",
+    "tags": [
+      "needs-vs-wants"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Meera has one free afternoon. A paid shift earns ₹900 but costs ₹150 in travel. Tutoring earns ₹650. A workshop is free. She picks the workshop. In money, what does she give up?",
+        "options": [
+          "₹650, from tutoring",
+          "₹900, the shift's full pay",
+          "₹1,400, both jobs added together",
+          "₹750, from the best option she skipped"
+        ],
+        "answer": "D",
+        "explanation": "Opportunity cost is the value of the best choice you give up. The shift's net pay, ₹900 − ₹150 = ₹750, is the best she skipped."
+      },
+      "hi": {
+        "prompt": "मीरा के पास एक खाली दोपहर है। एक पेड शिफ़्ट से ₹900 मिलते हैं, पर ₹150 आने-जाने में लगते हैं। ट्यूशन पढ़ाने से ₹650 मिलते हैं। एक वर्कशॉप फ़्री है। वह वर्कशॉप चुनती है। पैसों के हिसाब से वह क्या छोड़ती है?",
+        "options": [
+          "₹650, ट्यूशन वाले",
+          "₹900, शिफ़्ट की पूरी कमाई",
+          "₹1,400, दोनों काम मिलाकर",
+          "₹750, छोड़े गए सबसे अच्छे विकल्प के"
+        ],
+        "answer": "D",
+        "explanation": "अवसर लागत (opportunity cost) उस सबसे अच्छे विकल्प की कीमत है जिसे आप छोड़ते हैं। शिफ़्ट की असली कमाई, ₹900 − ₹150 = ₹750, ही वह सबसे अच्छा विकल्प था जो उसने छोड़ा।"
+      },
+      "te": {
+        "prompt": "మీరాకి ఒక ఖాళీ మధ్యాహ్నం ఉంది. ఒక పెయిడ్ షిఫ్ట్‌లో ₹900 వస్తాయి, కానీ ప్రయాణానికి ₹150 ఖర్చవుతుంది. ట్యూషన్ చెబితే ₹650 వస్తాయి. ఒక వర్క్‌షాప్ ఫ్రీ. ఆమె వర్క్‌షాప్ ఎంచుకుంటుంది. డబ్బు పరంగా ఆమె ఏం వదులుకుంటుంది?",
+        "options": [
+          "₹650, ట్యూషన్ నుంచి",
+          "₹900, షిఫ్ట్ పూర్తి జీతం",
+          "₹1,400, రెండు పనులూ కలిపి",
+          "₹750, వదులుకున్న వాటిలో అత్యుత్తమ ఆప్షన్ నుంచి"
+        ],
+        "answer": "D",
+        "explanation": "వదులుకున్న వాటిలో అత్యుత్తమ ఎంపిక విలువనే అవకాశ వ్యయం (opportunity cost) అంటారు. షిఫ్ట్ నికర సంపాదన ₹900 − ₹150 = ₹750, ఆమె వదులుకున్న వాటిలో అదే అత్యుత్తమం."
+      }
+    }
+  },
+  {
+    "id": "budget-bills-and-emi-010",
+    "pillar": "budget",
+    "tags": [
+      "bills-and-emi"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Printing Plan A costs ₹200 a month plus ₹1 a page. Plan B costs ₹3 a page with no monthly fee. Gopal will print 60 to 90 pages a month. Which plan is cheaper?",
+        "options": [
+          "Plan B, at every amount in that range",
+          "Plan A, because ₹1 a page is lower",
+          "Plan A at 90 pages, Plan B at 60",
+          "Both cost the same at 75 pages"
+        ],
+        "answer": "A",
+        "explanation": "At 60 pages, A costs ₹260 and B ₹180; at 90, A costs ₹290 and B ₹270. A only becomes cheaper above 100 pages, when the fixed fee is spread over more pages."
+      },
+      "hi": {
+        "prompt": "प्रिंटिंग प्लान A में ₹200 महीना और ₹1 प्रति पेज लगता है। प्लान B में ₹3 प्रति पेज लगता है, कोई मासिक फ़ीस नहीं। गोपाल हर महीने 60 से 90 पेज प्रिंट करेगा। कौन-सा प्लान सस्ता है?",
+        "options": [
+          "प्लान B, इस रेंज में हर बार",
+          "प्लान A, क्योंकि ₹1 प्रति पेज कम है",
+          "90 पेज पर प्लान A, 60 पर प्लान B",
+          "75 पेज पर दोनों बराबर"
+        ],
+        "answer": "A",
+        "explanation": "60 पेज पर A ₹260 और B ₹180 का पड़ता है; 90 पेज पर A ₹290 और B ₹270 का। A सिर्फ़ 100 पेज से ऊपर सस्ता होता है, जब तय फ़ीस ज़्यादा पेजों में बँट जाती है।"
+      },
+      "te": {
+        "prompt": "ప్రింటింగ్ ప్లాన్ Aలో నెలకు ₹200, దానికి తోడు పేజీకి ₹1. ప్లాన్ Bలో పేజీకి ₹3, నెలవారీ ఫీజు లేదు. గోపాల్ నెలకు 60 నుంచి 90 పేజీలు ప్రింట్ చేస్తాడు. ఏ ప్లాన్ చౌక?",
+        "options": [
+          "ప్లాన్ B, ఈ రేంజ్‌లో ప్రతిసారీ",
+          "ప్లాన్ A, ఎందుకంటే పేజీకి ₹1 తక్కువ",
+          "90 పేజీలకు ప్లాన్ A, 60కి ప్లాన్ B",
+          "75 పేజీల దగ్గర రెండూ సమానం"
+        ],
+        "answer": "A",
+        "explanation": "60 పేజీలకు A ₹260, B ₹180; 90 పేజీలకు A ₹290, B ₹270. ఫిక్స్‌డ్ ఫీజు ఎక్కువ పేజీలకు పంచుకున్నప్పుడు, అంటే 100 పేజీలు దాటితేనే A చౌక అవుతుంది."
+      }
+    }
+  },
+  {
+    "id": "budget-50-30-20-007",
+    "pillar": "budget",
+    "tags": [
+      "50-30-20",
+      "pocket-money"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Sana's allowance is ₹2,000, split 50-30-20. Bus fares rise and her needs now cost ₹1,300. She wants to keep saving ₹400. What must her wants budget become?",
+        "options": [
+          "₹600",
+          "₹400",
+          "₹300",
+          "₹100"
+        ],
+        "answer": "C",
+        "explanation": "₹2,000 − ₹1,300 needs − ₹400 savings leaves ₹300 for wants. Keeping her saving means giving up ₹300 of wants."
+      },
+      "hi": {
+        "prompt": "सना का अलाउंस ₹2,000 है, जो 50-30-20 में बँटा है। बस का किराया बढ़ गया और अब उसकी ज़रूरतें ₹1,300 की हैं। वह ₹400 बचाते रहना चाहती है। उसका चाहतों का बजट कितना होना चाहिए?",
+        "options": [
+          "₹600",
+          "₹400",
+          "₹300",
+          "₹100"
+        ],
+        "answer": "C",
+        "explanation": "₹2,000 − ₹1,300 ज़रूरतें − ₹400 बचत = चाहतों के लिए ₹300। बचत जारी रखने के लिए उसे चाहतों में से ₹300 छोड़ने होंगे।"
+      },
+      "te": {
+        "prompt": "సనా అలవెన్స్ ₹2,000, దాన్ని 50-30-20 ప్రకారం పంచుతుంది. బస్ చార్జీలు పెరిగి ఇప్పుడు ఆమె అవసరాలకు ₹1,300 అవుతుంది. ఆమె ₹400 పొదుపు కొనసాగించాలనుకుంటోంది. ఆమె కోరికల బడ్జెట్ ఎంత ఉండాలి?",
+        "options": [
+          "₹600",
+          "₹400",
+          "₹300",
+          "₹100"
+        ],
+        "answer": "C",
+        "explanation": "₹2,000 − ₹1,300 అవసరాలు − ₹400 పొదుపు = కోరికలకు ₹300. పొదుపు కొనసాగించాలంటే కోరికల్లో ₹300 వదులుకోవాలి."
+      }
+    }
+  },
+  {
+    "id": "budget-bills-and-emi-011",
+    "pillar": "budget",
+    "tags": [
+      "bills-and-emi"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Priya's mother has an ₹8,000 card bill and ₹8,000 in her account. Paying only the minimum due would keep cash for a ₹3,000 trip. What is the main trade-off?",
+        "options": [
+          "None, because minimum due means no extra cost",
+          "The unpaid balance is charged high interest each month",
+          "Paying in full would lower her credit score",
+          "Interest starts only after one year"
+        ],
+        "answer": "B",
+        "explanation": "Whatever is left unpaid is charged interest, often around 3% a month, so the trip ends up costing more than ₹3,000."
+      },
+      "hi": {
+        "prompt": "प्रिया की माँ का कार्ड बिल ₹8,000 है और उनके खाते में ₹8,000 हैं। सिर्फ़ मिनिमम ड्यू भरने से ₹3,000 की एक ट्रिप के लिए पैसे बच जाएँगे। इसमें मुख्य ट्रेड-ऑफ़ क्या है?",
+        "options": [
+          "कोई नहीं, क्योंकि मिनिमम ड्यू का मतलब कोई एक्स्ट्रा खर्च नहीं",
+          "बची हुई बकाया रकम पर हर महीने भारी ब्याज लगता है",
+          "पूरा बिल भरने से उनका क्रेडिट स्कोर कम होगा",
+          "ब्याज सिर्फ़ एक साल बाद शुरू होता है"
+        ],
+        "answer": "B",
+        "explanation": "जो भी रकम बिना भरे रह जाती है उस पर ब्याज लगता है, अक्सर लगभग 3% हर महीने, इसलिए ट्रिप ₹3,000 से ज़्यादा की पड़ती है।"
+      },
+      "te": {
+        "prompt": "ప్రియ వాళ్ల అమ్మ కార్డ్ బిల్లు ₹8,000, ఆమె అకౌంట్‌లో ₹8,000 ఉన్నాయి. మినిమమ్ డ్యూ మాత్రమే కడితే ₹3,000 ట్రిప్ కోసం డబ్బు మిగులుతుంది. ఇందులో ముఖ్యమైన ట్రేడ్-ఆఫ్ ఏమిటి?",
+        "options": [
+          "ఏమీ లేదు, మినిమమ్ డ్యూ అంటే అదనపు ఖర్చు ఉండదు",
+          "కట్టని బాకీ మీద ప్రతి నెలా ఎక్కువ వడ్డీ పడుతుంది",
+          "పూర్తిగా కడితే ఆమె క్రెడిట్ స్కోర్ తగ్గుతుంది",
+          "వడ్డీ ఒక ఏడాది తర్వాతే మొదలవుతుంది"
+        ],
+        "answer": "B",
+        "explanation": "కట్టకుండా మిగిలిన మొత్తం మీద వడ్డీ పడుతుంది, చాలాసార్లు నెలకు దాదాపు 3%, కాబట్టి ట్రిప్ ₹3,000 కంటే ఎక్కువ ఖర్చవుతుంది."
+      }
+    },
+    "chapter_slug": "save-credit-card-trap"
+  },
+  {
+    "id": "budget-pocket-money-007",
+    "pillar": "budget",
+    "tags": [
+      "pocket-money"
+    ],
+    "tier": "diamond",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Nila has saved ₹1,800 for a ₹9,000 laptop she will buy in 6 months. She can save ₹900 a month in months 1–3. Assume no interest. What equal amount must she save in each of months 4–6?",
+        "options": [
+          "₹1,500",
+          "₹1,200",
+          "₹2,400",
+          "₹1,400"
+        ],
+        "answer": "A",
+        "explanation": "She still needs ₹9,000 − ₹1,800 − ₹2,700 = ₹4,500 after month 3. ₹4,500 ÷ 3 = ₹1,500 a month."
+      },
+      "hi": {
+        "prompt": "निला ने ₹9,000 के लैपटॉप के लिए ₹1,800 बचाए हैं, जिसे वह 6 महीने में खरीदेगी। महीने 1–3 में वह हर महीने ₹900 बचा सकती है। मान लो कोई ब्याज नहीं। महीने 4–6 में उसे हर महीने कितनी बराबर रकम बचानी होगी?",
+        "options": [
+          "₹1,500",
+          "₹1,200",
+          "₹2,400",
+          "₹1,400"
+        ],
+        "answer": "A",
+        "explanation": "महीने 3 के बाद भी उसे ₹9,000 − ₹1,800 − ₹2,700 = ₹4,500 चाहिए। ₹4,500 ÷ 3 = हर महीने ₹1,500।"
+      },
+      "te": {
+        "prompt": "నీల ₹9,000 ల్యాప్‌టాప్ కోసం ₹1,800 దాచుకుంది, దాన్ని 6 నెలల్లో కొంటుంది. 1–3 నెలల్లో ఆమె నెలకు ₹900 దాచగలదు. వడ్డీ లేదనుకుందాం. 4–6 నెలల్లో ప్రతి నెలా ఎంత సమానమైన మొత్తం దాచాలి?",
+        "options": [
+          "₹1,500",
+          "₹1,200",
+          "₹2,400",
+          "₹1,400"
+        ],
+        "answer": "A",
+        "explanation": "3వ నెల తర్వాత ఇంకా ₹9,000 − ₹1,800 − ₹2,700 = ₹4,500 కావాలి. ₹4,500 ÷ 3 = నెలకు ₹1,500."
+      }
+    }
+  },
+  {
+    "id": "budget-pocket-money-008",
+    "pillar": "budget",
+    "tags": [
+      "pocket-money",
+      "tracking-spending"
+    ],
+    "tier": "diamond",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Ravi has ₹900 left from last month and gets ₹7,200. He pays ₹3,100 for essentials, saves ₹1,200, pays an ₹800 fee and wants ₹1,000 left at month end. Assume 4 weeks. What is his weekly limit for other spending?",
+        "options": [
+          "₹625",
+          "₹750",
+          "₹2,000",
+          "₹500"
+        ],
+        "answer": "D",
+        "explanation": "₹900 + ₹7,200 − ₹3,100 − ₹1,200 − ₹800 − ₹1,000 = ₹2,000. Spread over 4 weeks, that is ₹500 a week."
+      },
+      "hi": {
+        "prompt": "रवि के पास पिछले महीने के ₹900 बचे हैं और उसे ₹7,200 मिलते हैं। वह ज़रूरी चीज़ों पर ₹3,100 देता है, ₹1,200 बचाता है, ₹800 की एक फ़ीस भरता है और चाहता है कि महीने के आख़िर में ₹1,000 बचे रहें। मान लो महीने में 4 हफ़्ते हैं। बाकी खर्चों के लिए उसकी हफ़्ते की लिमिट कितनी है?",
+        "options": [
+          "₹625",
+          "₹750",
+          "₹2,000",
+          "₹500"
+        ],
+        "answer": "D",
+        "explanation": "₹900 + ₹7,200 − ₹3,100 − ₹1,200 − ₹800 − ₹1,000 = ₹2,000। इसे 4 हफ़्तों में बाँटें तो हफ़्ते के ₹500।"
+      },
+      "te": {
+        "prompt": "రవి దగ్గర పోయిన నెల ₹900 మిగిలాయి, ఇప్పుడు ₹7,200 వస్తాయి. అవసరమైనవాటికి ₹3,100 కడతాడు, ₹1,200 పొదుపు చేస్తాడు, ₹800 ఫీజు కడతాడు, నెల చివర ₹1,000 మిగలాలనుకుంటాడు. నెలకు 4 వారాలు అనుకుందాం. మిగతా ఖర్చులకు వారానికి అతని లిమిట్ ఎంత?",
+        "options": [
+          "₹625",
+          "₹750",
+          "₹2,000",
+          "₹500"
+        ],
+        "answer": "D",
+        "explanation": "₹900 + ₹7,200 − ₹3,100 − ₹1,200 − ₹800 − ₹1,000 = ₹2,000. దాన్ని 4 వారాలకు పంచితే వారానికి ₹500."
+      }
+    }
+  },
+  {
+    "id": "budget-50-30-20-008",
+    "pillar": "budget",
+    "tags": [
+      "50-30-20"
+    ],
+    "tier": "diamond",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "A family splits ₹30,000 a month by 50-30-20. Their income falls by 10%, but needs stay at ₹15,000. They keep saving 20% of the new income. How much is left for wants?",
+        "options": [
+          "₹8,100",
+          "₹9,000",
+          "₹6,600",
+          "₹6,000"
+        ],
+        "answer": "C",
+        "explanation": "New income is ₹27,000 and 20% savings is ₹5,400. ₹27,000 − ₹15,000 − ₹5,400 = ₹6,600 for wants."
+      },
+      "hi": {
+        "prompt": "एक परिवार हर महीने ₹30,000 को 50-30-20 से बाँटता है। उनकी आमदनी 10% घट जाती है, पर ज़रूरतें ₹15,000 ही रहती हैं। वे नई आमदनी का 20% बचाते रहते हैं। चाहतों के लिए कितना बचता है?",
+        "options": [
+          "₹8,100",
+          "₹9,000",
+          "₹6,600",
+          "₹6,000"
+        ],
+        "answer": "C",
+        "explanation": "नई आमदनी ₹27,000 है और 20% बचत ₹5,400। ₹27,000 − ₹15,000 − ₹5,400 = चाहतों के लिए ₹6,600।"
+      },
+      "te": {
+        "prompt": "ఒక కుటుంబం నెలకు ₹30,000ను 50-30-20 ప్రకారం పంచుతుంది. వాళ్ల ఆదాయం 10% తగ్గుతుంది, కానీ అవసరాలు ₹15,000 దగ్గరే ఉంటాయి. కొత్త ఆదాయంలో 20% పొదుపు చేస్తూనే ఉంటారు. కోరికలకు ఎంత మిగులుతుంది?",
+        "options": [
+          "₹8,100",
+          "₹9,000",
+          "₹6,600",
+          "₹6,000"
+        ],
+        "answer": "C",
+        "explanation": "కొత్త ఆదాయం ₹27,000, 20% పొదుపు ₹5,400. ₹27,000 − ₹15,000 − ₹5,400 = కోరికలకు ₹6,600."
+      }
+    }
+  },
+  {
+    "id": "budget-bills-and-emi-012",
+    "pillar": "budget",
+    "tags": [
+      "bills-and-emi"
+    ],
+    "tier": "diamond",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "A family buys a ₹24,000 fridge on EMI: ₹2,200 a month for 12 months. They have ₹3,000 spare each month and set aside ₹500 of it for emergencies. Which is true?",
+        "options": [
+          "It costs ₹2,200 extra, and ₹800 is left monthly",
+          "It costs ₹2,400 extra, and ₹300 is left monthly",
+          "It costs ₹2,400 extra, and ₹800 is left monthly",
+          "It costs nothing extra, and ₹300 is left monthly"
+        ],
+        "answer": "B",
+        "explanation": "₹2,200 × 12 = ₹26,400, which is ₹2,400 more than the price. Each month ₹3,000 − ₹2,200 − ₹500 leaves ₹300."
+      },
+      "hi": {
+        "prompt": "एक परिवार ₹24,000 का फ़्रिज EMI पर लेता है: 12 महीने तक ₹2,200 महीना। उनके पास हर महीने ₹3,000 एक्स्ट्रा बचते हैं, जिनमें से ₹500 वे इमरजेंसी के लिए अलग रखते हैं। कौन-सी बात सही है?",
+        "options": [
+          "₹2,200 ज़्यादा लगते हैं, और हर महीने ₹800 बचते हैं",
+          "₹2,400 ज़्यादा लगते हैं, और हर महीने ₹300 बचते हैं",
+          "₹2,400 ज़्यादा लगते हैं, और हर महीने ₹800 बचते हैं",
+          "कुछ ज़्यादा नहीं लगता, और हर महीने ₹300 बचते हैं"
+        ],
+        "answer": "B",
+        "explanation": "₹2,200 × 12 = ₹26,400, जो कीमत से ₹2,400 ज़्यादा है। हर महीने ₹3,000 − ₹2,200 − ₹500 के बाद ₹300 बचते हैं।"
+      },
+      "te": {
+        "prompt": "ఒక కుటుంబం ₹24,000 ఫ్రిజ్‌ని EMIలో కొంటుంది: 12 నెలల పాటు నెలకు ₹2,200. వాళ్ల దగ్గర ప్రతి నెలా ₹3,000 అదనంగా ఉంటాయి, అందులో ₹500 ఎమర్జెన్సీల కోసం పక్కన పెడతారు. ఏది నిజం?",
+        "options": [
+          "₹2,200 అదనపు ఖర్చు, నెలకు ₹800 మిగులుతుంది",
+          "₹2,400 అదనపు ఖర్చు, నెలకు ₹300 మిగులుతుంది",
+          "₹2,400 అదనపు ఖర్చు, నెలకు ₹800 మిగులుతుంది",
+          "అదనపు ఖర్చు లేదు, నెలకు ₹300 మిగులుతుంది"
+        ],
+        "answer": "B",
+        "explanation": "₹2,200 × 12 = ₹26,400, ఇది ధర కంటే ₹2,400 ఎక్కువ. ప్రతి నెలా ₹3,000 − ₹2,200 − ₹500 తర్వాత ₹300 మిగులుతుంది."
+      }
+    },
+    "chapter_slug": "budget-no-cost-emi"
+  },
+  {
+    "id": "budget-tracking-spending-008",
+    "pillar": "budget",
+    "tags": [
+      "tracking-spending"
+    ],
+    "tier": "diamond",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Harsha spends ₹30 on snacks every day. Assume 30-day months. He cuts down to snacks on only 10 days a month and saves the difference for a ₹4,800 phone. How many months will it take?",
+        "options": [
+          "6 months",
+          "5 months",
+          "16 months",
+          "8 months"
+        ],
+        "answer": "D",
+        "explanation": "Before, he spent ₹900 a month; now he spends ₹300, so he saves ₹600 a month. ₹4,800 ÷ ₹600 = 8 months."
+      },
+      "hi": {
+        "prompt": "हर्षा रोज़ स्नैक्स पर ₹30 खर्च करता है। मान लो महीना 30 दिन का है। वह घटाकर महीने में सिर्फ़ 10 दिन स्नैक्स लेता है और जो फ़र्क बचता है, उसे ₹4,800 के फ़ोन के लिए जोड़ता है। कितने महीने लगेंगे?",
+        "options": [
+          "6 महीने",
+          "5 महीने",
+          "16 महीने",
+          "8 महीने"
+        ],
+        "answer": "D",
+        "explanation": "पहले वह महीने में ₹900 खर्च करता था; अब ₹300 करता है, यानी हर महीने ₹600 बचते हैं। ₹4,800 ÷ ₹600 = 8 महीने।"
+      },
+      "te": {
+        "prompt": "హర్ష రోజూ స్నాక్స్ మీద ₹30 ఖర్చు చేస్తాడు. నెలకు 30 రోజులు అనుకుందాం. అతను నెలలో 10 రోజులు మాత్రమే స్నాక్స్ తినేలా తగ్గించి, ఆ తేడా డబ్బును ₹4,800 ఫోన్ కోసం దాచుకుంటాడు. ఎన్ని నెలలు పడుతుంది?",
+        "options": [
+          "6 నెలలు",
+          "5 నెలలు",
+          "16 నెలలు",
+          "8 నెలలు"
+        ],
+        "answer": "D",
+        "explanation": "ముందు అతను నెలకు ₹900 ఖర్చు చేసేవాడు; ఇప్పుడు ₹300, అంటే నెలకు ₹600 ఆదా. ₹4,800 ÷ ₹600 = 8 నెలలు."
+      }
+    },
+    "chapter_slug": "save-chai-math"
+  }
+]

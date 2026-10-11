@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+/* Design tokens. Owned by platform (see docs/TEAM.md) — ask before changing.
+   Dark theme only (UI.md). */
+:root {
+  --background: #0b1120;
+  --surface: #151d2f;
+  --border: #1e293b;
+  --foreground: #e2e8f0;
+  --muted: #94a3b8;
+  --brand: #f0525c;
+  --success: #10b981;
+  --danger: #f43f5e;
+  --coin: #f59e0b;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-border: var(--border);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-brand: var(--brand);
+  --color-success: var(--success);
+  --color-danger: var(--danger);
+  --color-coin: var(--coin);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}

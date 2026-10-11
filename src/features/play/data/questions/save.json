@@ -1,0 +1,2104 @@
+[
+  {
+    "id": "save-emergency-fund-001",
+    "pillar": "save",
+    "tags": [
+      "emergency-fund"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "reel_id": "save-emergency-fund",
+    "content": {
+      "en": {
+        "prompt": "In the reel, Peter A paid his ₹3,000 phone repair with zero stress. What had he done?",
+        "options": [
+          "Saved ₹200 a month in a separate pot",
+          "Borrowed the money from a friend",
+          "Took a loan from an instant-loan app",
+          "Spent his pocket money on games"
+        ],
+        "answer": "A",
+        "explanation": "Peter A had been saving ₹200 every month in a separate \"don't touch\" pot. When the phone broke, the money was already there."
+      },
+      "hi": {
+        "prompt": "रील में Peter A ने अपने फ़ोन की ₹3,000 की रिपेयरिंग बिना किसी टेंशन के करवा ली। उसने पहले से क्या किया था?",
+        "options": [
+          "हर महीने ₹200 एक अलग डिब्बे में बचाए",
+          "दोस्त से पैसे उधार लिए",
+          "इंस्टेंट-लोन ऐप से लोन लिया",
+          "अपनी पॉकेट मनी गेम्स पर खर्च कर दी"
+        ],
+        "answer": "A",
+        "explanation": "Peter A हर महीने ₹200 एक अलग \"इसे मत छूना\" वाले डिब्बे में बचा रहा था। जब फ़ोन टूटा, तो पैसे पहले से तैयार थे।"
+      },
+      "te": {
+        "prompt": "రీల్‌లో Peter A తన ఫోన్ రిపేర్‌కి ₹3,000 ఏ టెన్షన్ లేకుండా కట్టేశాడు. అతను ముందే ఏం చేశాడు?",
+        "options": [
+          "నెలకు ₹200 వేరే డబ్బాలో దాచాడు",
+          "ఫ్రెండ్ దగ్గర డబ్బు అప్పు తీసుకున్నాడు",
+          "ఇన్‌స్టంట్-లోన్ యాప్ నుంచి లోన్ తీసుకున్నాడు",
+          "తన పాకెట్ మనీ గేమ్స్ మీద ఖర్చు పెట్టాడు"
+        ],
+        "answer": "A",
+        "explanation": "Peter A ప్రతి నెలా ₹200ని ఒక వేరే \"ముట్టుకోకూడని\" డబ్బాలో దాచుకుంటూ వచ్చాడు. ఫోన్ పాడైనప్పుడు, డబ్బు ముందే సిద్ధంగా ఉంది."
+      }
+    }
+  },
+  {
+    "id": "save-emergency-fund-002",
+    "pillar": "save",
+    "tags": [
+      "emergency-fund"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "save-emergency-fund",
+    "content": {
+      "en": {
+        "prompt": "What is an emergency fund?",
+        "options": [
+          "Money saved to buy a new phone",
+          "Money borrowed when you run short",
+          "Money spent during festival sales",
+          "Money kept only for sudden, unplanned costs"
+        ],
+        "answer": "D",
+        "explanation": "An emergency fund is set aside only for surprises like repairs or medical bills. Because it is ready, you do not need to borrow when trouble comes."
+      },
+      "hi": {
+        "prompt": "इमरजेंसी फ़ंड क्या होता है?",
+        "options": [
+          "नया फ़ोन खरीदने के लिए बचाए गए पैसे",
+          "पैसे कम पड़ने पर उधार लिए गए पैसे",
+          "त्योहार की सेल में खर्च किए गए पैसे",
+          "सिर्फ़ अचानक, बिना प्लान के आने वाले खर्चों के लिए रखे गए पैसे"
+        ],
+        "answer": "D",
+        "explanation": "इमरजेंसी फ़ंड सिर्फ़ अचानक आने वाले खर्चों, जैसे रिपेयर या इलाज के बिल, के लिए अलग रखा जाता है। क्योंकि यह पहले से तैयार रहता है, मुसीबत आने पर उधार लेने की ज़रूरत नहीं पड़ती।"
+      },
+      "te": {
+        "prompt": "ఎమర్జెన్సీ ఫండ్ అంటే ఏమిటి?",
+        "options": [
+          "కొత్త ఫోన్ కొనడానికి దాచిన డబ్బు",
+          "డబ్బు సరిపోనప్పుడు అప్పుగా తీసుకున్న డబ్బు",
+          "పండగ సేల్స్‌లో ఖర్చు పెట్టిన డబ్బు",
+          "అనుకోకుండా వచ్చే, ప్లాన్ చేయని ఖర్చుల కోసం మాత్రమే ఉంచిన డబ్బు"
+        ],
+        "answer": "D",
+        "explanation": "ఎమర్జెన్సీ ఫండ్‌ని రిపేర్లు, హాస్పిటల్ బిల్లుల లాంటి అనుకోని ఖర్చుల కోసం మాత్రమే పక్కన పెడతారు. అది ముందే సిద్ధంగా ఉంటుంది కాబట్టి, కష్టం వచ్చినప్పుడు అప్పు చేయాల్సిన అవసరం ఉండదు."
+      }
+    }
+  },
+  {
+    "id": "save-emergency-fund-003",
+    "pillar": "save",
+    "tags": [
+      "emergency-fund"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "save-emergency-fund",
+    "content": {
+      "en": {
+        "prompt": "Which of these is a real reason to use your emergency fund?",
+        "options": [
+          "A sudden hospital bill for a family member",
+          "A new video game that just launched",
+          "A big discount on branded shoes",
+          "A friend's birthday party this weekend"
+        ],
+        "answer": "A",
+        "explanation": "A hospital bill is unplanned and cannot wait, which is exactly what an emergency fund is for. Games, sales and parties are wants you can plan or skip."
+      },
+      "hi": {
+        "prompt": "इनमें से कौन-सी इमरजेंसी फ़ंड इस्तेमाल करने की सही वजह है?",
+        "options": [
+          "परिवार के किसी सदस्य का अचानक आया अस्पताल का बिल",
+          "अभी-अभी लॉन्च हुआ नया वीडियो गेम",
+          "ब्रांडेड जूतों पर बड़ा डिस्काउंट",
+          "इस वीकेंड दोस्त की बर्थडे पार्टी"
+        ],
+        "answer": "A",
+        "explanation": "अस्पताल का बिल अचानक आता है और टल नहीं सकता, इमरजेंसी फ़ंड ठीक इसी के लिए होता है। गेम, सेल और पार्टी चाहतें हैं, जिनके लिए आप पहले से प्लान कर सकते हैं या जिन्हें छोड़ सकते हैं।"
+      },
+      "te": {
+        "prompt": "వీటిలో ఎమర్జెన్సీ ఫండ్ వాడడానికి నిజమైన కారణం ఏది?",
+        "options": [
+          "కుటుంబంలో ఒకరికి అనుకోకుండా వచ్చిన హాస్పిటల్ బిల్లు",
+          "ఇప్పుడే లాంచ్ అయిన కొత్త వీడియో గేమ్",
+          "బ్రాండెడ్ షూస్ మీద పెద్ద డిస్కౌంట్",
+          "ఈ వీకెండ్ ఫ్రెండ్ బర్త్‌డే పార్టీ"
+        ],
+        "answer": "A",
+        "explanation": "హాస్పిటల్ బిల్లు అనుకోకుండా వస్తుంది, దాన్ని వాయిదా వేయలేం; ఎమర్జెన్సీ ఫండ్ సరిగ్గా దీని కోసమే. గేమ్స్, సేల్స్, పార్టీలు కోరికలు; వాటిని ముందే ప్లాన్ చేసుకోవచ్చు లేదా వదిలేయొచ్చు."
+      }
+    }
+  },
+  {
+    "id": "save-emergency-fund-004",
+    "pillar": "save",
+    "tags": [
+      "emergency-fund"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "save-emergency-fund",
+    "content": {
+      "en": {
+        "prompt": "Why should you keep your emergency fund separate from your spending money?",
+        "options": [
+          "So it earns double the interest",
+          "So your parents cannot see it",
+          "So you can lend it to friends easily",
+          "So you do not spend it by accident"
+        ],
+        "answer": "D",
+        "explanation": "When the fund is mixed with everyday money, it slowly gets spent on small things. Keeping it apart protects it for a real emergency."
+      },
+      "hi": {
+        "prompt": "अपना इमरजेंसी फ़ंड खर्च वाले पैसों से अलग क्यों रखना चाहिए?",
+        "options": [
+          "ताकि उस पर दोगुना ब्याज मिले",
+          "ताकि आपके माता-पिता उसे देख न सकें",
+          "ताकि आप आसानी से दोस्तों को उधार दे सकें",
+          "ताकि आप उसे गलती से खर्च न कर दें"
+        ],
+        "answer": "D",
+        "explanation": "जब फ़ंड रोज़ के पैसों के साथ मिला रहता है, तो वह धीरे-धीरे छोटी-छोटी चीज़ों पर खर्च हो जाता है। उसे अलग रखने से वह असली इमरजेंसी के लिए बचा रहता है।"
+      },
+      "te": {
+        "prompt": "మీ ఎమర్జెన్సీ ఫండ్‌ని ఖర్చు పెట్టే డబ్బు నుంచి ఎందుకు వేరుగా ఉంచాలి?",
+        "options": [
+          "దానికి రెట్టింపు వడ్డీ రావడానికి",
+          "మీ అమ్మానాన్నలు దాన్ని చూడకుండా ఉండడానికి",
+          "ఫ్రెండ్స్‌కి సులభంగా అప్పు ఇవ్వడానికి",
+          "పొరపాటున దాన్ని ఖర్చు పెట్టకుండా ఉండడానికి"
+        ],
+        "answer": "D",
+        "explanation": "ఫండ్ రోజువారీ డబ్బుతో కలిసి ఉంటే, అది చిన్న చిన్న వాటికి కొద్దికొద్దిగా ఖర్చైపోతుంది. దాన్ని వేరుగా ఉంచితే, నిజమైన ఎమర్జెన్సీ కోసం భద్రంగా ఉంటుంది."
+      }
+    }
+  },
+  {
+    "id": "save-savings-goals-001",
+    "pillar": "save",
+    "tags": [
+      "savings-goals"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "save-emergency-fund",
+    "content": {
+      "en": {
+        "prompt": "Which of these is the clearest savings goal?",
+        "options": [
+          "Save ₹6,000 for a cycle in 6 months",
+          "Save some money soon",
+          "Save whatever is left at month end",
+          "Save more than my friends do"
+        ],
+        "answer": "A",
+        "explanation": "A clear goal has an amount and a deadline. Then you can work out how much to save each month (here ₹1,000)."
+      },
+      "hi": {
+        "prompt": "इनमें से सबसे साफ़ बचत लक्ष्य कौन-सा है?",
+        "options": [
+          "6 महीने में साइकिल के लिए ₹6,000 बचाना",
+          "जल्दी ही कुछ पैसे बचाना",
+          "महीने के आखिर में जो बचे, वो बचाना",
+          "अपने दोस्तों से ज़्यादा बचाना"
+        ],
+        "answer": "A",
+        "explanation": "साफ़ लक्ष्य में रकम और समय-सीमा, दोनों होते हैं। फिर आप हिसाब लगा सकते हैं कि हर महीने कितना बचाना है (यहाँ ₹1,000)।"
+      },
+      "te": {
+        "prompt": "వీటిలో అన్నిటికంటే స్పష్టమైన సేవింగ్స్ గోల్ ఏది?",
+        "options": [
+          "6 నెలల్లో సైకిల్ కోసం ₹6,000 దాచడం",
+          "త్వరలో కొంత డబ్బు దాచడం",
+          "నెలాఖరుకు ఏది మిగిలితే అది దాచడం",
+          "నా ఫ్రెండ్స్ కంటే ఎక్కువ దాచడం"
+        ],
+        "answer": "A",
+        "explanation": "స్పష్టమైన గోల్‌లో ఎంత డబ్బు, ఎప్పటికల్లా అనే రెండూ ఉంటాయి. అప్పుడు నెలకు ఎంత దాచాలో లెక్కపెట్టొచ్చు (ఇక్కడ ₹1,000)."
+      }
+    }
+  },
+  {
+    "id": "save-emergency-fund-005",
+    "pillar": "save",
+    "tags": [
+      "emergency-fund",
+      "savings-goals"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "save-emergency-fund",
+    "content": {
+      "en": {
+        "prompt": "Kavya gets small pocket money and has no emergency fund yet. What is a good way to start one?",
+        "options": [
+          "Wait until she earns a full salary",
+          "Save only when she gets birthday money",
+          "Borrow money to fill it at once",
+          "Save a small amount, like ₹100, every month"
+        ],
+        "answer": "D",
+        "explanation": "Even ₹100 a month adds up, and the habit matters more than the size. Starting small now is better than waiting for a big amount."
+      },
+      "hi": {
+        "prompt": "काव्या को थोड़ी पॉकेट मनी मिलती है और अभी उसके पास कोई इमरजेंसी फ़ंड नहीं है। इसे शुरू करने का अच्छा तरीका क्या है?",
+        "options": [
+          "पूरी सैलरी मिलने तक इंतज़ार करना",
+          "सिर्फ़ तब बचाना जब जन्मदिन पर पैसे मिलें",
+          "एक साथ भरने के लिए पैसे उधार लेना",
+          "हर महीने थोड़ी रकम, जैसे ₹100, बचाना"
+        ],
+        "answer": "D",
+        "explanation": "₹100 महीना भी जुड़ते-जुड़ते बढ़ जाता है, और रकम से ज़्यादा आदत मायने रखती है। बड़ी रकम का इंतज़ार करने से अच्छा है अभी छोटे से शुरू करना।"
+      },
+      "te": {
+        "prompt": "కావ్యకి కొంచెం పాకెట్ మనీ వస్తుంది, ఇంకా ఎమర్జెన్సీ ఫండ్ లేదు. దాన్ని మొదలుపెట్టడానికి మంచి మార్గం ఏది?",
+        "options": [
+          "పూర్తి జీతం వచ్చేవరకు ఆగడం",
+          "బర్త్‌డే డబ్బు వచ్చినప్పుడు మాత్రమే దాచడం",
+          "ఒకేసారి నింపడానికి అప్పు తీసుకోవడం",
+          "ప్రతి నెలా ₹100 లాంటి చిన్న మొత్తం దాచడం"
+        ],
+        "answer": "D",
+        "explanation": "నెలకు ₹100 అయినా కలిసి కలిసి పెరుగుతుంది, మొత్తం కంటే అలవాటే ముఖ్యం. పెద్ద మొత్తం కోసం ఎదురుచూడడం కంటే ఇప్పుడే చిన్నగా మొదలుపెట్టడం మంచిది."
+      }
+    }
+  },
+  {
+    "id": "save-bank-accounts-001",
+    "pillar": "save",
+    "tags": [
+      "bank-accounts"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "A bank pays you a small extra amount for keeping money in a savings account. What is it called?",
+        "options": [
+          "Interest",
+          "Dividend",
+          "EMI",
+          "Cashback"
+        ],
+        "answer": "A",
+        "explanation": "Interest is what the bank pays you for keeping your money with it. The bank uses deposits to give loans and shares part of what it earns."
+      },
+      "hi": {
+        "prompt": "सेविंग्स अकाउंट में पैसे रखने पर बैंक आपको थोड़े एक्स्ट्रा पैसे देता है। इसे क्या कहते हैं?",
+        "options": [
+          "ब्याज",
+          "डिविडेंड",
+          "EMI",
+          "कैशबैक"
+        ],
+        "answer": "A",
+        "explanation": "ब्याज वह रकम है जो बैंक आपको अपना पैसा उसके पास रखने के बदले देता है। बैंक जमा पैसों से लोन देता है और जो कमाता है, उसका एक हिस्सा आपके साथ बाँटता है।"
+      },
+      "te": {
+        "prompt": "సేవింగ్స్ అకౌంట్‌లో డబ్బు ఉంచినందుకు బ్యాంక్ మీకు కొంచెం అదనపు డబ్బు ఇస్తుంది. దాన్ని ఏమంటారు?",
+        "options": [
+          "వడ్డీ",
+          "డివిడెండ్",
+          "EMI",
+          "క్యాష్‌బ్యాక్"
+        ],
+        "answer": "A",
+        "explanation": "మీ డబ్బుని తన దగ్గర ఉంచినందుకు బ్యాంక్ మీకు ఇచ్చేదే వడ్డీ. బ్యాంక్ డిపాజిట్ల నుంచి లోన్లు ఇస్తుంది, సంపాదించిన దానిలో కొంత భాగం మీతో పంచుకుంటుంది."
+      }
+    }
+  },
+  {
+    "id": "save-bank-accounts-002",
+    "pillar": "save",
+    "tags": [
+      "bank-accounts"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Why is a bank savings account safer than a piggy bank for your savings?",
+        "options": [
+          "The bank doubles your money every year",
+          "You can never take the money out",
+          "The bank pays your bills for you",
+          "Money is protected from loss and also earns interest"
+        ],
+        "answer": "D",
+        "explanation": "Money at home can be lost, stolen or spent on impulse, while a bank keeps it safe. A savings account also adds interest to it."
+      },
+      "hi": {
+        "prompt": "बचत के लिए बैंक का सेविंग्स अकाउंट गुल्लक से ज़्यादा सुरक्षित क्यों है?",
+        "options": [
+          "बैंक हर साल आपके पैसे दोगुने कर देता है",
+          "आप पैसे कभी नहीं निकाल सकते",
+          "बैंक आपके बिल भर देता है",
+          "पैसा खोने से बचा रहता है और उस पर ब्याज भी मिलता है"
+        ],
+        "answer": "D",
+        "explanation": "घर पर रखा पैसा खो सकता है, चोरी हो सकता है या मन करने पर यूँ ही खर्च हो सकता है, जबकि बैंक उसे सुरक्षित रखता है। सेविंग्स अकाउंट उस पर ब्याज भी जोड़ता है।"
+      },
+      "te": {
+        "prompt": "మీ పొదుపుకి హుండీ కంటే బ్యాంక్ సేవింగ్స్ అకౌంట్ ఎందుకు సురక్షితం?",
+        "options": [
+          "బ్యాంక్ ప్రతి సంవత్సరం మీ డబ్బుని రెట్టింపు చేస్తుంది",
+          "మీరు ఎప్పటికీ డబ్బు తీయలేరు",
+          "బ్యాంక్ మీ బిల్లులు కడుతుంది",
+          "డబ్బు పోకుండా భద్రంగా ఉంటుంది, వడ్డీ కూడా వస్తుంది"
+        ],
+        "answer": "D",
+        "explanation": "ఇంట్లో ఉన్న డబ్బు పోవచ్చు, దొంగతనం కావచ్చు, లేదా తొందరపడి ఖర్చైపోవచ్చు; బ్యాంక్ దాన్ని భద్రంగా ఉంచుతుంది. సేవింగ్స్ అకౌంట్ దానికి వడ్డీ కూడా కలుపుతుంది."
+      }
+    }
+  },
+  {
+    "id": "save-bank-accounts-003",
+    "pillar": "save",
+    "tags": [
+      "bank-accounts"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "What is a fixed deposit (FD)?",
+        "options": [
+          "Money left in a bank for a fixed time and rate",
+          "A loan the bank gives to students",
+          "A card used to pay in shops",
+          "An account you can top up daily"
+        ],
+        "answer": "A",
+        "explanation": "In an FD you keep money with the bank for a fixed period. In return the bank pays an interest rate fixed at the start."
+      },
+      "hi": {
+        "prompt": "फ़िक्स्ड डिपॉज़िट (FD) क्या है?",
+        "options": [
+          "तय समय और तय ब्याज दर पर बैंक में रखा गया पैसा",
+          "बैंक का छात्रों को दिया जाने वाला लोन",
+          "दुकानों में पेमेंट करने वाला कार्ड",
+          "ऐसा अकाउंट जिसमें आप रोज़ पैसे डाल सकें"
+        ],
+        "answer": "A",
+        "explanation": "FD में आप तय समय के लिए बैंक में पैसे रखते हैं। बदले में बैंक वह ब्याज दर देता है जो शुरुआत में ही तय हो जाती है।"
+      },
+      "te": {
+        "prompt": "ఫిక్స్‌డ్ డిపాజిట్ (FD) అంటే ఏమిటి?",
+        "options": [
+          "నిర్ణీత కాలానికి, నిర్ణీత వడ్డీ రేటుకి బ్యాంక్‌లో ఉంచిన డబ్బు",
+          "బ్యాంక్ విద్యార్థులకు ఇచ్చే లోన్",
+          "షాపుల్లో పేమెంట్ చేయడానికి వాడే కార్డ్",
+          "రోజూ డబ్బు వేయగలిగే అకౌంట్"
+        ],
+        "answer": "A",
+        "explanation": "FDలో మీరు ఒక నిర్ణీత కాలం పాటు బ్యాంక్ దగ్గర డబ్బు ఉంచుతారు. బదులుగా, బ్యాంక్ మొదట్లోనే ఫిక్స్ చేసిన వడ్డీ రేటు ఇస్తుంది."
+      }
+    }
+  },
+  {
+    "id": "save-simple-interest-001",
+    "pillar": "save",
+    "tags": [
+      "simple-interest"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "What is simple interest?",
+        "options": [
+          "Interest paid on interest as well",
+          "Interest paid only on the money you first put in",
+          "Interest that changes every single day",
+          "A fee the bank takes from you"
+        ],
+        "answer": "B",
+        "explanation": "Simple interest is worked out only on the original amount. It stays the same every year."
+      },
+      "hi": {
+        "prompt": "साधारण ब्याज (सिंपल इंटरेस्ट) क्या है?",
+        "options": [
+          "ब्याज पर भी मिलने वाला ब्याज",
+          "सिर्फ़ शुरू में जमा किए गए पैसों पर मिलने वाला ब्याज",
+          "हर दिन बदलने वाला ब्याज",
+          "बैंक की तरफ़ से आपसे ली जाने वाली फ़ीस"
+        ],
+        "answer": "B",
+        "explanation": "साधारण ब्याज सिर्फ़ मूल रकम पर निकाला जाता है। यह हर साल एक जैसा रहता है।"
+      },
+      "te": {
+        "prompt": "సాధారణ వడ్డీ (సింపుల్ ఇంట్రెస్ట్) అంటే ఏమిటి?",
+        "options": [
+          "వడ్డీ మీద కూడా వచ్చే వడ్డీ",
+          "మీరు మొదట వేసిన డబ్బు మీద మాత్రమే వచ్చే వడ్డీ",
+          "ప్రతి రోజూ మారే వడ్డీ",
+          "బ్యాంక్ మీ నుంచి తీసుకునే ఫీజు"
+        ],
+        "answer": "B",
+        "explanation": "సాధారణ వడ్డీని అసలు మొత్తం మీద మాత్రమే లెక్కిస్తారు. అది ప్రతి సంవత్సరం ఒకేలా ఉంటుంది."
+      }
+    }
+  },
+  {
+    "id": "save-simple-interest-002",
+    "pillar": "save",
+    "tags": [
+      "simple-interest"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Arun puts ₹2,000 in a bank. What is this first amount called?",
+        "options": [
+          "Interest",
+          "Profit",
+          "Inflation",
+          "Principal"
+        ],
+        "answer": "D",
+        "explanation": "The principal is the starting amount you deposit or borrow. Interest is calculated on it."
+      },
+      "hi": {
+        "prompt": "अरुण बैंक में ₹2,000 जमा करता है। इस शुरुआती रकम को क्या कहते हैं?",
+        "options": [
+          "ब्याज",
+          "मुनाफ़ा",
+          "महंगाई",
+          "मूलधन"
+        ],
+        "answer": "D",
+        "explanation": "मूलधन वह शुरुआती रकम है जो आप जमा करते हैं या उधार लेते हैं। ब्याज इसी पर निकाला जाता है।"
+      },
+      "te": {
+        "prompt": "అరుణ్ బ్యాంక్‌లో ₹2,000 వేశాడు. ఈ మొదటి మొత్తాన్ని ఏమంటారు?",
+        "options": [
+          "వడ్డీ",
+          "లాభం",
+          "ద్రవ్యోల్బణం",
+          "అసలు"
+        ],
+        "answer": "D",
+        "explanation": "మీరు డిపాజిట్ చేసే లేదా అప్పుగా తీసుకునే మొదటి మొత్తమే అసలు. వడ్డీని దాని మీదే లెక్కిస్తారు."
+      }
+    }
+  },
+  {
+    "id": "save-compound-interest-001",
+    "pillar": "save",
+    "tags": [
+      "compound-interest"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "What is compound interest?",
+        "options": [
+          "Interest earned on your money plus past interest",
+          "Interest earned only on the first deposit",
+          "Interest that is paid just once",
+          "A penalty for taking money out early"
+        ],
+        "answer": "A",
+        "explanation": "With compound interest, the interest is added to your money and then earns interest too. This makes savings grow faster over time."
+      },
+      "hi": {
+        "prompt": "चक्रवृद्धि ब्याज (कंपाउंड इंटरेस्ट) क्या है?",
+        "options": [
+          "आपके पैसों और पहले मिले ब्याज, दोनों पर मिलने वाला ब्याज",
+          "सिर्फ़ पहली जमा पर मिलने वाला ब्याज",
+          "सिर्फ़ एक बार मिलने वाला ब्याज",
+          "जल्दी पैसे निकालने पर लगने वाला जुर्माना"
+        ],
+        "answer": "A",
+        "explanation": "चक्रवृद्धि ब्याज में ब्याज आपके पैसों में जुड़ जाता है और फिर उस पर भी ब्याज मिलता है। इससे समय के साथ बचत तेज़ी से बढ़ती है।"
+      },
+      "te": {
+        "prompt": "చక్రవడ్డీ (కాంపౌండ్ ఇంట్రెస్ట్) అంటే ఏమిటి?",
+        "options": [
+          "మీ డబ్బు మీదా, ఇంతకు ముందు వచ్చిన వడ్డీ మీదా వచ్చే వడ్డీ",
+          "మొదటి డిపాజిట్ మీద మాత్రమే వచ్చే వడ్డీ",
+          "ఒక్కసారి మాత్రమే ఇచ్చే వడ్డీ",
+          "ముందుగానే డబ్బు తీస్తే వేసే జరిమానా"
+        ],
+        "answer": "A",
+        "explanation": "చక్రవడ్డీలో వడ్డీ మీ డబ్బులో కలుస్తుంది, తర్వాత దాని మీద కూడా వడ్డీ వస్తుంది. దీంతో కాలం గడిచేకొద్దీ పొదుపు వేగంగా పెరుగుతుంది."
+      }
+    },
+    "chapter_slug": "save-credit-card-trap"
+  },
+  {
+    "id": "save-inflation-001",
+    "pillar": "save",
+    "tags": [
+      "inflation"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "What does inflation mean?",
+        "options": [
+          "Prices rise over time, so money buys less",
+          "Prices fall, so money buys more",
+          "Banks pay more interest each year",
+          "Your savings grow by themselves"
+        ],
+        "answer": "A",
+        "explanation": "Inflation is the general rise in prices over time. The same ₹100 buys fewer things later."
+      },
+      "hi": {
+        "prompt": "महंगाई (इन्फ़्लेशन) का क्या मतलब है?",
+        "options": [
+          "समय के साथ दाम बढ़ते हैं, इसलिए पैसों से कम चीज़ें आती हैं",
+          "दाम घटते हैं, इसलिए पैसों से ज़्यादा चीज़ें आती हैं",
+          "बैंक हर साल ज़्यादा ब्याज देते हैं",
+          "आपकी बचत अपने आप बढ़ती है"
+        ],
+        "answer": "A",
+        "explanation": "महंगाई का मतलब है समय के साथ चीज़ों के दामों का आम तौर पर बढ़ना। वही ₹100 बाद में कम चीज़ें खरीद पाते हैं।"
+      },
+      "te": {
+        "prompt": "ద్రవ్యోల్బణం (ఇన్‌ఫ్లేషన్) అంటే ఏమిటి?",
+        "options": [
+          "కాలంతో పాటు ధరలు పెరుగుతాయి, కాబట్టి డబ్బుతో తక్కువ వస్తాయి",
+          "ధరలు తగ్గుతాయి, కాబట్టి డబ్బుతో ఎక్కువ వస్తాయి",
+          "బ్యాంకులు ప్రతి సంవత్సరం ఎక్కువ వడ్డీ ఇస్తాయి",
+          "మీ పొదుపు దానంతట అదే పెరుగుతుంది"
+        ],
+        "answer": "A",
+        "explanation": "ద్రవ్యోల్బణం అంటే కాలంతో పాటు ధరలు మొత్తంగా పెరగడం. అదే ₹100తో తర్వాత తక్కువ వస్తువులు వస్తాయి."
+      }
+    },
+    "chapter_slug": "invest-inflation"
+  },
+  {
+    "id": "save-inflation-002",
+    "pillar": "save",
+    "tags": [
+      "inflation"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "A samosa cost ₹10 five years ago. Today the same samosa costs ₹15. What is this an example of?",
+        "options": [
+          "Simple interest",
+          "Inflation",
+          "Compound interest",
+          "Saving"
+        ],
+        "answer": "B",
+        "explanation": "The same item now costs more rupees, which is inflation. Your money buys less than it did before."
+      },
+      "hi": {
+        "prompt": "पाँच साल पहले एक समोसा ₹10 का था। आज वही समोसा ₹15 का है। यह किसका उदाहरण है?",
+        "options": [
+          "साधारण ब्याज",
+          "महंगाई",
+          "चक्रवृद्धि ब्याज",
+          "बचत"
+        ],
+        "answer": "B",
+        "explanation": "वही चीज़ अब ज़्यादा रुपयों में मिलती है, यही महंगाई है। आपके पैसों से अब पहले से कम चीज़ें आती हैं।"
+      },
+      "te": {
+        "prompt": "ఐదేళ్ల క్రితం ఒక సమోసా ₹10. ఇప్పుడు అదే సమోసా ₹15. ఇది దేనికి ఉదాహరణ?",
+        "options": [
+          "సాధారణ వడ్డీ",
+          "ద్రవ్యోల్బణం",
+          "చక్రవడ్డీ",
+          "పొదుపు"
+        ],
+        "answer": "B",
+        "explanation": "అదే వస్తువుకి ఇప్పుడు ఎక్కువ రూపాయలు కట్టాలి, అదే ద్రవ్యోల్బణం. మీ డబ్బుతో ఇప్పుడు ముందుకంటే తక్కువ వస్తాయి."
+      }
+    },
+    "chapter_slug": "invest-inflation"
+  },
+  {
+    "id": "save-savings-goals-002",
+    "pillar": "save",
+    "tags": [
+      "savings-goals"
+    ],
+    "tier": "bronze",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Kiran wants a ₹1,500 cricket bat. Which of these is a clear savings goal?",
+        "options": [
+          "Save some money sometime this year",
+          "Save whatever is left each month",
+          "Save ₹300 a month for 5 months",
+          "Borrow the money from friends"
+        ],
+        "answer": "C",
+        "explanation": "A clear goal names the amount, the time and the monthly step. ₹300 × 5 months = ₹1,500."
+      },
+      "hi": {
+        "prompt": "किरण को ₹1,500 का क्रिकेट बैट चाहिए। इनमें से कौन-सा साफ़ बचत लक्ष्य है?",
+        "options": [
+          "इस साल कभी कुछ पैसे बचाना",
+          "हर महीने जो बचे, वो बचाना",
+          "5 महीने तक हर महीने ₹300 बचाना",
+          "दोस्तों से पैसे उधार लेना"
+        ],
+        "answer": "C",
+        "explanation": "साफ़ लक्ष्य में रकम, समय और हर महीने का कदम तय होता है। ₹300 × 5 महीने = ₹1,500।"
+      },
+      "te": {
+        "prompt": "కిరణ్‌కి ₹1,500 క్రికెట్ బ్యాట్ కావాలి. వీటిలో స్పష్టమైన సేవింగ్స్ గోల్ ఏది?",
+        "options": [
+          "ఈ సంవత్సరం ఎప్పుడో కొంత డబ్బు దాచడం",
+          "ప్రతి నెలా మిగిలింది దాచడం",
+          "5 నెలల పాటు నెలకు ₹300 దాచడం",
+          "ఫ్రెండ్స్ దగ్గర అప్పు తీసుకోవడం"
+        ],
+        "answer": "C",
+        "explanation": "స్పష్టమైన గోల్‌లో మొత్తం, సమయం, నెలనెలా వేయాల్సిన అడుగు ఉంటాయి. ₹300 × 5 నెలలు = ₹1,500."
+      }
+    }
+  },
+  {
+    "id": "save-compound-interest-002",
+    "pillar": "save",
+    "tags": [
+      "compound-interest"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "reel_id": "save-compounding",
+    "content": {
+      "en": {
+        "prompt": "In the reel, two Mortys each save ₹500 a month until 58. One starts at 18, one at 28. Why does Early Morty end with far more?",
+        "options": [
+          "He got a much higher interest rate",
+          "He saved far more money each month",
+          "Late Morty took out his savings early",
+          "His money had ten more years to compound"
+        ],
+        "answer": "D",
+        "explanation": "Both saved the same ₹500 at the same assumed rate, but Early Morty's returns had more years to earn returns of their own. Time is what made his money snowball."
+      },
+      "hi": {
+        "prompt": "रील में दो Morty 58 साल की उम्र तक हर महीने ₹500 बचाते हैं। एक 18 साल में शुरू करता है, दूसरा 28 में। आखिर में Early Morty के पास कहीं ज़्यादा पैसे क्यों होते हैं?",
+        "options": [
+          "उसे बहुत ज़्यादा ब्याज दर मिली",
+          "उसने हर महीने कहीं ज़्यादा पैसे बचाए",
+          "Late Morty ने अपनी बचत जल्दी निकाल ली",
+          "उसके पैसों को कंपाउंड होने के लिए दस साल ज़्यादा मिले"
+        ],
+        "answer": "D",
+        "explanation": "दोनों ने एक ही मानी गई दर पर ₹500 बचाए, लेकिन Early Morty के रिटर्न को खुद रिटर्न कमाने के लिए ज़्यादा साल मिले। समय की वजह से ही उसका पैसा स्नोबॉल की तरह बढ़ा।"
+      },
+      "te": {
+        "prompt": "రీల్‌లో ఇద్దరు Mortyలు 58 ఏళ్ల వరకు నెలకు ₹500 చొప్పున దాచుకుంటారు. ఒకరు 18 ఏళ్లకు, మరొకరు 28 ఏళ్లకు మొదలుపెడతారు. చివరికి Early Morty దగ్గర ఎందుకు చాలా ఎక్కువ ఉంటుంది?",
+        "options": [
+          "అతనికి చాలా ఎక్కువ వడ్డీ రేటు వచ్చింది",
+          "అతను నెలకు చాలా ఎక్కువ డబ్బు దాచాడు",
+          "Late Morty తన పొదుపుని ముందే తీసేశాడు",
+          "అతని డబ్బుకి కాంపౌండ్ అవ్వడానికి పది సంవత్సరాలు ఎక్కువ దొరికాయి"
+        ],
+        "answer": "D",
+        "explanation": "ఇద్దరూ ఒకే అంచనా రేటుతో అదే ₹500 దాచారు, కానీ Early Morty రిటర్న్స్‌కి సొంతంగా రిటర్న్స్ సంపాదించడానికి ఎక్కువ సంవత్సరాలు దొరికాయి. అతని డబ్బు స్నోబాల్‌లా పెరగడానికి కారణం సమయమే."
+      }
+    }
+  },
+  {
+    "id": "save-emergency-fund-006",
+    "pillar": "save",
+    "tags": [
+      "emergency-fund"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Riya has ₹2,000 in her emergency fund. Her friends plan a ₹1,500 day trip next month. What should she do?",
+        "options": [
+          "Keep the fund and save separately for the trip",
+          "Use the fund, since she can refill it",
+          "Use half the fund and borrow the rest",
+          "Close the fund to have more fun money"
+        ],
+        "answer": "A",
+        "explanation": "A planned trip is not an emergency, so it needs its own savings. Keeping the fund untouched means she is still ready for real surprises."
+      },
+      "hi": {
+        "prompt": "रिया के इमरजेंसी फ़ंड में ₹2,000 हैं। उसके दोस्त अगले महीने ₹1,500 की एक दिन की ट्रिप का प्लान बना रहे हैं। उसे क्या करना चाहिए?",
+        "options": [
+          "फ़ंड को रहने दे और ट्रिप के लिए अलग से बचाए",
+          "फ़ंड इस्तेमाल करे, क्योंकि बाद में फिर भर सकती है",
+          "आधा फ़ंड इस्तेमाल करे और बाकी उधार ले",
+          "मौज-मस्ती के लिए ज़्यादा पैसे पाने को फ़ंड बंद कर दे"
+        ],
+        "answer": "A",
+        "explanation": "प्लान की हुई ट्रिप इमरजेंसी नहीं है, इसलिए उसके लिए अलग बचत चाहिए। फ़ंड को बिना छुए रखने से वह असली मुसीबतों के लिए तैयार रहती है।"
+      },
+      "te": {
+        "prompt": "రియా ఎమర్జెన్సీ ఫండ్‌లో ₹2,000 ఉన్నాయి. వచ్చే నెల ఆమె ఫ్రెండ్స్ ₹1,500 ఖర్చయ్యే ఒక రోజు ట్రిప్ ప్లాన్ చేస్తున్నారు. ఆమె ఏం చేయాలి?",
+        "options": [
+          "ఫండ్‌ని అలాగే ఉంచి, ట్రిప్ కోసం వేరుగా దాచాలి",
+          "ఫండ్ వాడేయాలి, తర్వాత మళ్లీ నింపొచ్చు కదా",
+          "సగం ఫండ్ వాడి, మిగతాది అప్పు తీసుకోవాలి",
+          "ఎంజాయ్ చేయడానికి ఎక్కువ డబ్బు కోసం ఫండ్ మూసేయాలి"
+        ],
+        "answer": "A",
+        "explanation": "ప్లాన్ చేసిన ట్రిప్ ఎమర్జెన్సీ కాదు, కాబట్టి దానికి వేరే పొదుపు కావాలి. ఫండ్‌ని ముట్టుకోకుండా ఉంచితే, నిజమైన అనుకోని ఖర్చులకి ఆమె సిద్ధంగా ఉంటుంది."
+      }
+    }
+  },
+  {
+    "id": "save-emergency-fund-007",
+    "pillar": "save",
+    "tags": [
+      "emergency-fund"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Kiran used ₹1,000 from her emergency fund to pay for her brother's medicine. What should she do next?",
+        "options": [
+          "Leave it empty since the emergency is over",
+          "Slowly refill the fund from her pocket money",
+          "Stop saving because emergencies are rare",
+          "Spend the rest of the fund too"
+        ],
+        "answer": "B",
+        "explanation": "Emergencies can happen again, so the fund should be built back up. Adding a little each month refills it over time."
+      },
+      "hi": {
+        "prompt": "किरण ने अपने भाई की दवाई के लिए इमरजेंसी फ़ंड से ₹1,000 इस्तेमाल किए। अब उसे क्या करना चाहिए?",
+        "options": [
+          "इमरजेंसी खत्म हो गई, तो फ़ंड खाली ही छोड़ दे",
+          "अपनी पॉकेट मनी से धीरे-धीरे फ़ंड फिर से भरे",
+          "बचत बंद कर दे, क्योंकि इमरजेंसी कम ही आती हैं",
+          "बाकी फ़ंड भी खर्च कर दे"
+        ],
+        "answer": "B",
+        "explanation": "इमरजेंसी फिर से आ सकती है, इसलिए फ़ंड को दोबारा भरना चाहिए। हर महीने थोड़ा-थोड़ा डालने से यह समय के साथ फिर भर जाता है।"
+      },
+      "te": {
+        "prompt": "కిరణ్ తన తమ్ముడి మందుల కోసం ఎమర్జెన్సీ ఫండ్ నుంచి ₹1,000 వాడింది. తర్వాత ఆమె ఏం చేయాలి?",
+        "options": [
+          "ఎమర్జెన్సీ అయిపోయింది కాబట్టి ఫండ్‌ని ఖాళీగా వదిలేయాలి",
+          "తన పాకెట్ మనీ నుంచి నెమ్మదిగా ఫండ్‌ని మళ్లీ నింపాలి",
+          "ఎమర్జెన్సీలు అరుదు కాబట్టి దాచడం ఆపేయాలి",
+          "మిగతా ఫండ్ కూడా ఖర్చు పెట్టేయాలి"
+        ],
+        "answer": "B",
+        "explanation": "ఎమర్జెన్సీలు మళ్లీ రావచ్చు, కాబట్టి ఫండ్‌ని మళ్లీ పెంచుకోవాలి. ప్రతి నెలా కొంచెం కొంచెం వేస్తే, కొంత కాలానికి అది మళ్లీ నిండుతుంది."
+      }
+    }
+  },
+  {
+    "id": "save-emergency-fund-008",
+    "pillar": "save",
+    "tags": [
+      "emergency-fund",
+      "bank-accounts"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Where is the best place to keep an emergency fund?",
+        "options": [
+          "A 5-year deposit that is hard to break",
+          "Lent to a friend who will return it",
+          "A savings account you can use quickly",
+          "In things whose price goes up and down"
+        ],
+        "answer": "C",
+        "explanation": "Emergency money must be safe and ready the same day you need it. A savings account gives quick access without the value going up and down."
+      },
+      "hi": {
+        "prompt": "इमरजेंसी फ़ंड रखने की सबसे अच्छी जगह कौन-सी है?",
+        "options": [
+          "5 साल का डिपॉज़िट, जिसे तोड़ना मुश्किल हो",
+          "किसी दोस्त को उधार, जो लौटा देगा",
+          "सेविंग्स अकाउंट, जिससे जल्दी पैसे निकाल सकें",
+          "ऐसी चीज़ों में, जिनकी कीमत ऊपर-नीचे होती रहती है"
+        ],
+        "answer": "C",
+        "explanation": "इमरजेंसी का पैसा सुरक्षित होना चाहिए और जिस दिन ज़रूरत हो, उसी दिन मिल जाना चाहिए। सेविंग्स अकाउंट से पैसे जल्दी मिलते हैं और उसकी कीमत ऊपर-नीचे नहीं होती।"
+      },
+      "te": {
+        "prompt": "ఎమర్జెన్సీ ఫండ్ ఉంచడానికి అన్నిటికంటే మంచి చోటు ఏది?",
+        "options": [
+          "తీయడం కష్టమైన 5 ఏళ్ల డిపాజిట్",
+          "తిరిగి ఇస్తానన్న ఫ్రెండ్‌కి అప్పుగా",
+          "త్వరగా వాడుకోగలిగే సేవింగ్స్ అకౌంట్",
+          "ధర పెరుగుతూ తగ్గుతూ ఉండే వాటిలో"
+        ],
+        "answer": "C",
+        "explanation": "ఎమర్జెన్సీ డబ్బు భద్రంగా ఉండాలి, అవసరమైన రోజే చేతికి అందాలి. సేవింగ్స్ అకౌంట్‌లో విలువ పెరగడం తగ్గడం లేకుండా, త్వరగా డబ్బు తీసుకోవచ్చు."
+      }
+    }
+  },
+  {
+    "id": "save-savings-goals-003",
+    "pillar": "save",
+    "tags": [
+      "savings-goals"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Meena wants ₹3,600 for a school trip in 6 months. How much should she save each month?",
+        "options": [
+          "₹300",
+          "₹500",
+          "₹600",
+          "₹720"
+        ],
+        "answer": "C",
+        "explanation": "Divide the goal by the months: ₹3,600 ÷ 6 = ₹600. Saving that each month gets her there on time."
+      },
+      "hi": {
+        "prompt": "मीना को 6 महीने में स्कूल ट्रिप के लिए ₹3,600 चाहिए। उसे हर महीने कितना बचाना चाहिए?",
+        "options": [
+          "₹300",
+          "₹500",
+          "₹600",
+          "₹720"
+        ],
+        "answer": "C",
+        "explanation": "लक्ष्य को महीनों से भाग दें: ₹3,600 ÷ 6 = ₹600। हर महीने इतना बचाने से उसका लक्ष्य समय पर पूरा हो जाएगा।"
+      },
+      "te": {
+        "prompt": "మీనాకి 6 నెలల్లో స్కూల్ ట్రిప్ కోసం ₹3,600 కావాలి. ఆమె ప్రతి నెలా ఎంత దాచాలి?",
+        "options": [
+          "₹300",
+          "₹500",
+          "₹600",
+          "₹720"
+        ],
+        "answer": "C",
+        "explanation": "గోల్‌ని నెలలతో భాగించండి: ₹3,600 ÷ 6 = ₹600. ప్రతి నెలా అంత దాచితే ఆమె సమయానికి గోల్ చేరుకుంటుంది."
+      }
+    }
+  },
+  {
+    "id": "save-savings-goals-004",
+    "pillar": "save",
+    "tags": [
+      "savings-goals"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Rahul gets ₹1,000 pocket money a month and wants to save for headphones. Which habit will help him most?",
+        "options": [
+          "Save whatever is left at the end",
+          "Save only in months he spends less",
+          "Decide each week if he feels like saving",
+          "Put ₹200 aside the day he gets the money"
+        ],
+        "answer": "D",
+        "explanation": "Saving first, on the day money comes in, makes saving automatic. Waiting until month end often leaves nothing to save."
+      },
+      "hi": {
+        "prompt": "राहुल को हर महीने ₹1,000 पॉकेट मनी मिलती है और वह हेडफ़ोन के लिए बचाना चाहता है। कौन-सी आदत उसकी सबसे ज़्यादा मदद करेगी?",
+        "options": [
+          "महीने के आखिर में जो बचे, वो बचाना",
+          "सिर्फ़ उन महीनों में बचाना जब कम खर्च हो",
+          "हर हफ़्ते तय करना कि बचाने का मन है या नहीं",
+          "पैसे मिलते ही उसी दिन ₹200 अलग रख देना"
+        ],
+        "answer": "D",
+        "explanation": "पैसे आते ही उसी दिन पहले बचत करने से बचत अपने आप होने लगती है। महीने के आखिर तक इंतज़ार करने पर अक्सर बचाने को कुछ नहीं बचता।"
+      },
+      "te": {
+        "prompt": "రాహుల్‌కి నెలకు ₹1,000 పాకెట్ మనీ వస్తుంది, హెడ్‌ఫోన్స్ కోసం దాచాలనుకుంటున్నాడు. ఏ అలవాటు అతనికి ఎక్కువగా సాయపడుతుంది?",
+        "options": [
+          "నెలాఖరుకు మిగిలింది దాచడం",
+          "తక్కువ ఖర్చు చేసిన నెలల్లో మాత్రమే దాచడం",
+          "దాచాలని అనిపిస్తుందో లేదో ప్రతి వారం నిర్ణయించుకోవడం",
+          "డబ్బు వచ్చిన రోజే ₹200 పక్కన పెట్టడం"
+        ],
+        "answer": "D",
+        "explanation": "డబ్బు వచ్చిన రోజే ముందుగా దాచేస్తే, పొదుపు దానంతట అదే జరిగిపోతుంది. నెలాఖరు వరకు ఆగితే చాలాసార్లు దాచడానికి ఏమీ మిగలదు."
+      }
+    }
+  },
+  {
+    "id": "save-bank-accounts-004",
+    "pillar": "save",
+    "tags": [
+      "bank-accounts"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Sana keeps her ₹5,000 birthday savings in a tin at home. Compared with a savings account, what is she missing?",
+        "options": [
+          "The chance to double it every year",
+          "Safety and the interest the bank would pay",
+          "Free money the bank gives every month",
+          "Nothing, a tin works the same"
+        ],
+        "answer": "B",
+        "explanation": "In a bank, her money is protected and earns interest. In a tin it can be lost or stolen and never grows."
+      },
+      "hi": {
+        "prompt": "सना अपने जन्मदिन पर मिले ₹5,000 घर पर एक डिब्बे में रखती है। सेविंग्स अकाउंट की तुलना में उसे क्या नहीं मिल रहा?",
+        "options": [
+          "हर साल पैसे दोगुने करने का मौका",
+          "सुरक्षा और बैंक से मिलने वाला ब्याज",
+          "बैंक से हर महीने मिलने वाले मुफ़्त पैसे",
+          "कुछ नहीं, डिब्बा भी उतना ही अच्छा है"
+        ],
+        "answer": "B",
+        "explanation": "बैंक में उसके पैसे सुरक्षित रहते हैं और उन पर ब्याज मिलता है। डिब्बे में वे खो सकते हैं या चोरी हो सकते हैं, और कभी बढ़ते नहीं।"
+      },
+      "te": {
+        "prompt": "సనా తన బర్త్‌డే పొదుపు ₹5,000ని ఇంట్లో ఒక డబ్బాలో ఉంచుతుంది. సేవింగ్స్ అకౌంట్‌తో పోలిస్తే ఆమె ఏం కోల్పోతోంది?",
+        "options": [
+          "ప్రతి సంవత్సరం దాన్ని రెట్టింపు చేసుకునే అవకాశం",
+          "భద్రత, బ్యాంక్ ఇచ్చే వడ్డీ",
+          "బ్యాంక్ ప్రతి నెలా ఇచ్చే ఫ్రీ డబ్బు",
+          "ఏమీ లేదు, డబ్బా కూడా అలాగే పనిచేస్తుంది"
+        ],
+        "answer": "B",
+        "explanation": "బ్యాంక్‌లో ఆమె డబ్బు భద్రంగా ఉంటుంది, వడ్డీ కూడా వస్తుంది. డబ్బాలో అయితే పోవచ్చు లేదా దొంగతనం కావచ్చు, ఎప్పటికీ పెరగదు."
+      }
+    }
+  },
+  {
+    "id": "save-bank-accounts-005",
+    "pillar": "save",
+    "tags": [
+      "bank-accounts"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Vikram will not touch ₹10,000 for 2 years. Why might an FD suit him better than a savings account?",
+        "options": [
+          "FDs let you take money out any time free",
+          "FDs always double your money in 2 years",
+          "FDs usually pay more interest for a locked period",
+          "FDs pay no interest but are safer"
+        ],
+        "answer": "C",
+        "explanation": "An FD usually offers a higher rate because you agree to leave the money for a fixed time. Since Vikram does not need it soon, he can accept that lock."
+      },
+      "hi": {
+        "prompt": "विक्रम ₹10,000 को 2 साल तक हाथ नहीं लगाएगा। उसके लिए सेविंग्स अकाउंट से FD बेहतर क्यों हो सकती है?",
+        "options": [
+          "FD से कभी भी मुफ़्त में पैसे निकाल सकते हैं",
+          "FD हमेशा 2 साल में पैसे दोगुने कर देती है",
+          "तय समय के लिए पैसे रखने पर FD आमतौर पर ज़्यादा ब्याज देती है",
+          "FD पर ब्याज नहीं मिलता, लेकिन यह ज़्यादा सुरक्षित है"
+        ],
+        "answer": "C",
+        "explanation": "FD आमतौर पर ज़्यादा ब्याज दर देती है, क्योंकि आप तय समय तक पैसे न निकालने के लिए राज़ी होते हैं। विक्रम को ये पैसे जल्दी नहीं चाहिए, इसलिए वह यह शर्त मान सकता है।"
+      },
+      "te": {
+        "prompt": "విక్రమ్ ₹10,000ని 2 సంవత్సరాల వరకు ముట్టుకోడు. అతనికి సేవింగ్స్ అకౌంట్ కంటే FD ఎందుకు బాగా సరిపోవచ్చు?",
+        "options": [
+          "FD నుంచి ఎప్పుడైనా ఫ్రీగా డబ్బు తీసుకోవచ్చు",
+          "FD ఎప్పుడూ 2 ఏళ్లలో డబ్బుని రెట్టింపు చేస్తుంది",
+          "లాక్ చేసిన కాలానికి FD సాధారణంగా ఎక్కువ వడ్డీ ఇస్తుంది",
+          "FD వడ్డీ ఇవ్వదు, కానీ ఎక్కువ సురక్షితం"
+        ],
+        "answer": "C",
+        "explanation": "నిర్ణీత కాలం డబ్బు తీయకుండా ఉంచుతామని ఒప్పుకుంటాం కాబట్టి, FD సాధారణంగా ఎక్కువ రేటు ఇస్తుంది. విక్రమ్‌కి ఆ డబ్బు త్వరలో అవసరం లేదు కాబట్టి, ఆ లాక్‌కి అతను ఒప్పుకోవచ్చు."
+      }
+    }
+  },
+  {
+    "id": "save-bank-accounts-006",
+    "pillar": "save",
+    "tags": [
+      "bank-accounts"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Divya's savings account balance went up by ₹25, but she deposited nothing. What is the most likely reason?",
+        "options": [
+          "Someone sent her money by mistake",
+          "The bank gave her a loan",
+          "Prices in the market went down",
+          "The bank added interest to her account"
+        ],
+        "answer": "D",
+        "explanation": "Banks add interest to savings accounts from time to time. That small increase is the bank paying her for keeping money there."
+      },
+      "hi": {
+        "prompt": "दिव्या के सेविंग्स अकाउंट का बैलेंस ₹25 बढ़ गया, जबकि उसने कुछ जमा नहीं किया। इसकी सबसे संभावित वजह क्या है?",
+        "options": [
+          "किसी ने गलती से उसे पैसे भेज दिए",
+          "बैंक ने उसे लोन दे दिया",
+          "बाज़ार में दाम कम हो गए",
+          "बैंक ने उसके अकाउंट में ब्याज जोड़ा"
+        ],
+        "answer": "D",
+        "explanation": "बैंक समय-समय पर सेविंग्स अकाउंट में ब्याज जोड़ते हैं। यह छोटी-सी बढ़त वही रकम है जो बैंक उसे पैसे रखने के बदले दे रहा है।"
+      },
+      "te": {
+        "prompt": "దివ్య సేవింగ్స్ అకౌంట్ బ్యాలెన్స్ ₹25 పెరిగింది, కానీ ఆమె ఏమీ డిపాజిట్ చేయలేదు. దీనికి అసలు కారణం ఏమై ఉండొచ్చు?",
+        "options": [
+          "ఎవరో పొరపాటున ఆమెకి డబ్బు పంపారు",
+          "బ్యాంక్ ఆమెకి లోన్ ఇచ్చింది",
+          "మార్కెట్‌లో ధరలు తగ్గాయి",
+          "బ్యాంక్ ఆమె అకౌంట్‌లో వడ్డీ కలిపింది"
+        ],
+        "answer": "D",
+        "explanation": "బ్యాంకులు అప్పుడప్పుడు సేవింగ్స్ అకౌంట్లలో వడ్డీ కలుపుతాయి. ఆ చిన్న పెరుగుదల, డబ్బు తమ దగ్గర ఉంచినందుకు బ్యాంక్ ఆమెకి ఇచ్చినదే."
+      }
+    }
+  },
+  {
+    "id": "save-simple-interest-003",
+    "pillar": "save",
+    "tags": [
+      "simple-interest"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Priya puts ₹1,000 in a deposit at 5% simple interest a year. How much interest does she earn in 1 year? (Assume the rate stays fixed.)",
+        "options": [
+          "₹5",
+          "₹50",
+          "₹500",
+          "₹1,050"
+        ],
+        "answer": "B",
+        "explanation": "5% of ₹1,000 is ₹50. ₹1,050 is the total amount, not the interest."
+      },
+      "hi": {
+        "prompt": "प्रिया ₹1,000 एक डिपॉज़िट में 5% सालाना साधारण ब्याज पर रखती है। 1 साल में उसे कितना ब्याज मिलेगा? (मान लें कि दर तय रहती है।)",
+        "options": [
+          "₹5",
+          "₹50",
+          "₹500",
+          "₹1,050"
+        ],
+        "answer": "B",
+        "explanation": "₹1,000 का 5% ₹50 है। ₹1,050 कुल रकम है, ब्याज नहीं।"
+      },
+      "te": {
+        "prompt": "ప్రియ ₹1,000ని సంవత్సరానికి 5% సాధారణ వడ్డీకి డిపాజిట్ చేసింది. 1 సంవత్సరంలో ఆమెకి ఎంత వడ్డీ వస్తుంది? (రేటు మారదని అనుకోండి.)",
+        "options": [
+          "₹5",
+          "₹50",
+          "₹500",
+          "₹1,050"
+        ],
+        "answer": "B",
+        "explanation": "₹1,000లో 5% అంటే ₹50. ₹1,050 మొత్తం సొమ్ము, వడ్డీ కాదు."
+      }
+    }
+  },
+  {
+    "id": "save-simple-interest-004",
+    "pillar": "save",
+    "tags": [
+      "simple-interest"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Two deposits pay simple interest on ₹5,000 for 1 year: one at 4%, one at 6%. How much more does the 6% one earn?",
+        "options": [
+          "₹2",
+          "₹100",
+          "₹200",
+          "₹300"
+        ],
+        "answer": "B",
+        "explanation": "At 4% you earn ₹200 and at 6% you earn ₹300. The difference is ₹100."
+      },
+      "hi": {
+        "prompt": "दो डिपॉज़िट ₹5,000 पर 1 साल के लिए साधारण ब्याज देते हैं: एक 4% पर, दूसरा 6% पर। 6% वाले पर कितना ज़्यादा मिलता है?",
+        "options": [
+          "₹2",
+          "₹100",
+          "₹200",
+          "₹300"
+        ],
+        "answer": "B",
+        "explanation": "4% पर ₹200 मिलते हैं और 6% पर ₹300। फ़र्क ₹100 है।"
+      },
+      "te": {
+        "prompt": "రెండు డిపాజిట్లు ₹5,000 మీద 1 సంవత్సరానికి సాధారణ వడ్డీ ఇస్తాయి: ఒకటి 4%, మరొకటి 6%. 6% దానికి ఎంత ఎక్కువ వస్తుంది?",
+        "options": [
+          "₹2",
+          "₹100",
+          "₹200",
+          "₹300"
+        ],
+        "answer": "B",
+        "explanation": "4%కి ₹200, 6%కి ₹300 వస్తాయి. తేడా ₹100."
+      }
+    }
+  },
+  {
+    "id": "save-compound-interest-003",
+    "pillar": "save",
+    "tags": [
+      "compound-interest"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Ankit and Neha each deposit ₹1,000 at the same rate. Ankit takes out his interest every year; Neha leaves hers in. Who has more after 5 years?",
+        "options": [
+          "Neha, because her interest also earns interest",
+          "Ankit, because he took money out often",
+          "Both have the same total",
+          "Ankit, because withdrawals add bonus interest"
+        ],
+        "answer": "A",
+        "explanation": "Neha's interest stays in and earns more interest, so her money compounds. Ankit's money stays at ₹1,000, so it only earns simple interest."
+      },
+      "hi": {
+        "prompt": "अंकित और नेहा दोनों एक ही दर पर ₹1,000 जमा करते हैं। अंकित हर साल अपना ब्याज निकाल लेता है; नेहा अपना ब्याज अंदर ही रहने देती है। 5 साल बाद किसके पास ज़्यादा होगा?",
+        "options": [
+          "नेहा, क्योंकि उसके ब्याज पर भी ब्याज मिलता है",
+          "अंकित, क्योंकि उसने बार-बार पैसे निकाले",
+          "दोनों के पास बराबर कुल रकम होगी",
+          "अंकित, क्योंकि पैसे निकालने पर बोनस ब्याज मिलता है"
+        ],
+        "answer": "A",
+        "explanation": "नेहा का ब्याज अंदर रहता है और उस पर और ब्याज मिलता है, इसलिए उसका पैसा कंपाउंड होता है। अंकित का पैसा ₹1,000 ही रहता है, इसलिए उसे सिर्फ़ साधारण ब्याज मिलता है।"
+      },
+      "te": {
+        "prompt": "అంకిత్, నేహా ఇద్దరూ ఒకే రేటుకి చెరో ₹1,000 డిపాజిట్ చేశారు. అంకిత్ ప్రతి సంవత్సరం తన వడ్డీ తీసేసుకుంటాడు; నేహా తనది అలాగే ఉంచుతుంది. 5 సంవత్సరాల తర్వాత ఎవరి దగ్గర ఎక్కువ ఉంటుంది?",
+        "options": [
+          "నేహా, ఎందుకంటే ఆమె వడ్డీ మీద కూడా వడ్డీ వస్తుంది",
+          "అంకిత్, ఎందుకంటే అతను తరచూ డబ్బు తీశాడు",
+          "ఇద్దరి దగ్గర మొత్తం ఒకటే",
+          "అంకిత్, ఎందుకంటే డబ్బు తీస్తే బోనస్ వడ్డీ వస్తుంది"
+        ],
+        "answer": "A",
+        "explanation": "నేహా వడ్డీ అకౌంట్‌లోనే ఉండి మరింత వడ్డీ సంపాదిస్తుంది, కాబట్టి ఆమె డబ్బు కాంపౌండ్ అవుతుంది. అంకిత్ డబ్బు ₹1,000 దగ్గరే ఉంటుంది, కాబట్టి అతనికి సాధారణ వడ్డీ మాత్రమే వస్తుంది."
+      }
+    },
+    "chapter_slug": "save-credit-card-trap"
+  },
+  {
+    "id": "save-compound-interest-004",
+    "pillar": "save",
+    "tags": [
+      "compound-interest"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Same amount, same yearly rate, same 10 years. Which grows a little more: interest added once a year or every month?",
+        "options": [
+          "Interest added once a year",
+          "Both grow exactly the same",
+          "Neither grows, the rate is the same",
+          "Interest added every month"
+        ],
+        "answer": "D",
+        "explanation": "When interest is added more often, it starts earning interest sooner. So monthly compounding ends slightly higher."
+      },
+      "hi": {
+        "prompt": "वही रकम, वही सालाना दर, वही 10 साल। कौन-सा थोड़ा ज़्यादा बढ़ता है: साल में एक बार जुड़ने वाला ब्याज या हर महीने जुड़ने वाला?",
+        "options": [
+          "साल में एक बार जुड़ने वाला ब्याज",
+          "दोनों बिल्कुल बराबर बढ़ते हैं",
+          "कोई नहीं बढ़ता, दर तो वही है",
+          "हर महीने जुड़ने वाला ब्याज"
+        ],
+        "answer": "D",
+        "explanation": "जब ब्याज ज़्यादा बार जुड़ता है, तो वह जल्दी ब्याज कमाना शुरू कर देता है। इसलिए हर महीने कंपाउंडिंग से आखिर में थोड़ा ज़्यादा पैसा बनता है।"
+      },
+      "te": {
+        "prompt": "అదే మొత్తం, అదే వార్షిక రేటు, అదే 10 సంవత్సరాలు. ఏది కొంచెం ఎక్కువ పెరుగుతుంది: సంవత్సరానికి ఒకసారి కలిపే వడ్డీనా, ప్రతి నెలా కలిపే వడ్డీనా?",
+        "options": [
+          "సంవత్సరానికి ఒకసారి కలిపే వడ్డీ",
+          "రెండూ సరిగ్గా ఒకేలా పెరుగుతాయి",
+          "ఏదీ పెరగదు, రేటు ఒకటే కదా",
+          "ప్రతి నెలా కలిపే వడ్డీ"
+        ],
+        "answer": "D",
+        "explanation": "వడ్డీ ఎంత తరచుగా కలిస్తే, అది అంత త్వరగా వడ్డీ సంపాదించడం మొదలుపెడుతుంది. అందుకే నెలనెలా కాంపౌండింగ్‌తో చివరికి కొంచెం ఎక్కువ వస్తుంది."
+      }
+    },
+    "chapter_slug": "save-credit-card-trap"
+  },
+  {
+    "id": "save-inflation-003",
+    "pillar": "save",
+    "tags": [
+      "inflation"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Prices rise about 6% a year. Lakshmi keeps ₹1,000 in a drawer for a year. What happens to it?",
+        "options": [
+          "Still ₹1,000, but it buys less than before",
+          "It grows to ₹1,060 by itself",
+          "It drops to ₹940 in notes",
+          "Nothing changes at all"
+        ],
+        "answer": "A",
+        "explanation": "The notes stay ₹1,000, but things cost about 6% more. So the same money buys fewer things."
+      },
+      "hi": {
+        "prompt": "दाम हर साल लगभग 6% बढ़ते हैं। लक्ष्मी ₹1,000 एक साल तक दराज़ में रखती है। उन पैसों का क्या होता है?",
+        "options": [
+          "अब भी ₹1,000 हैं, लेकिन उनसे पहले से कम चीज़ें आती हैं",
+          "अपने आप बढ़कर ₹1,060 हो जाते हैं",
+          "नोट घटकर ₹940 रह जाते हैं",
+          "कुछ भी नहीं बदलता"
+        ],
+        "answer": "A",
+        "explanation": "नोट ₹1,000 के ही रहते हैं, लेकिन चीज़ें लगभग 6% महंगी हो जाती हैं। इसलिए उतने ही पैसों से कम चीज़ें आती हैं।"
+      },
+      "te": {
+        "prompt": "ధరలు సంవత్సరానికి సుమారు 6% పెరుగుతాయి. లక్ష్మి ₹1,000ని ఒక సంవత్సరం పాటు డ్రాయర్‌లో ఉంచింది. ఆ డబ్బుకి ఏమవుతుంది?",
+        "options": [
+          "ఇంకా ₹1,000 ఉంటాయి, కానీ ముందుకంటే తక్కువ వస్తువులు వస్తాయి",
+          "దానంతట అదే ₹1,060 అవుతుంది",
+          "నోట్లు ₹940కి తగ్గిపోతాయి",
+          "ఏమీ మారదు"
+        ],
+        "answer": "A",
+        "explanation": "నోట్లు ₹1,000 గానే ఉంటాయి, కానీ వస్తువుల ధరలు సుమారు 6% పెరుగుతాయి. కాబట్టి అదే డబ్బుతో తక్కువ వస్తువులు వస్తాయి."
+      }
+    }
+  },
+  {
+    "id": "save-inflation-004",
+    "pillar": "save",
+    "tags": [
+      "inflation",
+      "bank-accounts"
+    ],
+    "tier": "silver",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Your savings account pays 3% a year, and prices rise 6% a year. What happens to what your savings can buy? (Example rates; real rates vary.)",
+        "options": [
+          "It grows, because you earn interest",
+          "It falls, because prices rise faster than interest",
+          "It stays exactly the same",
+          "It doubles every few years"
+        ],
+        "answer": "B",
+        "explanation": "Your money grows 3% but prices grow 6%, so each year it buys a little less. Interest must beat inflation for buying power to grow."
+      },
+      "hi": {
+        "prompt": "आपका सेविंग्स अकाउंट सालाना 3% ब्याज देता है, और दाम सालाना 6% बढ़ते हैं। आपकी बचत की खरीदने की ताकत का क्या होता है? (ये उदाहरण की दरें हैं; असली दरें अलग-अलग होती हैं।)",
+        "options": [
+          "बढ़ती है, क्योंकि आपको ब्याज मिलता है",
+          "घटती है, क्योंकि दाम ब्याज से तेज़ बढ़ते हैं",
+          "बिल्कुल वैसी ही रहती है",
+          "हर कुछ साल में दोगुनी हो जाती है"
+        ],
+        "answer": "B",
+        "explanation": "आपका पैसा 3% बढ़ता है लेकिन दाम 6% बढ़ते हैं, इसलिए हर साल उससे थोड़ा कम आता है। खरीदने की ताकत बढ़ाने के लिए ब्याज का महंगाई से ज़्यादा होना ज़रूरी है।"
+      },
+      "te": {
+        "prompt": "మీ సేవింగ్స్ అకౌంట్ సంవత్సరానికి 3% ఇస్తుంది, ధరలు సంవత్సరానికి 6% పెరుగుతాయి. మీ పొదుపు కొనుగోలు శక్తికి ఏమవుతుంది? (ఇవి ఉదాహరణ రేట్లు; అసలు రేట్లు మారుతుంటాయి.)",
+        "options": [
+          "పెరుగుతుంది, ఎందుకంటే వడ్డీ వస్తుంది",
+          "తగ్గుతుంది, ఎందుకంటే వడ్డీ కంటే ధరలు వేగంగా పెరుగుతాయి",
+          "సరిగ్గా అలాగే ఉంటుంది",
+          "కొన్నేళ్లకు ఒకసారి రెట్టింపు అవుతుంది"
+        ],
+        "answer": "B",
+        "explanation": "మీ డబ్బు 3% పెరుగుతుంది కానీ ధరలు 6% పెరుగుతాయి, కాబట్టి ప్రతి సంవత్సరం దానితో కొంచెం తక్కువ వస్తుంది. కొనుగోలు శక్తి పెరగాలంటే వడ్డీ ద్రవ్యోల్బణం కంటే ఎక్కువ ఉండాలి."
+      }
+    },
+    "chapter_slug": "invest-inflation"
+  },
+  {
+    "id": "save-simple-interest-005",
+    "pillar": "save",
+    "tags": [
+      "simple-interest"
+    ],
+    "tier": "gold",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "save-magic-of-compounding",
+    "content": {
+      "en": {
+        "prompt": "Anjali puts ₹10,000 in a deposit at 8% simple interest a year for 3 years. What is the total amount at the end? (Assume a fixed rate.)",
+        "options": [
+          "₹2,400",
+          "₹10,800",
+          "₹12,400",
+          "₹12,597"
+        ],
+        "answer": "C",
+        "explanation": "Interest each year is 8% of ₹10,000 = ₹800, so 3 years give ₹2,400. Total = ₹10,000 + ₹2,400 = ₹12,400."
+      },
+      "hi": {
+        "prompt": "अंजलि ₹10,000 एक डिपॉज़िट में 3 साल के लिए 8% सालाना साधारण ब्याज पर रखती है। आखिर में कुल रकम कितनी होगी? (मान लें कि दर तय है।)",
+        "options": [
+          "₹2,400",
+          "₹10,800",
+          "₹12,400",
+          "₹12,597"
+        ],
+        "answer": "C",
+        "explanation": "हर साल का ब्याज ₹10,000 का 8% = ₹800 है, तो 3 साल में ₹2,400 बनता है। कुल = ₹10,000 + ₹2,400 = ₹12,400।"
+      },
+      "te": {
+        "prompt": "అంజలి ₹10,000ని సంవత్సరానికి 8% సాధారణ వడ్డీకి 3 సంవత్సరాలు డిపాజిట్ చేసింది. చివరికి మొత్తం ఎంత అవుతుంది? (రేటు మారదని అనుకోండి.)",
+        "options": [
+          "₹2,400",
+          "₹10,800",
+          "₹12,400",
+          "₹12,597"
+        ],
+        "answer": "C",
+        "explanation": "ప్రతి సంవత్సరం వడ్డీ ₹10,000లో 8% = ₹800, కాబట్టి 3 సంవత్సరాలకి ₹2,400. మొత్తం = ₹10,000 + ₹2,400 = ₹12,400."
+      }
+    }
+  },
+  {
+    "id": "save-compound-interest-005",
+    "pillar": "save",
+    "tags": [
+      "compound-interest"
+    ],
+    "tier": "gold",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "save-magic-of-compounding",
+    "content": {
+      "en": {
+        "prompt": "Suresh deposits ₹10,000 at 10% a year, compounded yearly, for 2 years. How much does he have at the end? (Assume a fixed rate.)",
+        "options": [
+          "₹11,000",
+          "₹12,000",
+          "₹12,100",
+          "₹12,210"
+        ],
+        "answer": "C",
+        "explanation": "Year 1: ₹10,000 + ₹1,000 = ₹11,000. Year 2: ₹11,000 + ₹1,100 = ₹12,100."
+      },
+      "hi": {
+        "prompt": "सुरेश ₹10,000 को 2 साल के लिए 10% सालाना दर पर जमा करता है, और ब्याज हर साल कंपाउंड होता है। आखिर में उसके पास कितने होंगे? (मान लें कि दर तय है।)",
+        "options": [
+          "₹11,000",
+          "₹12,000",
+          "₹12,100",
+          "₹12,210"
+        ],
+        "answer": "C",
+        "explanation": "साल 1: ₹10,000 + ₹1,000 = ₹11,000। साल 2: ₹11,000 + ₹1,100 = ₹12,100।"
+      },
+      "te": {
+        "prompt": "సురేష్ ₹10,000ని సంవత్సరానికి 10% రేటుకి, ఏటా కాంపౌండ్ అయ్యేలా, 2 సంవత్సరాలు డిపాజిట్ చేశాడు. చివరికి అతని దగ్గర ఎంత ఉంటుంది? (రేటు మారదని అనుకోండి.)",
+        "options": [
+          "₹11,000",
+          "₹12,000",
+          "₹12,100",
+          "₹12,210"
+        ],
+        "answer": "C",
+        "explanation": "1వ సంవత్సరం: ₹10,000 + ₹1,000 = ₹11,000. 2వ సంవత్సరం: ₹11,000 + ₹1,100 = ₹12,100."
+      }
+    }
+  },
+  {
+    "id": "save-compound-interest-006",
+    "pillar": "save",
+    "tags": [
+      "compound-interest",
+      "simple-interest"
+    ],
+    "tier": "gold",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "save-magic-of-compounding",
+    "content": {
+      "en": {
+        "prompt": "₹5,000 is kept for 2 years at 10% a year. How much more interest does compound interest earn than simple interest? (Assume yearly compounding.)",
+        "options": [
+          "₹0",
+          "₹50",
+          "₹100",
+          "₹500"
+        ],
+        "answer": "B",
+        "explanation": "Simple interest gives ₹500 + ₹500 = ₹1,000. Compound gives ₹500 + ₹550 = ₹1,050, which is ₹50 more."
+      },
+      "hi": {
+        "prompt": "₹5,000 को 10% सालाना दर पर 2 साल के लिए रखा जाता है। चक्रवृद्धि ब्याज, साधारण ब्याज से कितना ज़्यादा ब्याज देता है? (मान लें कि ब्याज हर साल कंपाउंड होता है।)",
+        "options": [
+          "₹0",
+          "₹50",
+          "₹100",
+          "₹500"
+        ],
+        "answer": "B",
+        "explanation": "साधारण ब्याज से ₹500 + ₹500 = ₹1,000 मिलते हैं। चक्रवृद्धि से ₹500 + ₹550 = ₹1,050 मिलते हैं, यानी ₹50 ज़्यादा।"
+      },
+      "te": {
+        "prompt": "₹5,000ని సంవత్సరానికి 10% రేటుకి 2 సంవత్సరాలు ఉంచారు. సాధారణ వడ్డీ కంటే చక్రవడ్డీ ఎంత ఎక్కువ వడ్డీ ఇస్తుంది? (ఏటా కాంపౌండ్ అవుతుందని అనుకోండి.)",
+        "options": [
+          "₹0",
+          "₹50",
+          "₹100",
+          "₹500"
+        ],
+        "answer": "B",
+        "explanation": "సాధారణ వడ్డీతో ₹500 + ₹500 = ₹1,000 వస్తుంది. చక్రవడ్డీతో ₹500 + ₹550 = ₹1,050, అంటే ₹50 ఎక్కువ."
+      }
+    }
+  },
+  {
+    "id": "save-inflation-005",
+    "pillar": "save",
+    "tags": [
+      "inflation"
+    ],
+    "tier": "gold",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "reel_id": "save-inflation",
+    "chapter_slug": "save-magic-of-compounding",
+    "content": {
+      "en": {
+        "prompt": "Rick says money that sits still slowly loses value. If prices rise 5% a year, what will ₹200 of groceries cost next year? (Assume 5% exactly.)",
+        "options": [
+          "₹190",
+          "₹200",
+          "₹205",
+          "₹210"
+        ],
+        "answer": "D",
+        "explanation": "5% of ₹200 is ₹10, so the same groceries cost ₹210. ₹200 kept still will no longer buy them."
+      },
+      "hi": {
+        "prompt": "Rick कहता है कि जो पैसा यूँ ही पड़ा रहता है, उसकी कीमत धीरे-धीरे घटती है। अगर दाम हर साल 5% बढ़ें, तो ₹200 का राशन अगले साल कितने का होगा? (मान लें ठीक 5%।)",
+        "options": [
+          "₹190",
+          "₹200",
+          "₹205",
+          "₹210"
+        ],
+        "answer": "D",
+        "explanation": "₹200 का 5% ₹10 है, इसलिए वही राशन ₹210 का होगा। पड़े हुए ₹200 से अब वह राशन नहीं खरीदा जा सकेगा।"
+      },
+      "te": {
+        "prompt": "కదలకుండా ఉన్న డబ్బు నెమ్మదిగా విలువ కోల్పోతుందని Rick అంటాడు. ధరలు సంవత్సరానికి 5% పెరిగితే, ₹200 కిరాణా సామాను వచ్చే ఏడాది ఎంత అవుతుంది? (సరిగ్గా 5% అనుకోండి.)",
+        "options": [
+          "₹190",
+          "₹200",
+          "₹205",
+          "₹210"
+        ],
+        "answer": "D",
+        "explanation": "₹200లో 5% అంటే ₹10, కాబట్టి అదే సామాను ₹210 అవుతుంది. అలాగే ఉంచిన ₹200తో అది ఇక కొనలేరు."
+      }
+    }
+  },
+  {
+    "id": "save-compound-interest-007",
+    "pillar": "save",
+    "tags": [
+      "compound-interest"
+    ],
+    "tier": "gold",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "chapter_slug": "save-magic-of-compounding",
+    "content": {
+      "en": {
+        "prompt": "The rule of 72 says: years to double ≈ 72 ÷ yearly rate. At 8% a year, compounded, about how long until money doubles?",
+        "options": [
+          "About 4 years",
+          "About 9 years",
+          "About 12 years",
+          "About 64 years"
+        ],
+        "answer": "B",
+        "explanation": "72 ÷ 8 = 9, so money roughly doubles in 9 years at 8%. This is a quick estimate, not an exact answer."
+      },
+      "hi": {
+        "prompt": "72 का नियम (रूल ऑफ़ 72) कहता है: पैसे दोगुने होने में लगने वाले साल ≈ 72 ÷ सालाना दर। 8% सालाना कंपाउंड दर पर पैसे लगभग कितने समय में दोगुने होंगे?",
+        "options": [
+          "लगभग 4 साल",
+          "लगभग 9 साल",
+          "लगभग 12 साल",
+          "लगभग 64 साल"
+        ],
+        "answer": "B",
+        "explanation": "72 ÷ 8 = 9, यानी 8% पर पैसे लगभग 9 साल में दोगुने होते हैं। यह एक जल्दी लगाया गया अंदाज़ा है, सटीक जवाब नहीं।"
+      },
+      "te": {
+        "prompt": "రూల్ ఆఫ్ 72 (72 నియమం) ప్రకారం: డబ్బు రెట్టింపు అవ్వడానికి పట్టే సంవత్సరాలు ≈ 72 ÷ వార్షిక రేటు. సంవత్సరానికి 8% కాంపౌండ్ రేటుకి, డబ్బు రెట్టింపు అవ్వడానికి సుమారు ఎంత కాలం పడుతుంది?",
+        "options": [
+          "సుమారు 4 సంవత్సరాలు",
+          "సుమారు 9 సంవత్సరాలు",
+          "సుమారు 12 సంవత్సరాలు",
+          "సుమారు 64 సంవత్సరాలు"
+        ],
+        "answer": "B",
+        "explanation": "72 ÷ 8 = 9, కాబట్టి 8% వద్ద డబ్బు సుమారు 9 సంవత్సరాల్లో రెట్టింపు అవుతుంది. ఇది త్వరగా వేసే అంచనా మాత్రమే, ఖచ్చితమైన జవాబు కాదు."
+      }
+    }
+  },
+  {
+    "id": "save-emergency-fund-009",
+    "pillar": "save",
+    "tags": [
+      "emergency-fund",
+      "savings-goals"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Zoya has ₹5,000 saved and no emergency fund. Her phone works, but she wants a ₹5,000 upgrade. Which choice best balances both needs?",
+        "options": [
+          "Spend all ₹5,000 now on the upgrade",
+          "Never upgrade, since saving is always better",
+          "Keep some as an emergency fund, save more for later",
+          "Buy the phone and borrow if trouble comes"
+        ],
+        "answer": "C",
+        "explanation": "Her phone still works, so the upgrade can wait while she keeps a cushion for surprises. Saving a little more lets her have both, without borrowing later."
+      },
+      "hi": {
+        "prompt": "ज़ोया के पास ₹5,000 की बचत है और कोई इमरजेंसी फ़ंड नहीं है। उसका फ़ोन ठीक चल रहा है, लेकिन वह ₹5,000 का अपग्रेड चाहती है। कौन-सा विकल्प दोनों ज़रूरतों में सबसे अच्छा संतुलन बनाता है?",
+        "options": [
+          "अभी पूरे ₹5,000 अपग्रेड पर खर्च कर दे",
+          "कभी अपग्रेड न करे, क्योंकि बचत हमेशा बेहतर है",
+          "कुछ पैसे इमरजेंसी फ़ंड के रूप में रखे, बाद के लिए और बचाए",
+          "फ़ोन खरीद ले और मुसीबत आए तो उधार ले"
+        ],
+        "answer": "C",
+        "explanation": "उसका फ़ोन अभी चल रहा है, इसलिए अपग्रेड रुक सकता है और तब तक वह अचानक के खर्चों के लिए कुछ पैसे रख सकती है। थोड़ा और बचाकर वह बाद में उधार लिए बिना दोनों चीज़ें पा सकती है।"
+      },
+      "te": {
+        "prompt": "జోయా దగ్గర ₹5,000 పొదుపు ఉంది, ఎమర్జెన్సీ ఫండ్ లేదు. ఆమె ఫోన్ బాగానే పనిచేస్తోంది, కానీ ₹5,000తో అప్‌గ్రేడ్ చేయాలనుకుంటోంది. రెండు అవసరాలనూ బాగా బ్యాలెన్స్ చేసే ఎంపిక ఏది?",
+        "options": [
+          "ఇప్పుడే మొత్తం ₹5,000 అప్‌గ్రేడ్‌కి ఖర్చు పెట్టడం",
+          "పొదుపే ఎప్పుడూ మంచిది కాబట్టి, ఎప్పటికీ అప్‌గ్రేడ్ చేయకపోవడం",
+          "కొంత ఎమర్జెన్సీ ఫండ్‌గా ఉంచి, తర్వాత కోసం ఇంకా దాచడం",
+          "ఫోన్ కొనేసి, కష్టం వస్తే అప్పు చేయడం"
+        ],
+        "answer": "C",
+        "explanation": "ఆమె ఫోన్ ఇంకా పనిచేస్తోంది కాబట్టి అప్‌గ్రేడ్ ఆగొచ్చు, ఈలోగా అనుకోని ఖర్చుల కోసం కొంత ఉంచుకోవచ్చు. ఇంకొంచెం దాచితే, తర్వాత అప్పు చేయకుండానే రెండూ సాధ్యమవుతాయి."
+      }
+    }
+  },
+  {
+    "id": "save-bank-accounts-007",
+    "pillar": "save",
+    "tags": [
+      "bank-accounts"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Rohan may need ₹8,000 any week for his mother's medicine. Why might a savings account suit him better than a 1-year FD, despite lower interest?",
+        "options": [
+          "He can take money out anytime without a penalty",
+          "Savings accounts always pay more than FDs",
+          "FD money can never be taken out",
+          "Savings accounts grow faster with compounding"
+        ],
+        "answer": "A",
+        "explanation": "Breaking an FD early usually means lower interest or a penalty. When money may be needed at short notice, easy access matters more than a slightly higher rate."
+      },
+      "hi": {
+        "prompt": "रोहन को अपनी माँ की दवाई के लिए किसी भी हफ़्ते ₹8,000 की ज़रूरत पड़ सकती है। कम ब्याज के बावजूद, उसके लिए 1 साल की FD से सेविंग्स अकाउंट बेहतर क्यों हो सकता है?",
+        "options": [
+          "वह बिना किसी जुर्माने के कभी भी पैसे निकाल सकता है",
+          "सेविंग्स अकाउंट हमेशा FD से ज़्यादा ब्याज देते हैं",
+          "FD का पैसा कभी निकाला ही नहीं जा सकता",
+          "सेविंग्स अकाउंट कंपाउंडिंग से तेज़ बढ़ते हैं"
+        ],
+        "answer": "A",
+        "explanation": "FD को जल्दी तोड़ने पर आमतौर पर ब्याज कम मिलता है या जुर्माना लगता है। जब पैसों की ज़रूरत अचानक पड़ सकती हो, तो थोड़ी ज़्यादा दर से ज़्यादा ज़रूरी है कि पैसे आसानी से मिल जाएँ।"
+      },
+      "te": {
+        "prompt": "రోహన్‌కి తన అమ్మ మందుల కోసం ఏ వారమైనా ₹8,000 అవసరం కావచ్చు. వడ్డీ తక్కువైనా, 1 సంవత్సరం FD కంటే సేవింగ్స్ అకౌంట్ అతనికి ఎందుకు బాగా సరిపోవచ్చు?",
+        "options": [
+          "ఏ జరిమానా లేకుండా ఎప్పుడైనా డబ్బు తీసుకోవచ్చు",
+          "సేవింగ్స్ అకౌంట్లు ఎప్పుడూ FD కంటే ఎక్కువ వడ్డీ ఇస్తాయి",
+          "FD డబ్బుని ఎప్పటికీ తీయలేరు",
+          "సేవింగ్స్ అకౌంట్లు కాంపౌండింగ్‌తో వేగంగా పెరుగుతాయి"
+        ],
+        "answer": "A",
+        "explanation": "FDని ముందే బ్రేక్ చేస్తే సాధారణంగా వడ్డీ తగ్గుతుంది లేదా జరిమానా పడుతుంది. డబ్బు ఉన్నట్టుండి అవసరమయ్యే అవకాశం ఉంటే, కొంచెం ఎక్కువ రేటు కంటే సులభంగా చేతికి అందడమే ముఖ్యం."
+      }
+    }
+  },
+  {
+    "id": "save-inflation-006",
+    "pillar": "save",
+    "tags": [
+      "inflation",
+      "bank-accounts"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "An FD pays 7% a year and a savings account pays 3%. Prices rise 6% a year. Which is true? (Example rates; real rates vary.)",
+        "options": [
+          "Both grow buying power",
+          "FD buying power grows slightly; savings account's falls",
+          "Both lose buying power",
+          "Savings account grows; FD loses"
+        ],
+        "answer": "B",
+        "explanation": "Buying power grows only when interest beats inflation: 7% beats 6% by a little, but 3% falls 3% behind. So the FD just keeps ahead while the savings account loses ground."
+      },
+      "hi": {
+        "prompt": "एक FD सालाना 7% देती है और एक सेविंग्स अकाउंट 3%। दाम सालाना 6% बढ़ते हैं। कौन-सी बात सही है? (ये उदाहरण की दरें हैं; असली दरें अलग-अलग होती हैं।)",
+        "options": [
+          "दोनों की खरीदने की ताकत बढ़ती है",
+          "FD की खरीदने की ताकत थोड़ी बढ़ती है; सेविंग्स अकाउंट की घटती है",
+          "दोनों की खरीदने की ताकत घटती है",
+          "सेविंग्स अकाउंट की बढ़ती है; FD की घटती है"
+        ],
+        "answer": "B",
+        "explanation": "खरीदने की ताकत तभी बढ़ती है जब ब्याज महंगाई से ज़्यादा हो: 7% थोड़ा-सा 6% से आगे है, लेकिन 3% पूरे 3% पीछे है। इसलिए FD बस आगे बनी रहती है, जबकि सेविंग्स अकाउंट पीछे छूटता जाता है।"
+      },
+      "te": {
+        "prompt": "ఒక FD సంవత్సరానికి 7%, ఒక సేవింగ్స్ అకౌంట్ 3% ఇస్తాయి. ధరలు సంవత్సరానికి 6% పెరుగుతాయి. ఏది నిజం? (ఇవి ఉదాహరణ రేట్లు; అసలు రేట్లు మారుతుంటాయి.)",
+        "options": [
+          "రెండింటి కొనుగోలు శక్తి పెరుగుతుంది",
+          "FD కొనుగోలు శక్తి కొంచెం పెరుగుతుంది; సేవింగ్స్ అకౌంట్‌ది తగ్గుతుంది",
+          "రెండింటి కొనుగోలు శక్తి తగ్గుతుంది",
+          "సేవింగ్స్ అకౌంట్‌ది పెరుగుతుంది; FDది తగ్గుతుంది"
+        ],
+        "answer": "B",
+        "explanation": "వడ్డీ ద్రవ్యోల్బణం కంటే ఎక్కువ ఉన్నప్పుడే కొనుగోలు శక్తి పెరుగుతుంది: 7% అనేది 6% కంటే కొంచెం ముందుంది, కానీ 3% మాత్రం 3% వెనకబడింది. కాబట్టి FD కొద్దిగా ముందుంటుంది, సేవింగ్స్ అకౌంట్ వెనకబడిపోతుంది."
+      }
+    },
+    "chapter_slug": "invest-inflation"
+  },
+  {
+    "id": "save-compound-interest-008",
+    "pillar": "save",
+    "tags": [
+      "compound-interest",
+      "savings-goals"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Isha, 17, can save ₹500 a month from now, or ₹1,000 a month starting at 27. Both stop at 60. Assume 8% a year (not a promise). Which ends bigger?",
+        "options": [
+          "₹1,000 from 27, since she pays in more",
+          "Both end with exactly the same",
+          "₹500 from 17, even though she pays in less",
+          "It depends only on the total paid in"
+        ],
+        "answer": "C",
+        "explanation": "Starting at 17 grows to about ₹22 lakh, while starting at 27 grows to about ₹19 lakh, even though she pays in less. The extra 10 years of compounding outweigh the bigger monthly amount."
+      },
+      "hi": {
+        "prompt": "17 साल की ईशा अभी से हर महीने ₹500 बचा सकती है, या 27 साल की उम्र से हर महीने ₹1,000। दोनों 60 साल पर रुकते हैं। मान लें 8% सालाना (यह कोई वादा नहीं है)। आखिर में कौन-सा ज़्यादा बनेगा?",
+        "options": [
+          "27 से ₹1,000, क्योंकि उसमें वह ज़्यादा पैसे डालती है",
+          "दोनों बिल्कुल बराबर",
+          "17 से ₹500, भले ही उसमें वह कम पैसे डालती है",
+          "यह सिर्फ़ कुल डाले गए पैसों पर निर्भर करता है"
+        ],
+        "answer": "C",
+        "explanation": "17 से शुरू करने पर, कम पैसे डालने के बावजूद, लगभग ₹22 लाख बनते हैं, जबकि 27 से शुरू करने पर लगभग ₹19 लाख। कंपाउंडिंग के 10 एक्स्ट्रा साल बड़ी मासिक रकम पर भारी पड़ते हैं।"
+      },
+      "te": {
+        "prompt": "17 ఏళ్ల ఇషా ఇప్పటి నుంచి నెలకు ₹500 దాచొచ్చు, లేదా 27 ఏళ్ల నుంచి నెలకు ₹1,000 దాచొచ్చు. రెండూ 60 ఏళ్లకు ఆగుతాయి. సంవత్సరానికి 8% అనుకోండి (ఇది హామీ కాదు). చివరికి ఏది ఎక్కువ అవుతుంది?",
+        "options": [
+          "27 నుంచి ₹1,000, ఎందుకంటే అందులో ఆమె ఎక్కువ కడుతుంది",
+          "రెండూ సరిగ్గా సమానం",
+          "17 నుంచి ₹500, అందులో ఆమె తక్కువ కట్టినా సరే",
+          "కట్టిన మొత్తం మీద మాత్రమే ఆధారపడి ఉంటుంది"
+        ],
+        "answer": "C",
+        "explanation": "తక్కువ కట్టినా, 17 నుంచి మొదలుపెడితే సుమారు ₹22 లక్షలు అవుతాయి, 27 నుంచి మొదలుపెడితే సుమారు ₹19 లక్షలు. కాంపౌండింగ్‌కి దొరికిన అదనపు 10 సంవత్సరాలు, ఎక్కువ నెలవారీ మొత్తం కంటే బలంగా పనిచేస్తాయి."
+      }
+    }
+  },
+  {
+    "id": "save-savings-goals-005",
+    "pillar": "save",
+    "tags": [
+      "savings-goals"
+    ],
+    "tier": "platinum",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Kabir wants a ₹12,000 laptop. He can save ₹1,000 a month for a year, or buy now paying ₹1,200 a month for a year. What is the trade-off?",
+        "options": [
+          "Both options cost exactly ₹12,000",
+          "Saving first costs ₹2,400 more",
+          "Buying now costs only ₹200 extra",
+          "Buying now costs ₹2,400 extra; waiting costs nothing extra"
+        ],
+        "answer": "D",
+        "explanation": "Paying ₹1,200 × 12 = ₹14,400 is ₹2,400 more than the price. Saving first means waiting a year, but he pays only ₹12,000."
+      },
+      "hi": {
+        "prompt": "कबीर को ₹12,000 का लैपटॉप चाहिए। वह एक साल तक हर महीने ₹1,000 बचा सकता है, या अभी खरीदकर एक साल तक हर महीने ₹1,200 चुका सकता है। दोनों रास्तों में असली फ़र्क क्या है?",
+        "options": [
+          "दोनों में खर्च बिल्कुल ₹12,000 है",
+          "पहले बचाने पर ₹2,400 ज़्यादा लगते हैं",
+          "अभी खरीदने पर सिर्फ़ ₹200 ज़्यादा लगते हैं",
+          "अभी खरीदने पर ₹2,400 ज़्यादा लगते हैं; इंतज़ार करने पर कुछ ज़्यादा नहीं लगता"
+        ],
+        "answer": "D",
+        "explanation": "₹1,200 × 12 = ₹14,400 चुकाना कीमत से ₹2,400 ज़्यादा है। पहले बचाने का मतलब एक साल इंतज़ार है, लेकिन तब उसे सिर्फ़ ₹12,000 देने पड़ते हैं।"
+      },
+      "te": {
+        "prompt": "కబీర్‌కి ₹12,000 ల్యాప్‌టాప్ కావాలి. అతను ఒక సంవత్సరం పాటు నెలకు ₹1,000 దాచొచ్చు, లేదా ఇప్పుడే కొని ఒక సంవత్సరం పాటు నెలకు ₹1,200 కట్టొచ్చు. ఈ రెండు దారుల మధ్య అసలు తేడా ఏమిటి?",
+        "options": [
+          "రెండింటికీ సరిగ్గా ₹12,000 ఖర్చు",
+          "ముందు దాచితే ₹2,400 ఎక్కువ ఖర్చు",
+          "ఇప్పుడే కొంటే కేవలం ₹200 ఎక్కువ",
+          "ఇప్పుడే కొంటే ₹2,400 ఎక్కువ; ఆగితే ఏమీ ఎక్కువ కాదు"
+        ],
+        "answer": "D",
+        "explanation": "₹1,200 × 12 = ₹14,400, అంటే ధర కంటే ₹2,400 ఎక్కువ. ముందు దాచితే ఒక సంవత్సరం ఆగాలి, కానీ అతను కట్టేది ₹12,000 మాత్రమే."
+      }
+    }
+  },
+  {
+    "id": "save-savings-goals-006",
+    "pillar": "save",
+    "tags": [
+      "savings-goals"
+    ],
+    "tier": "diamond",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Ananya needs ₹30,000 for college fees in 2 years. She already has ₹6,000 saved. Ignoring interest, how much must she save each month?",
+        "options": [
+          "₹750",
+          "₹1,000",
+          "₹1,250",
+          "₹2,000"
+        ],
+        "answer": "B",
+        "explanation": "She still needs ₹30,000 − ₹6,000 = ₹24,000. Over 24 months that is ₹24,000 ÷ 24 = ₹1,000 a month."
+      },
+      "hi": {
+        "prompt": "अनन्या को 2 साल में कॉलेज फ़ीस के लिए ₹30,000 चाहिए। उसके पास पहले से ₹6,000 बचे हुए हैं। ब्याज को छोड़ दें, तो उसे हर महीने कितना बचाना होगा?",
+        "options": [
+          "₹750",
+          "₹1,000",
+          "₹1,250",
+          "₹2,000"
+        ],
+        "answer": "B",
+        "explanation": "उसे अभी भी ₹30,000 − ₹6,000 = ₹24,000 चाहिए। 24 महीनों में यह ₹24,000 ÷ 24 = ₹1,000 महीना है।"
+      },
+      "te": {
+        "prompt": "అనన్యకి 2 సంవత్సరాల్లో కాలేజీ ఫీజు కోసం ₹30,000 కావాలి. ఆమె దగ్గర ఇప్పటికే ₹6,000 దాచినవి ఉన్నాయి. వడ్డీని లెక్కలోకి తీసుకోకపోతే, ఆమె నెలకు ఎంత దాచాలి?",
+        "options": [
+          "₹750",
+          "₹1,000",
+          "₹1,250",
+          "₹2,000"
+        ],
+        "answer": "B",
+        "explanation": "ఆమెకి ఇంకా ₹30,000 − ₹6,000 = ₹24,000 కావాలి. 24 నెలల్లో అంటే నెలకు ₹24,000 ÷ 24 = ₹1,000."
+      }
+    }
+  },
+  {
+    "id": "save-emergency-fund-010",
+    "pillar": "save",
+    "tags": [
+      "emergency-fund",
+      "savings-goals"
+    ],
+    "tier": "diamond",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Nikhil saves ₹1,500 a month. First he builds a ₹6,000 emergency fund, then saves for a ₹9,000 course. Ignoring interest, how many months until both are done?",
+        "options": [
+          "4 months",
+          "6 months",
+          "10 months",
+          "15 months"
+        ],
+        "answer": "C",
+        "explanation": "He needs ₹6,000 + ₹9,000 = ₹15,000 in total. At ₹1,500 a month, that takes 15,000 ÷ 1,500 = 10 months."
+      },
+      "hi": {
+        "prompt": "निखिल हर महीने ₹1,500 बचाता है। पहले वह ₹6,000 का इमरजेंसी फ़ंड बनाता है, फिर ₹9,000 के कोर्स के लिए बचाता है। ब्याज को छोड़ दें, तो दोनों पूरे होने में कितने महीने लगेंगे?",
+        "options": [
+          "4 महीने",
+          "6 महीने",
+          "10 महीने",
+          "15 महीने"
+        ],
+        "answer": "C",
+        "explanation": "उसे कुल ₹6,000 + ₹9,000 = ₹15,000 चाहिए। ₹1,500 महीने के हिसाब से इसमें 15,000 ÷ 1,500 = 10 महीने लगते हैं।"
+      },
+      "te": {
+        "prompt": "నిఖిల్ నెలకు ₹1,500 దాస్తాడు. ముందు ₹6,000 ఎమర్జెన్సీ ఫండ్ కూడబెడతాడు, తర్వాత ₹9,000 కోర్సు కోసం దాస్తాడు. వడ్డీని లెక్కలోకి తీసుకోకపోతే, రెండూ పూర్తవడానికి ఎన్ని నెలలు పడుతుంది?",
+        "options": [
+          "4 నెలలు",
+          "6 నెలలు",
+          "10 నెలలు",
+          "15 నెలలు"
+        ],
+        "answer": "C",
+        "explanation": "అతనికి మొత్తం ₹6,000 + ₹9,000 = ₹15,000 కావాలి. నెలకు ₹1,500 చొప్పున, దానికి 15,000 ÷ 1,500 = 10 నెలలు పడుతుంది."
+      }
+    }
+  },
+  {
+    "id": "save-inflation-007",
+    "pillar": "save",
+    "tags": [
+      "inflation",
+      "compound-interest"
+    ],
+    "tier": "diamond",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "A coaching course costs ₹20,000 today. Fees rise 10% every year. What will it cost in 2 years? (Assume exactly 10% a year.)",
+        "options": [
+          "₹22,000",
+          "₹24,000",
+          "₹24,200",
+          "₹40,000"
+        ],
+        "answer": "C",
+        "explanation": "After 1 year: ₹20,000 + ₹2,000 = ₹22,000. After 2 years: ₹22,000 + ₹2,200 = ₹24,200, because each rise is on the new price."
+      },
+      "hi": {
+        "prompt": "एक कोचिंग कोर्स की फ़ीस आज ₹20,000 है। फ़ीस हर साल 10% बढ़ती है। 2 साल बाद यह कितने की होगी? (मान लें हर साल ठीक 10%।)",
+        "options": [
+          "₹22,000",
+          "₹24,000",
+          "₹24,200",
+          "₹40,000"
+        ],
+        "answer": "C",
+        "explanation": "1 साल बाद: ₹20,000 + ₹2,000 = ₹22,000। 2 साल बाद: ₹22,000 + ₹2,200 = ₹24,200, क्योंकि हर बढ़त नई कीमत पर होती है।"
+      },
+      "te": {
+        "prompt": "ఒక కోచింగ్ కోర్సు ఫీజు ఈ రోజు ₹20,000. ఫీజు ప్రతి సంవత్సరం 10% పెరుగుతుంది. 2 సంవత్సరాల తర్వాత అది ఎంత అవుతుంది? (సంవత్సరానికి సరిగ్గా 10% అనుకోండి.)",
+        "options": [
+          "₹22,000",
+          "₹24,000",
+          "₹24,200",
+          "₹40,000"
+        ],
+        "answer": "C",
+        "explanation": "1 సంవత్సరం తర్వాత: ₹20,000 + ₹2,000 = ₹22,000. 2 సంవత్సరాల తర్వాత: ₹22,000 + ₹2,200 = ₹24,200, ఎందుకంటే ప్రతి పెరుగుదల కొత్త ధర మీద లెక్కిస్తారు."
+      }
+    },
+    "chapter_slug": "invest-inflation"
+  },
+  {
+    "id": "save-compound-interest-009",
+    "pillar": "save",
+    "tags": [
+      "compound-interest"
+    ],
+    "tier": "diamond",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Pooja deposits ₹5,000 now and another ₹5,000 after 1 year, at 10% a year compounded yearly. How much does she have after 2 years? (Assume a fixed rate.)",
+        "options": [
+          "₹11,000",
+          "₹11,500",
+          "₹11,550",
+          "₹12,100"
+        ],
+        "answer": "C",
+        "explanation": "The first ₹5,000 grows for 2 years to ₹6,050, and the second grows for 1 year to ₹5,500. Together that is ₹11,550."
+      },
+      "hi": {
+        "prompt": "पूजा अभी ₹5,000 जमा करती है और 1 साल बाद ₹5,000 और, 10% सालाना दर पर, जिसमें ब्याज हर साल कंपाउंड होता है। 2 साल बाद उसके पास कितने होंगे? (मान लें कि दर तय है।)",
+        "options": [
+          "₹11,000",
+          "₹11,500",
+          "₹11,550",
+          "₹12,100"
+        ],
+        "answer": "C",
+        "explanation": "पहले ₹5,000 2 साल में बढ़कर ₹6,050 हो जाते हैं, और दूसरे ₹5,000 1 साल में ₹5,500। कुल मिलाकर ₹11,550।"
+      },
+      "te": {
+        "prompt": "పూజ ఇప్పుడు ₹5,000, 1 సంవత్సరం తర్వాత మరో ₹5,000 డిపాజిట్ చేస్తుంది, సంవత్సరానికి 10% రేటుకి, ఏటా కాంపౌండ్ అయ్యేలా. 2 సంవత్సరాల తర్వాత ఆమె దగ్గర ఎంత ఉంటుంది? (రేటు మారదని అనుకోండి.)",
+        "options": [
+          "₹11,000",
+          "₹11,500",
+          "₹11,550",
+          "₹12,100"
+        ],
+        "answer": "C",
+        "explanation": "మొదటి ₹5,000 2 సంవత్సరాల్లో ₹6,050 అవుతుంది, రెండో ₹5,000 1 సంవత్సరంలో ₹5,500 అవుతుంది. రెండూ కలిపి ₹11,550."
+      }
+    }
+  },
+  {
+    "id": "save-bank-accounts-008",
+    "pillar": "save",
+    "tags": [
+      "bank-accounts",
+      "simple-interest",
+      "inflation"
+    ],
+    "tier": "diamond",
+    "type": "mcq",
+    "status": "live",
+    "source": "ai",
+    "content": {
+      "en": {
+        "prompt": "Asif puts ₹10,000 in an FD at 7% simple interest for 2 years. A ₹10,000 laptop's price rises 6% each year. After 2 years, can he afford it? (Example rates.)",
+        "options": [
+          "Yes, with about ₹160 to spare",
+          "Yes, with ₹1,400 to spare",
+          "No, he is about ₹200 short",
+          "No, the laptop then costs ₹12,000"
+        ],
+        "answer": "A",
+        "explanation": "His FD becomes ₹10,000 + ₹1,400 = ₹11,400, while the laptop becomes ₹10,000 × 1.06 × 1.06 = ₹11,236. He has about ₹164 left over."
+      },
+      "hi": {
+        "prompt": "आसिफ़ ₹10,000 एक FD में 2 साल के लिए 7% साधारण ब्याज पर रखता है। ₹10,000 के एक लैपटॉप की कीमत हर साल 6% बढ़ती है। 2 साल बाद क्या वह इसे खरीद पाएगा? (ये उदाहरण की दरें हैं।)",
+        "options": [
+          "हाँ, लगभग ₹160 बचेंगे",
+          "हाँ, ₹1,400 बचेंगे",
+          "नहीं, उसके पास लगभग ₹200 कम होंगे",
+          "नहीं, तब लैपटॉप ₹12,000 का होगा"
+        ],
+        "answer": "A",
+        "explanation": "उसकी FD ₹10,000 + ₹1,400 = ₹11,400 हो जाती है, जबकि लैपटॉप ₹10,000 × 1.06 × 1.06 = ₹11,236 का हो जाता है। उसके पास लगभग ₹164 बचते हैं।"
+      },
+      "te": {
+        "prompt": "ఆసిఫ్ ₹10,000ని 7% సాధారణ వడ్డీకి 2 సంవత్సరాలు FDలో వేశాడు. ₹10,000 ల్యాప్‌టాప్ ధర ప్రతి సంవత్సరం 6% పెరుగుతుంది. 2 సంవత్సరాల తర్వాత అతను దాన్ని కొనగలడా? (ఇవి ఉదాహరణ రేట్లు.)",
+        "options": [
+          "అవును, సుమారు ₹160 మిగులుతాయి",
+          "అవును, ₹1,400 మిగులుతాయి",
+          "లేదు, సుమారు ₹200 తక్కువ పడతాయి",
+          "లేదు, అప్పటికి ల్యాప్‌టాప్ ₹12,000 అవుతుంది"
+        ],
+        "answer": "A",
+        "explanation": "అతని FD ₹10,000 + ₹1,400 = ₹11,400 అవుతుంది, ల్యాప్‌టాప్ ధర ₹10,000 × 1.06 × 1.06 = ₹11,236 అవుతుంది. అతని దగ్గర సుమారు ₹164 మిగులుతాయి."
+      }
+    }
+  }
+]
